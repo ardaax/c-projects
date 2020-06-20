@@ -1,0 +1,5 @@
+TERMPSOL.exe Inp1.txt Out1.txt BonusInp1.txt BonusOut1.txt
+TERMPSOL.exe Inp2.txt Out2.txt BonusInp2.txt BonusOut2.txt
+TERMPSOL.exe Inp3.txt Out3.txt BonusInp3.txt BonusOut3.txt
+TERMPSOL.exe Inp4.txt Out4.txt BonusInp4.txt BonusOut4.txt
+TERMPSOL.exe Inp5.txt Out5.txt BonusInp5.txt BonusOut5.txt

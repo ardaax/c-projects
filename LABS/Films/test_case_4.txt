@@ -1,0 +1,30 @@
+
+ID  Name                 Format     Show Date    Show Time    Price      Capacity
+2   The_Detail           2d         2018-10-08   06:00PM      15         3
+3   Titanic              2d         2018-05-06   04:00PM      15         12
+4   Avatar               3d         2018-10-10   11:00AM      25         24
+5   Interstellar         2d         2014-11-08   07:30PM      20         30
+7   Gravity              3d         2013-10-15   05:30PM      20         22
+
+Which operation do you choose?
+1 : Update Capacity
+2 : Add Film
+3 : Delete Film
+4 : Show Low-priced 2D Films
+> 2
+
+Film id: 6
+Name: The_Martian
+Format: 3d
+Show date: 2015-12-04
+Show time: 06:00PM
+Price: 28
+Capacity: 25
+
+ID  Name                 Format     Show Date    Show Time    Price      Capacity
+2   The_Detail           2d         2018-10-08   06:00PM      15         3
+3   Titanic              2d         2018-05-06   04:00PM      15         12
+4   Avatar               3d         2018-10-10   11:00AM      25         24
+5   Interstellar         2d         2014-11-08   07:30PM      20         30
+6   The_Martian          3d         2015-12-04   06:00PM      28         25
+7   Gravity              3d         2013-10-15   05:30PM      20         22
