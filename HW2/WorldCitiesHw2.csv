@@ -1,0 +1,2541 @@
+ID,CITY_NAME,CNTRY_NAME,STATUS,FIPS_CNTRY,POP,POP_RANK,POP_CLASS
+1,Kamphaeng Phet,Thailand,Provincial capital,TH,58787,6,50;000 to 99;999
+2,Cabinda,Angola,Provincial capital,AO,66020,6,50;000 to 99;999
+3,Phichit,Thailand,Provincial capital,TH,35760,7,Less than 50;000
+4,Onjiva,Angola,Provincial capital,AO,10169,7,Less than 50;000
+5,Kimberley,South Africa,Provincial capital,SF,142089,5,100;000 to 249;999
+6,Long Xuyen,Vietnam,Provincial capital,VM,158153,5,100;000 to 249;999
+7,Krasnoyarsk,Russia,Provincial capital,RS,927200,3,500;000 to 999;999
+8,Nakhon Sawan,Thailand,Provincial capital,TH,-999,7,Less than 50;000
+9,Hlotse,Lesotho,Provincial capital,LT,47675,7,Less than 50;000
+10,Benguela,Angola,Provincial capital,AO,151226,5,100;000 to 249;999
+11,Rach Gia,Vietnam,Provincial capital,VM,228356,5,100;000 to 249;999
+12,Tan An,Vietnam,Provincial capital,VM,64801,6,50;000 to 99;999
+13,Huambo,Angola,Provincial capital,AO,226145,5,100;000 to 249;999
+14,Saraburi,Thailand,Provincial capital,TH,-999,7,Less than 50;000
+15,Abakan,Russia,Provincial capital,RS,167289,5,100;000 to 249;999
+16,Cao Lanh,Vietnam,Provincial capital,VM,-999,7,Less than 50;000
+17,Lubango,Angola,Provincial capital,AO,102541,5,100;000 to 249;999
+18,Nakhon Nayok,Thailand,Provincial capital,TH,21309,7,Less than 50;000
+19,Bloemfontein,South Africa,Provincial capital,SF,463064,4,250;000 to 499;999
+20,Kyzyl,Russia,Provincial capital,RS,108240,5,100;000 to 249;999
+21,My Tho,Vietnam,Provincial capital,VM,122310,5,100;000 to 249;999
+22,Namibe,Angola,Provincial capital,AO,80149,6,50;000 to 99;999
+23,Pathum Thani,Thailand,Provincial capital,TH,-999,7,Less than 50;000
+24,Teyateyaneng,Lesotho,Provincial capital,LT,5115,7,Less than 50;000
+25,Vinh Long,Vietnam,Provincial capital,VM,103314,5,100;000 to 249;999
+26,Outjo,Namibia,Provincial capital,WA,6557,7,Less than 50;000
+27,Nonthaburi,Thailand,Provincial capital,TH,-999,7,Less than 50;000
+28,Ulaangom,Mongolia,Provincial capital,MG,28085,7,Less than 50;000
+29,Maseru,Lesotho,National and provincial capital,LT,118355,5,100;000 to 249;999
+30,Otjiwarongo,Namibia,Provincial capital,WA,21224,7,Less than 50;000
+31,Truc Giang,Vietnam,Provincial capital,VM,59442,6,50;000 to 99;999
+32,Moron,Mongolia,Provincial capital,MG,27690,7,Less than 50;000
+33,Bangkok,Thailand,National and provincial capital,TH,5104476,1,5;000;000 and greater
+34,Can Tho,Vietnam,Provincial capital,VM,259598,4,250;000 to 499;999
+35,Omaruru,Namibia,Provincial capital,WA,11547,7,Less than 50;000
+36,Hovd,Mongolia,Provincial capital,MG,27924,7,Less than 50;000
+37,Mafeteng,Lesotho,Provincial capital,LT,57059,6,50;000 to 99;999
+38,Tra Vinh,Vietnam,Provincial capital,VM,57408,6,50;000 to 99;999
+39,Chachoengsao,Thailand,Provincial capital,TH,49741,7,Less than 50;000
+40,Karibib,Namibia,Provincial capital,WA,6898,7,Less than 50;000
+41,Kasama,Zambia,Provincial capital,ZA,91056,6,50;000 to 99;999
+42,Soc Trang,Vietnam,Provincial capital,VM,114453,5,100;000 to 249;999
+43,Uliastay,Mongolia,Other,MG,-999,7,Less than 50;000
+44,Mohales Hoek,Lesotho,Provincial capital,LT,-999,7,Less than 50;000
+45,Sumbawanga,Tanzania,Provincial capital,TZ,89161,6,50;000 to 99;999
+46,Bac Lieu,Vietnam,Provincial capital,VM,107911,5,100;000 to 249;999
+47,Samut Prakan,Thailand,Provincial capital,TH,388920,4,250;000 to 499;999
+48,Bayanhongor,Mongolia,Provincial capital,MG,23234,7,Less than 50;000
+49,Moyeni,Lesotho,Provincial capital,LT,24130,7,Less than 50;000
+50,Mbeya,Tanzania,Provincial capital,TZ,291649,4,250;000 to 499;999
+51,Samut Sakhon,Thailand,Provincial capital,TH,63498,6,50;000 to 99;999
+52,Mansa,Zambia,Provincial capital,ZA,42277,7,Less than 50;000
+53,Lhasa,China,Provincial capital,CH,118721,5,100;000 to 249;999
+54,Xai-Xai,Mozambique,Provincial capital,MZ,127366,5,100;000 to 249;999
+55,Suchboatar,Mongolia,Provincial capital,MG,-999,7,Less than 50;000
+56,Chon Buri,Thailand,Provincial capital,TH,219164,5,100;000 to 249;999
+57,Ndola,Zambia,Provincial capital,ZA,394518,4,250;000 to 499;999
+58,Darhan,Mongolia,Provincial capital,MG,74300,6,50;000 to 99;999
+59,Chipata,Zambia,Provincial capital,ZA,85963,6,50;000 to 99;999
+60,Irkutsk,Russia,Provincial capital,RS,586695,3,500;000 to 999;999
+61,Myitkyina,Myanmar,Provincial capital,BM,90894,6,50;000 to 99;999
+62,Kabwe,Zambia,Provincial capital,ZA,188979,5,100;000 to 249;999
+63,Pretoria,South Africa,National capital,SF,1619438,2,1;000;000 to 4;999;999
+64,Prachuap Khiri Khan,Thailand,Provincial capital,TH,33521,7,Less than 50;000
+65,Ulan Ude,Russia,Provincial capital,RS,360278,4,250;000 to 499;999
+66,Lusaka,Zambia,National and provincial capital,ZA,1267440,2,1;000;000 to 4;999;999
+67,Kanchanaburi,Thailand,Provincial capital,TH,63699,6,50;000 to 99;999
+68,Bulgan,Mongolia,Provincial capital,MG,17348,7,Less than 50;000
+69,Imphal,India,Provincial capital,IN,223523,5,100;000 to 249;999
+70,Pietersburg (Polokwane),South Africa,Provincial capital,SF,123749,5,100;000 to 249;999
+71,Tete,Mozambique,Provincial capital,MZ,129316,5,100;000 to 249;999
+72,Tsetserleg,Mongolia,Provincial capital,MG,5876,7,Less than 50;000
+73,Nakhon Pathom,Thailand,Provincial capital,TH,117927,5,100;000 to 249;999
+74,Haka,Myanmar,Provincial capital,BM,-999,7,Less than 50;000
+75,Richards Bay,South Africa,Other,SF,252968,4,250;000 to 499;999
+76,Arvayheer,Mongolia,Provincial capital,MG,-999,7,Less than 50;000
+77,Aizawl,India,Provincial capital,IN,265331,4,250;000 to 499;999
+78,Butha-Buthe,Lesotho,Provincial capital,LT,16330,7,Less than 50;000
+79,Ratchaburi,Thailand,Provincial capital,TH,92448,6,50;000 to 99;999
+80,Lumumbashi,Congo; DRC,Other,CG,1373770,2,1;000;000 to 4;999;999
+81,Mokhotlong,Lesotho,Provincial capital,LT,8809,7,Less than 50;000
+82,Mandalgovi,Mongolia,Provincial capital,MG,15430,7,Less than 50;000
+83,Samut Songkhram,Thailand,Provincial capital,TH,35065,7,Less than 50;000
+84,Itanagar,India,Provincial capital,IN,44971,7,Less than 50;000
+85,Solwezi,Zambia,Provincial capital,ZA,4846,7,Less than 50;000
+86,Ust' Ordynskiy,Russia,Provincial capital,RS,14538,7,Less than 50;000
+87,Phet Buri,Thailand,Provincial capital,TH,46601,7,Less than 50;000
+88,Mongu,Zambia,Provincial capital,ZA,52534,6,50;000 to 99;999
+89,Durban,South Africa,Other,SF,3120282,2,1;000;000 to 4;999;999
+90,Dispur,India,Provincial capital,IN,-999,7,Less than 50;000
+91,Kasane,Botswana,Provincial capital,BC,9250,7,Less than 50;000
+92,Qacha's Nek,Lesotho,Provincial capital,LT,25573,7,Less than 50;000
+93,Livingstone,Zambia,Provincial capital,ZA,109203,5,100;000 to 249;999
+94,Yakutsk,Russia,Provincial capital,RS,235600,5,100;000 to 249;999
+95,Fangcheng Gang,China,Other,CH,-999,7,Less than 50;000
+96,Kohima,India,Provincial capital,IN,92113,6,50;000 to 99;999
+97,Chita,Russia,Provincial capital,RS,308500,4,250;000 to 499;999
+98,Maun,Botswana,Provincial capital,BC,49945,7,Less than 50;000
+99,Hon Gai,Vietnam,Provincial capital,VM,148066,5,100;000 to 249;999
+100,Pietermaritzburg (Ulundi),South Africa,Provincial capital,SF,750845,3,500;000 to 999;999
+101,Shillong,India,Provincial capital,IN,132842,5,100;000 to 249;999
+102,Blagoveshchensk,Russia,Provincial capital,RS,221296,5,100;000 to 249;999
+103,Francistown,Botswana,Provincial capital,BC,89979,6,50;000 to 99;999
+104,Agartala,India,Provincial capital,IN,203264,5,100;000 to 249;999
+105,Savannakhet,Laos,Provincial capital,LA,66553,6,50;000 to 99;999
+106,Choybalsan,Mongolia,Provincial capital,MG,23,7,Less than 50;000
+107,Mamoutzou,Mayotte,National and provincial capital,MF,54831,6,50;000 to 99;999
+108,Serowe,Botswana,Provincial capital,BC,47419,7,Less than 50;000
+109,Yasothon,Thailand,Provincial capital,TH,21643,7,Less than 50;000
+110,Dhaka,Bangladesh,National and provincial capital,BG,10356500,1,5;000;000 and greater
+111,Qiqihar,China,Other,CH,882364,3,500;000 to 999;999
+112,Saravan,Laos,Provincial capital,LA,5521,7,Less than 50;000
+113,Barisal,Bangladesh,Provincial capital,BG,202242,5,100;000 to 249;999
+114,Baruun Urt,Mongolia,Provincial capital,MG,15805,7,Less than 50;000
+115,Saint-Denis,Reunion,National and provincial capital,RE,137195,5,100;000 to 249;999
+116,Dalandzadgad,Mongolia,Provincial capital,MG,15093,7,Less than 50;000
+117,Masaka,Uganda,Provincial capital,UG,65373,6,50;000 to 99;999
+118,Saynshand,Mongolia,Provincial capital,MG,-999,7,Less than 50;000
+119,Ubon Ratchathani,Thailand,Provincial capital,TH,122533,5,100;000 to 249;999
+120,Harbin,China,Provincial capital,CH,3229883,2,1;000;000 to 4;999;999
+121,Bukoba,Tanzania,Provincial capital,TZ,70628,6,50;000 to 99;999
+122,Sisaket,Thailand,Provincial capital,TH,44751,7,Less than 50;000
+123,Victoria,Seychelles,National capital,SE,22881,7,Less than 50;000
+124,Huhot,China,Provincial capital,CH,774477,3,500;000 to 999;999
+125,Mwanza,Tanzania,Provincial capital,TZ,436801,4,250;000 to 499;999
+126,Champasak,Laos,Provincial capital,LA,12994,7,Less than 50;000
+127,Antsiranana,Madagascar,Provincial capital,MA,82937,6,50;000 to 99;999
+128,Yinchuan,China,Provincial capital,CH,475101,4,250;000 to 499;999
+129,Aginskoye,Russia,Provincial capital,RS,11491,7,Less than 50;000
+130,Shinyanga,Tanzania,Provincial capital,TZ,107362,5,100;000 to 249;999
+131,Attapu,Laos,Provincial capital,LA,4297,7,Less than 50;000
+132,Mahajanga,Madagascar,Provincial capital,MA,154657,5,100;000 to 249;999
+133,Xining,China,Provincial capital,CH,767531,3,500;000 to 999;999
+134,Tabora,Tanzania,Provincial capital,TZ,145292,5,100;000 to 249;999
+135,Prachin Buri,Thailand,Provincial capital,TH,32600,7,Less than 50;000
+136,Toamasina,Madagascar,Provincial capital,MA,206373,5,100;000 to 249;999
+137,Birobidzhan,Russia,Provincial capital,RS,76146,6,50;000 to 99;999
+138,Lanzhou,China,Provincial capital,CH,3200000,2,1;000;000 to 4;999;999
+139,Siemreab,Cambodia,Provincial capital,CB,85000,6,50;000 to 99;999
+140,Mbuji-Mayi,Congo; DRC,Provincial capital,CG,874761,3,500;000 to 999;999
+141,Antananarivo,Madagascar,National and provincial capital,MA,1391433,2,1;000;000 to 4;999;999
+142,Batdambang,Cambodia,Provincial capital,CB,150444,5,100;000 to 249;999
+143,Magadan,Russia,Provincial capital,RS,95282,6,50;000 to 99;999
+144,Luoyang,China,Other,CH,123144,5,100;000 to 249;999
+145,Cankuzo,Burundi,Provincial capital,BY,6585,7,Less than 50;000
+146,Rayong,Thailand,Provincial capital,TH,-999,7,Less than 50;000
+147,Rutana,Burundi,Provincial capital,BY,20893,7,Less than 50;000
+148,Bururi,Burundi,Provincial capital,BY,19740,7,Less than 50;000
+149,Okhotsk,Russia,Other,RS,5570,7,Less than 50;000
+150,Xi'an,China,Other,CH,3225812,2,1;000;000 to 4;999;999
+151,Chanthaburi,Thailand,Provincial capital,TH,99819,6,50;000 to 99;999
+152,Port Louis,Mauritius,National capital,MP,155226,5,100;000 to 249;999
+153,Makamba,Burundi,Provincial capital,BY,19642,7,Less than 50;000
+154,Kigoma,Tanzania,Provincial capital,TZ,164268,5,100;000 to 249;999
+155,Petropavloski-Kamchatskiy,Russia,Provincial capital,RS,187282,5,100;000 to 249;999
+156,Baotou,China,Other,CH,1301768,2,1;000;000 to 4;999;999
+157,Pouthisat,Cambodia,Provincial capital,CB,52476,6,50;000 to 99;999
+158,Fianarantsoa,Madagascar,Provincial capital,MA,167227,5,100;000 to 249;999
+159,Muyinga,Burundi,Provincial capital,BY,71076,6,50;000 to 99;999
+160,Khabarovsk,Russia,Provincial capital,RS,579000,3,500;000 to 999;999
+161,Trat,Thailand,Provincial capital,TH,21590,7,Less than 50;000
+162,Padang,Indonesia,Provincial capital,ID,840352,3,500;000 to 999;999
+163,Chengdu,China,Provincial capital,CH,3950437,2,1;000;000 to 4;999;999
+164,Kayanza,Burundi,Provincial capital,BY,19443,7,Less than 50;000
+165,Chongqing,China,Other,CH,3967028,2,1;000;000 to 4;999;999
+166,Krong Kaoh Kong,Cambodia,Provincial capital,CB,33134,7,Less than 50;000
+167,Yuzhno-Sakhalinsk,Russia,Provincial capital,RS,176484,5,100;000 to 249;999
+168,Bandung,Indonesia,Provincial capital,ID,1699719,2,1;000;000 to 4;999;999
+169,Ngozi,Burundi,Provincial capital,BY,21506,7,Less than 50;000
+170,Khon Kaen,Thailand,Provincial capital,TH,147579,5,100;000 to 249;999
+171,Guiyang,China,Provincial capital,CH,1171633,2,1;000;000 to 4;999;999
+172,Palana,Russia,Provincial capital,RS,3671,7,Less than 50;000
+173,Semarang,Indonesia,Provincial capital,ID,1288084,2,1;000;000 to 4;999;999
+174,Bubanza,Burundi,Provincial capital,BY,12728,7,Less than 50;000
+175,Kalasin,Thailand,Provincial capital,TH,55102,6,50;000 to 99;999
+176,Anadyr,Russia,Provincial capital,RS,10332,7,Less than 50;000
+177,Karusi,Burundi,Provincial capital,BY,10705,7,Less than 50;000
+178,Maha Sarakham,Thailand,Provincial capital,TH,51584,6,50;000 to 99;999
+179,Yogyakarta,Indonesia,Provincial capital,ID,636660,3,500;000 to 999;999
+180,Muramvya,Burundi,Provincial capital,BY,18041,7,Less than 50;000
+181,Roi Et,Thailand,Provincial capital,TH,39328,7,Less than 50;000
+182,Kunming,China,Provincial capital,CH,1023674,2,1;000;000 to 4;999;999
+183,Bujumbura,Burundi,National and provincial capital,BY,331700,4,250;000 to 499;999
+184,Majuro,Marshall Is.,National capital,RM,20500,7,Less than 50;000
+185,Chaiyaphum,Thailand,Provincial capital,TH,58350,6,50;000 to 99;999
+186,Gitega,Burundi,Provincial capital,BY,23167,7,Less than 50;000
+187,Buriram,Thailand,Provincial capital,TH,-999,7,Less than 50;000
+188,Ruyigi,Burundi,Provincial capital,BY,38458,7,Less than 50;000
+189,Nanning,China,Provincial capital,CH,803788,3,500;000 to 999;999
+190,Alice Springs,Australia,Other,AS,26188,7,Less than 50;000
+191,Palikir,Micronesia,National capital,FM,4645,7,Less than 50;000
+192,Mbarara,Uganda,Provincial capital,UG,-999,7,Less than 50;000
+193,Tarawa,Kiribati,National capital,KR,44429,7,Less than 50;000
+194,Ha Giang,Vietnam,Provincial capital,VM,32690,7,Less than 50;000
+195,Nakhon Ratchasima,Thailand,Provincial capital,TH,208781,5,100;000 to 249;999
+196,Surin,Thailand,Provincial capital,TH,46673,7,Less than 50;000
+197,Buluko,Congo; DRC,Provincial capital,CG,-999,7,Less than 50;000
+198,Perth,Australia,Provincial capital,AS,1446704,2,1;000;000 to 4;999;999
+199,Cao Bang,Vietnam,Provincial capital,VM,41112,7,Less than 50;000
+200,Ruhengeri,Rwanda,Provincial capital,RW,86685,6,50;000 to 99;999
+201,Sapporo,Japan,Provincial capital,JA,1883027,2,1;000;000 to 4;999;999
+202,Gisenyi,Rwanda,Provincial capital,RW,83623,6,50;000 to 99;999
+203,Phnum Tbeng Meanchey,Cambodia,Provincial capital,CB,24380,7,Less than 50;000
+204,Aomori,Japan,Other,JA,298394,4,250;000 to 499;999
+205,Lao Cai,Vietnam,Provincial capital,VM,36502,7,Less than 50;000
+206,Kibuye,Rwanda,Provincial capital,RW,48024,7,Less than 50;000
+207,Stoeng Treng,Cambodia,Provincial capital,CB,-999,7,Less than 50;000
+208,Sendai,Japan,Provincial capital,JA,73132,6,50;000 to 99;999
+209,Fremantle,Australia,Other,AS,-999,7,Less than 50;000
+210,Gikongoro,Rwanda,Provincial capital,RW,-999,7,Less than 50;000
+211,Kampong Thum,Cambodia,Provincial capital,CB,19951,7,Less than 50;000
+212,Cyangugu,Rwanda,Provincial capital,RW,63883,6,50;000 to 99;999
+213,Kracheh,Cambodia,Provincial capital,CB,19975,7,Less than 50;000
+214,Saipan,Northern Mariana Is.,National and provincial capital,CQ,-999,7,Less than 50;000
+215,Dalian,China,Other,CH,2035307,2,1;000;000 to 4;999;999
+216,Byumba,Rwanda,Provincial capital,RW,70593,6,50;000 to 99;999
+217,Kigali,Rwanda,National and provincial capital,RW,745261,3,500;000 to 999;999
+218,Kampong Chnang,Cambodia,Provincial capital,CB,75244,6,50;000 to 99;999
+219,West Island,Cocos Is.,National and provincial capital,CK,-999,7,Less than 50;000
+220,Gitarama,Rwanda,Provincial capital,RW,87613,6,50;000 to 99;999
+221,Hagatna,Guam,National and provincial capital,GQ,1051,7,Less than 50;000
+222,Kampong Cham,Cambodia,Provincial capital,CB,61750,6,50;000 to 99;999
+223,Kibungo,Rwanda,Provincial capital,RW,46240,7,Less than 50;000
+224,Qingdao,China,Other,CH,1642245,2,1;000;000 to 4;999;999
+225,Butare,Rwanda,Provincial capital,RW,89600,6,50;000 to 99;999
+226,Tokyo,Japan,National and provincial capital,JA,8336599,1,5;000;000 and greater
+227,Phnom Penh,Cambodia,National and provincial capital,CB,1573544,2,1;000;000 to 4;999;999
+228,Kismaayo,Somalia,Provincial capital,SO,-999,7,Less than 50;000
+229,The Settlement,Christmas I.,National and provincial capital,KT,-999,7,Less than 50;000
+230,Prey Veng,Cambodia,Provincial capital,CB,-999,7,Less than 50;000
+231,Kawasaki,Japan,Other,JA,1306785,2,1;000;000 to 4;999;999
+232,Kampong Spoe,Cambodia,Provincial capital,CB,33231,7,Less than 50;000
+233,Moshi,Tanzania,Provincial capital,TZ,156959,5,100;000 to 249;999
+234,Fuzhou,China,Provincial capital,CH,1179720,2,1;000;000 to 4;999;999
+235,Yokohama,Japan,Other,JA,3574443,2,1;000;000 to 4;999;999
+236,Arusha,Tanzania,Provincial capital,TZ,341136,4,250;000 to 499;999
+237,Tay Ninh,Vietnam,Provincial capital,VM,-999,7,Less than 50;000
+238,Pontianak,Indonesia,Provincial capital,ID,455173,4,250;000 to 499;999
+239,Xiangkhoang,Laos,Provincial capital,LA,-999,7,Less than 50;000
+240,Jambi,Indonesia,Provincial capital,ID,420323,4,250;000 to 499;999
+241,Nagoya,Japan,Provincial capital,JA,2191279,2,1;000;000 to 4;999;999
+242,Mombasa,Kenya,Provincial capital,KE,799668,3,500;000 to 999;999
+243,Taipei,China,Provincial capital,CH,7871900,1,5;000;000 and greater
+244,Muang Xaignabouri,Laos,Provincial capital,LA,-999,7,Less than 50;000
+245,Palembang,Indonesia,Provincial capital,ID,1441500,2,1;000;000 to 4;999;999
+246,Kyoto,Japan,Other,JA,1459640,2,1;000;000 to 4;999;999
+247,Wete,Tanzania,Provincial capital,TZ,26450,7,Less than 50;000
+248,T'aichung,China,Other,CH,1040725,2,1;000;000 to 4;999;999
+249,Bengkulu,Indonesia,Provincial capital,ID,309712,4,250;000 to 499;999
+250,Vientiane,Laos,National and provincial capital,LA,196731,5,100;000 to 249;999
+251,Kobe,Japan,Other,JA,1528478,2,1;000;000 to 4;999;999
+252,Tanga,Tanzania,Provincial capital,TZ,224876,5,100;000 to 249;999
+253,Nong Khai,Thailand,Provincial capital,TH,63609,6,50;000 to 99;999
+254,Osaka,Japan,Provincial capital,JA,2592413,2,1;000;000 to 4;999;999
+255,Loei,Thailand,Provincial capital,TH,35273,7,Less than 50;000
+256,Tanjungkarang-Telukbetung,Indonesia,Provincial capital,ID,800348,3,500;000 to 999;999
+257,T'ainan,China,Other,CH,764147,3,500;000 to 999;999
+258,Mkoani,Tanzania,Provincial capital,TZ,-999,7,Less than 50;000
+259,Udon Thani,Thailand,Provincial capital,TH,247231,5,100;000 to 249;999
+260,Gifu,Japan,Provincial capital,JA,397714,4,250;000 to 499;999
+261,Thai Binh,Vietnam,Provincial capital,VM,53071,6,50;000 to 99;999
+262,Lindi,Tanzania,Provincial capital,TZ,41912,7,Less than 50;000
+263,Jakarta,Indonesia,National and provincial capital,ID,8540121,1,5;000;000 and greater
+264,Kaoshsiung,China,Other,CH,-999,7,Less than 50;000
+265,Tuyen Quang,Vietnam,Provincial capital,VM,36430,7,Less than 50;000
+266,Nanjing,China,Provincial capital,CH,3087010,2,1;000;000 to 4;999;999
+267,Mtwara,Tanzania,Provincial capital,TZ,96602,6,50;000 to 99;999
+268,Yen Bai,Vietnam,Provincial capital,VM,96540,6,50;000 to 99;999
+269,Mutare,Zimbabwe,Provincial capital,ZI,184205,5,100;000 to 249;999
+270,Hefei,China,Provincial capital,CH,1388904,2,1;000;000 to 4;999;999
+271,Palu,Indonesia,Provincial capital,ID,282431,4,250;000 to 499;999
+272,Thai Nguyen,Vietnam,Provincial capital,VM,133877,5,100;000 to 249;999
+273,Viet Tri,Vietnam,Provincial capital,VM,93475,6,50;000 to 99;999
+274,Mkokotoni,Tanzania,Provincial capital,TZ,2572,7,Less than 50;000
+275,Shanghai,China,Provincial capital,CH,14608512,1,5;000;000 and greater
+276,Gweru,Zimbabwe,Provincial capital,ZI,146073,5,100;000 to 249;999
+277,Ambon,Indonesia,Provincial capital,ID,355596,4,250;000 to 499;999
+278,Masvingo,Zimbabwe,Provincial capital,ZI,76290,6,50;000 to 99;999
+279,Wuhan,China,Provincial capital,CH,4184206,2,1;000;000 to 4;999;999
+280,Hanoi,Vietnam,National capital and provincial capital enclave,VM,1431270,2,1;000;000 to 4;999;999
+281,Koani,Tanzania,Provincial capital,TZ,2311,7,Less than 50;000
+282,Kendari,Indonesia,Provincial capital,ID,-999,7,Less than 50;000
+283,Hoa Binh,Vietnam,Provincial capital,VM,105260,5,100;000 to 249;999
+284,Ninh Binh,Vietnam,Provincial capital,VM,36864,7,Less than 50;000
+285,Hangzhou,China,Provincial capital,CH,1878129,2,1;000;000 to 4;999;999
+286,Moroni,Comoros,National capital,CN,42872,7,Less than 50;000
+287,Zanzibar,Tanzania,Provincial capital,TZ,403658,4,250;000 to 499;999
+288,Makassar,Indonesia,Other,ID,1321717,2,1;000;000 to 4;999;999
+289,Thanh Hoa,Vietnam,Provincial capital,VM,112473,5,100;000 to 249;999
+290,Dodoma,Tanzania,Provincial capital,TZ,180541,5,100;000 to 249;999
+291,Lang Son,Vietnam,Provincial capital,VM,-999,7,Less than 50;000
+292,Pemba,Mozambique,Provincial capital,MZ,108737,5,100;000 to 249;999
+293,Kibaha,Tanzania,Provincial capital,TZ,23651,7,Less than 50;000
+294,Nanchang,China,Provincial capital,CH,1871351,2,1;000;000 to 4;999;999
+295,Dili,Timor Leste,National capital,TT,150000,5,100;000 to 249;999
+296,Phu Lang Thuong,Vietnam,Provincial capital,VM,53728,6,50;000 to 99;999
+297,Changsha,China,Provincial capital,CH,2073938,2,1;000;000 to 4;999;999
+298,Hai Duong,Vietnam,Provincial capital,VM,58030,6,50;000 to 99;999
+299,Mocambique,Mozambique,Other,MZ,-999,7,Less than 50;000
+300,Dar es Salaam,Tanzania,National and provincial capital,TZ,2698652,2,1;000;000 to 4;999;999
+301,Darwin,Australia,Provincial capital,AS,93080,6,50;000 to 99;999
+302,Haiphong,Vietnam,Other,VM,602695,3,500;000 to 999;999
+303,Guangzhou,China,Other,CH,3152825,2,1;000;000 to 4;999;999
+304,Harare,Zimbabwe,National and provincial capital,ZI,1542813,2,1;000;000 to 4;999;999
+305,Birdum,Australia,Other,AS,-999,7,Less than 50;000
+306,Morogoro,Tanzania,Provincial capital,TZ,250902,4,250;000 to 499;999
+307,Dong Ha,Vietnam,Provincial capital,VM,17662,7,Less than 50;000
+308,Samarinda,Indonesia,Provincial capital,ID,355160,4,250;000 to 499;999
+309,Iringa,Tanzania,Provincial capital,TZ,111820,5,100;000 to 249;999
+310,Shenyang,China,Other,CH,3512192,2,1;000;000 to 4;999;999
+311,Songea,Tanzania,Provincial capital,TZ,126449,5,100;000 to 249;999
+312,Chimoio,Mozambique,Provincial capital,MZ,256936,4,250;000 to 499;999
+313,Hue,Vietnam,Provincial capital,VM,287217,4,250;000 to 499;999
+314,Balikpapan,Indonesia,Other,ID,433866,4,250;000 to 499;999
+315,Anshan,China,Other,CH,1199275,2,1;000;000 to 4;999;999
+316,Kisumu,Kenya,Provincial capital,KE,216479,5,100;000 to 249;999
+317,Bulawayo,Zimbabwe,Other,ZI,699385,3,500;000 to 999;999
+318,Da Nang,Vietnam,Provincial capital,VM,752493,3,500;000 to 999;999
+319,Palangkaraya,Indonesia,Provincial capital,ID,-999,7,Less than 50;000
+320,Nakuru,Kenya,Provincial capital,KE,259903,4,250;000 to 499;999
+321,Beijing,China,National and provincial capital,CH,7480601,1,5;000;000 and greater
+322,Quang Ngai,Vietnam,Provincial capital,VM,32992,7,Less than 50;000
+323,Nyeri,Kenya,Provincial capital,KE,51084,6,50;000 to 99;999
+324,Lambarene,Gabon,Provincial capital,GB,20714,7,Less than 50;000
+325,Tangshan,China,Other,CH,1596949,2,1;000;000 to 4;999;999
+326,Bandjermasin,Indonesia,Provincial capital,ID,572837,3,500;000 to 999;999
+327,Kon Tum,Vietnam,Provincial capital,VM,47409,7,Less than 50;000
+328,Tianjin,China,Provincial capital,CH,3766207,2,1;000;000 to 4;999;999
+329,Play Cu,Vietnam,Provincial capital,VM,114225,5,100;000 to 249;999
+330,Embu,Kenya,Provincial capital,KE,34922,7,Less than 50;000
+331,Port Gentil,Gabon,Provincial capital,GB,109163,5,100;000 to 249;999
+332,Qui Nhon,Vietnam,Provincial capital,VM,210338,5,100;000 to 249;999
+333,Surabaja,Indonesia,Other,ID,2374658,2,1;000;000 to 4;999;999
+334,Mouila,Gabon,Provincial capital,GB,22469,7,Less than 50;000
+335,Lumphat,Cambodia,Provincial capital,CB,19205,7,Less than 50;000
+336,Shijiazhuang,China,Other,CH,1992474,2,1;000;000 to 4;999;999
+337,Nairobi,Kenya,National and provincial capital,KE,2750547,2,1;000;000 to 4;999;999
+338,Tuy Hoa,Vietnam,Provincial capital,VM,69596,6,50;000 to 99;999
+339,Taiyuan,China,Provincial capital,CH,2722475,2,1;000;000 to 4;999;999
+340,Musoma,Tanzania,Provincial capital,TZ,121119,5,100;000 to 249;999
+341,Tchibanga,Gabon,Provincial capital,GB,19365,7,Less than 50;000
+342,Mataram,Indonesia,Provincial capital,ID,318674,4,250;000 to 499;999
+343,Singida,Tanzania,Provincial capital,TZ,62432,6,50;000 to 99;999
+344,Buon Me Thuot,Vietnam,Provincial capital,VM,146975,5,100;000 to 249;999
+345,Jinan,China,Provincial capital,CH,2069266,2,1;000;000 to 4;999;999
+346,Mzuzu,Malawi,Provincial capital,MI,-999,7,Less than 50;000
+347,Luena,Angola,Provincial capital,AO,21115,7,Less than 50;000
+348,Denpasar,Indonesia,Provincial capital,ID,405923,4,250;000 to 499;999
+349,Senmonorom,Cambodia,Provincial capital,CB,7944,7,Less than 50;000
+350,Zhengzhou,China,Other,CH,2014125,2,1;000;000 to 4;999;999
+351,Kuito,Angola,Provincial capital,AO,113624,5,100;000 to 249;999
+352,Nha Trang,Vietnam,Provincial capital,VM,283441,4,250;000 to 499;999
+353,Lichinga,Mozambique,Provincial capital,MZ,109839,5,100;000 to 249;999
+354,Kupang,Indonesia,Provincial capital,ID,282396,4,250;000 to 499;999
+355,Da Lat,Vietnam,Provincial capital,VM,131377,5,100;000 to 249;999
+356,Vladivostok,Russia,Provincial capital,RS,587022,3,500;000 to 999;999
+357,Menongue,Angola,Provincial capital,AO,-999,7,Less than 50;000
+358,Toliara,Madagascar,Provincial capital,MA,115319,5,100;000 to 249;999
+359,Jayapura,Indonesia,Provincial capital,ID,134895,5,100;000 to 249;999
+360,Lilongwe,Malawi,National and provincial capital,MI,646750,3,500;000 to 999;999
+361,Kemaman Harbor,Malaysia,Other,MY,-999,7,Less than 50;000
+362,Ch'ongjin,North Korea,Provincial capital,KN,327000,4,250;000 to 499;999
+363,Nampula,Mozambique,Provincial capital,MZ,388526,4,250;000 to 499;999
+364,Inhambane,Mozambique,Provincial capital,MZ,73884,6,50;000 to 99;999
+365,Blantyre,Malawi,Provincial capital,MI,584877,3,500;000 to 999;999
+366,Vanimo,Papua New Guinea,Provincial capital,PP,11204,7,Less than 50;000
+367,Kuantan New Port,Malaysia,Other,MY,366229,4,250;000 to 499;999
+368,Taejon,South Korea,Provincial capital,KS,1475221,2,1;000;000 to 4;999;999
+369,Tsumeb,Namibia,Provincial capital,WA,12190,7,Less than 50;000
+370,Phan Thiet,Vietnam,Provincial capital,VM,160652,5,100;000 to 249;999
+371,Quelimane,Mozambique,Provincial capital,MZ,188964,5,100;000 to 249;999
+372,Otavi,Namibia,Provincial capital,WA,4562,7,Less than 50;000
+373,Chonju,South Korea,Provincial capital,KS,711424,3,500;000 to 999;999
+374,Kuala Terengganu,Malaysia,Provincial capital,MY,285065,4,250;000 to 499;999
+375,Wewak,Papua New Guinea,Provincial capital,PP,18230,7,Less than 50;000
+376,Ghanzi,Botswana,Provincial capital,BC,-999,7,Less than 50;000
+377,Beira,Mozambique,Provincial capital,MZ,530604,3,500;000 to 999;999
+378,Kuala Lipis,Malaysia,Provincial capital,MY,15448,7,Less than 50;000
+379,Okahandja,Namibia,Provincial capital,WA,20879,7,Less than 50;000
+380,Pusan,South Korea,Provincial capital enclave,KS,3678555,2,1;000;000 to 4;999;999
+381,Piggs Peak,Swaziland,Provincial capital,WZ,5750,7,Less than 50;000
+382,Gobabis,Namibia,Provincial capital,WA,16321,7,Less than 50;000
+383,Madang,Papua New Guinea,Provincial capital,PP,27419,7,Less than 50;000
+384,Kuala Lumpur,Malaysia,National and provincial capital,MY,1453975,2,1;000;000 to 4;999;999
+385,Swakopmund,Namibia,Provincial capital,WA,25047,7,Less than 50;000
+386,Kwangju,South Korea,Provincial capital enclave,KS,1416938,2,1;000;000 to 4;999;999
+387,Maputo,Mozambique,National and provincial capital,MZ,1191613,2,1;000;000 to 4;999;999
+388,Wabag,Papua New Guinea,Provincial capital,PP,3958,7,Less than 50;000
+389,Taegu,South Korea,Provincial capital enclave,KS,2566540,2,1;000;000 to 4;999;999
+390,Walvis Bay,Namibia,Other,WA,52058,6,50;000 to 99;999
+391,Shah Alam,Malaysia,Provincial capital,MY,481654,4,250;000 to 499;999
+392,Kingston,Norfolk I.,National and provincial capital,NF,-999,7,Less than 50;000
+393,Wonsan,North Korea,Provincial capital,KN,329207,4,250;000 to 499;999
+394,Kuching,Malaysia,Provincial capital,MY,570407,3,500;000 to 999;999
+395,Mbabane,Swaziland,National capital,WZ,76218,6,50;000 to 99;999
+396,Luderitz,Namibia,Provincial capital,WA,15137,7,Less than 50;000
+397,Hastings,New Zealand,Provincial capital,NZ,61696,6,50;000 to 99;999
+398,P'yongyang,North Korea,National and provincial capital,KN,3222000,2,1;000;000 to 4;999;999
+399,Seremban,Malaysia,Provincial capital,MY,372917,4,250;000 to 499;999
+400,Cape Town,South Africa,Provincial capital,SF,3433441,2,1;000;000 to 4;999;999
+401,Siteki,Swaziland,Provincial capital,WZ,6152,7,Less than 50;000
+402,Wanganui,New Zealand,Provincial capital,NZ,40268,7,Less than 50;000
+403,Sariwon,North Korea,Provincial capital,KN,154942,5,100;000 to 249;999
+404,Windhoek,Namibia,National and provincial capital,WA,268132,4,250;000 to 499;999
+405,Melaka,Malaysia,Provincial capital,MY,180671,5,100;000 to 249;999
+406,Manzini,Swaziland,Provincial capital,WZ,110537,5,100;000 to 249;999
+407,Rehoboth,Namibia,Provincial capital,WA,21377,7,Less than 50;000
+408,Wellington,New Zealand,National and provincial capital,NZ,381900,4,250;000 to 499;999
+409,Haeju,North Korea,Provincial capital,KN,222396,5,100;000 to 249;999
+410,Mariental,Namibia,Provincial capital,WA,13380,7,Less than 50;000
+411,Johor Baharu,Malaysia,Provincial capital,MY,802489,3,500;000 to 999;999
+412,Hlatikulu,Swaziland,Provincial capital,WZ,2748,7,Less than 50;000
+413,Maltahohe,Namibia,Provincial capital,WA,2329,7,Less than 50;000
+414,Rockhampton,Australia,Other,AS,65850,6,50;000 to 99;999
+415,Kaesong,North Korea,Provincial capital,KN,338155,4,250;000 to 499;999
+416,Pekanbaru,Indonesia,Provincial capital,ID,-999,7,Less than 50;000
+417,Port Elizabeth,South Africa,Other,SF,967677,3,500;000 to 999;999
+418,Brisbane,Australia,Provincial capital,AS,958504,3,500;000 to 999;999
+419,Tsabong,Botswana,Provincial capital,BC,-999,7,Less than 50;000
+420,Ch'unch'on,South Korea,Provincial capital,KS,209746,5,100;000 to 249;999
+421,Bethanien,Namibia,Provincial capital,WA,10363,7,Less than 50;000
+422,Singapore,Singapore,National capital,SN,3547809,2,1;000;000 to 4;999;999
+423,Newcastle,Australia,Other,AS,497955,4,250;000 to 499;999
+424,Nelspruit,South Africa,Provincial capital,SF,110159,5,100;000 to 249;999
+425,Keetmanshoop,Namibia,Provincial capital,WA,15608,7,Less than 50;000
+426,Mochudi,Botswana,Provincial capital,BC,-999,7,Less than 50;000
+427,Pattani,Thailand,Provincial capital,TH,-999,7,Less than 50;000
+428,Inch`on,South Korea,Other,KS,2628000,2,1;000;000 to 4;999;999
+429,Karasburg,Namibia,Provincial capital,WA,6054,7,Less than 50;000
+430,Molepolole,Botswana,Provincial capital,BC,63248,6,50;000 to 99;999
+431,Sydney,Australia,Other,AS,4394576,2,1;000;000 to 4;999;999
+432,Yala,Thailand,Provincial capital,TH,93558,6,50;000 to 99;999
+433,Bandundu,Congo; DRC,Provincial capital,CG,118211,5,100;000 to 249;999
+434,Narathiwat,Thailand,Provincial capital,TH,47771,7,Less than 50;000
+435,Ch'ungju,South Korea,Provincial capital,KS,634596,3,500;000 to 999;999
+436,Gaborone,Botswana,National capital,BC,208411,5,100;000 to 249;999
+437,Adelaide,Australia,Provincial capital,AS,1074159,2,1;000;000 to 4;999;999
+438,Kanye,Botswana,Provincial capital,BC,44716,7,Less than 50;000
+439,Brazzaville,Congo,National capital,CF,1284609,2,1;000;000 to 4;999;999
+440,Kota Baharu,Malaysia,Provincial capital,MY,279316,4,250;000 to 499;999
+441,Lobatse,Botswana,Provincial capital,BC,30883,7,Less than 50;000
+442,Kinkala,Congo,Provincial capital,CF,13882,7,Less than 50;000
+443,Seoul,South Korea,National capital and provincial capital enclave,KS,10349312,1,5;000;000 and greater
+444,Svay Rieng,Cambodia,Provincial capital,CB,-999,7,Less than 50;000
+445,Canberra,Australia,National and provincial capital,AS,327700,4,250;000 to 499;999
+446,Takev,Cambodia,Provincial capital,CB,-999,7,Less than 50;000
+447,Johannesburg,South Africa,Provincial capital,SF,2026469,2,1;000;000 to 4;999;999
+448,Kananga,Congo; DRC,Provincial capital,CG,463546,4,250;000 to 499;999
+449,Changchun,China,Provincial capital,CH,2537421,2,1;000;000 to 4;999;999
+450,Melbourne,Australia,Other,AS,3730206,2,1;000;000 to 4;999;999
+451,Thu Dau Mot,Vietnam,Provincial capital,VM,-999,7,Less than 50;000
+452,Jilin,China,Other,CH,1881977,2,1;000;000 to 4;999;999
+453,East London,South Africa,Other,SF,-999,7,Less than 50;000
+454,Bien Hoa,Vietnam,Provincial capital,VM,407208,4,250;000 to 499;999
+455,Fushun,China,Provincial capital,CH,1400646,2,1;000;000 to 4;999;999
+456,Kahemba,Congo; DRC,Other,CG,-999,7,Less than 50;000
+457,Hobart,Australia,Provincial capital,AS,47700,7,Less than 50;000
+458,Bisho,South Africa,Provincial capital,SF,137287,5,100;000 to 249;999
+459,Ho Chi Minh City,Vietnam,Other,VM,3467331,2,1;000;000 to 4;999;999
+460,Hyesan,North Korea,Provincial capital,KN,97794,6,50;000 to 99;999
+461,Lucapa,Angola,Provincial capital,AO,20115,7,Less than 50;000
+462,Mount Hagen,Papua New Guinea,Provincial capital,PP,33623,7,Less than 50;000
+463,Kanggye,North Korea,Provincial capital,KN,209530,5,100;000 to 249;999
+464,Kampot,Cambodia,Provincial capital,CB,22691,7,Less than 50;000
+465,Saurimo,Angola,Provincial capital,AO,40498,7,Less than 50;000
+466,MMabatho (Mafikeng),South Africa,Provincial capital,SF,76754,6,50;000 to 99;999
+467,Sinuiju,North Korea,Provincial capital,KN,288112,4,250;000 to 499;999
+468,Hamhung,North Korea,Provincial capital,KN,559056,3,500;000 to 999;999
+469,Kundiawa,Papua New Guinea,Provincial capital,PP,9383,7,Less than 50;000
+470,Kinshasa,Congo; DRC,National and provincial capital,CG,7785965,1,5;000;000 and greater
+471,Sin-Ni,North Korea,Provincial capital,KN,-999,7,Less than 50;000
+472,Goroka,Papua New Guinea,Provincial capital,PP,18503,7,Less than 50;000
+473,Matadi,Congo; DRC,Provincial capital,CG,180109,5,100;000 to 249;999
+474,Kita Kyushu,Japan,Other,JA,997536,3,500;000 to 999;999
+475,Mendi,Papua New Guinea,Provincial capital,PP,26252,7,Less than 50;000
+476,Mbanza Congo,Angola,Provincial capital,AO,24220,7,Less than 50;000
+477,Fukuoka,Japan,Provincial capital,JA,1392289,2,1;000;000 to 4;999;999
+478,Uige,Angola,Provincial capital,AO,60008,6,50;000 to 99;999
+479,Kerema,Papua New Guinea,Provincial capital,PP,5646,7,Less than 50;000
+480,Caxito,Angola,Provincial capital,AO,28224,7,Less than 50;000
+481,Cheju,South Korea,Provincial capital,KS,329068,4,250;000 to 499;999
+482,Luanda,Angola,National and provincial capital,AO,2776168,2,1;000;000 to 4;999;999
+483,Daru,Papua New Guinea,Provincial capital,PP,15214,7,Less than 50;000
+484,Ndalatando,Angola,Provincial capital,AO,-999,7,Less than 50;000
+485,Nagasaki,Japan,Other,JA,410204,4,250;000 to 499;999
+486,Cairns,Australia,Other,AS,154225,5,100;000 to 249;999
+487,Malange,Angola,Provincial capital,AO,87046,6,50;000 to 99;999
+488,Naha,Japan,Provincial capital,JA,300795,4,250;000 to 499;999
+489,Townsville,Australia,Other,AS,138954,5,100;000 to 249;999
+490,Ngunza,Angola,Provincial capital,AO,33277,7,Less than 50;000
+491,Kowloon,China,Other,CH,-999,7,Less than 50;000
+492,Owando,Congo,Provincial capital,CF,23952,7,Less than 50;000
+493,Lorengau,Papua New Guinea,Provincial capital,PP,5806,7,Less than 50;000
+494,Hong Kong,China,Other,CH,7012738,1,5;000;000 and greater
+495,Kavieng,Papua New Guinea,Provincial capital,PP,14490,7,Less than 50;000
+496,Kaulomoutou,Gabon,Provincial capital,GB,-999,7,Less than 50;000
+497,Macau,China,Other,CH,520400,3,500;000 to 999;999
+498,Masuku,Gabon,Provincial capital,GB,-999,7,Less than 50;000
+499,Rabaul,Papua New Guinea,Provincial capital,PP,8074,7,Less than 50;000
+500,Djambala,Congo,Provincial capital,CF,9650,7,Less than 50;000
+501,Quezon City,Philippines,Other,RP,-999,7,Less than 50;000
+502,Sibiti,Congo,Provincial capital,CF,19089,7,Less than 50;000
+503,Kimbe,Papua New Guinea,Provincial capital,PP,18847,7,Less than 50;000
+504,Madingou,Congo,Provincial capital,CF,22760,7,Less than 50;000
+505,Manila,Philippines,National and provincial capital,RP,10444527,1,5;000;000 and greater
+506,Arawa,Papua New Guinea,Provincial capital,PP,40266,7,Less than 50;000
+507,Loubomo,Congo,Provincial capital,CF,103894,5,100;000 to 249;999
+508,Kota Kinabalu,Malaysia,Provincial capital,MY,457326,4,250;000 to 499;999
+509,Lae,Papua New Guinea,Provincial capital,PP,76255,6,50;000 to 99;999
+510,Pointe Noire,Congo,Other,CF,659084,3,500;000 to 999;999
+511,Popondetta,Papua New Guinea,Provincial capital,PP,28198,7,Less than 50;000
+512,Bandar Seri Begawan,Brunei,National capital,BX,64409,6,50;000 to 99;999
+513,Alotau,Papua New Guinea,Provincial capital,PP,-999,7,Less than 50;000
+514,Tiksi,Russia,Other,RS,5700,7,Less than 50;000
+515,Uttyakh,Russia,Other,RS,-999,7,Less than 50;000
+516,Port Moresby,Papua New Guinea,National capital and provincial capital enclave,PP,283733,4,250;000 to 499;999
+517,Chatanga,Russia,Other,RS,-999,7,Less than 50;000
+518,Funafuti,Tuvalu,National capital,TV,4749,7,Less than 50;000
+519,Ulaanbaatar,Mongolia,National and provincial capital,MG,844818,3,500;000 to 999;999
+520,Honiara,Solomon Is.,National capital,BP,56298,6,50;000 to 99;999
+521,Dzuunmod,Mongolia,Provincial capital,MG,17738,7,Less than 50;000
+522,Port Vila,Vanuatu,National capital,NH,35901,7,Less than 50;000
+523,Ondorhaan,Mongolia,Provincial capital,MG,14723,7,Less than 50;000
+524,Suva,Fiji,National capital,FJ,77366,6,50;000 to 99;999
+525,Tura,Russia,Provincial capital,RS,5444,7,Less than 50;000
+526,Noumea,New Caledonia,National and provincial capital,NC,93060,6,50;000 to 99;999
+527,Altay,Mongolia,Provincial capital,MG,-999,7,Less than 50;000
+528,Yaren,Nauru,National capital,NR,-999,7,Less than 50;000
+529,Whangarei,New Zealand,Provincial capital,NZ,50900,6,50;000 to 99;999
+530,Auckland,New Zealand,Provincial capital,NZ,417910,4,250;000 to 499;999
+531,Tauranga,New Zealand,Provincial capital,NZ,110338,5,100;000 to 249;999
+532,Hamilton,New Zealand,Provincial capital,NZ,152641,5,100;000 to 249;999
+533,Gisborne,New Zealand,Provincial capital,NZ,34274,7,Less than 50;000
+534,New Plymouth,New Zealand,Provincial capital,NZ,49168,7,Less than 50;000
+535,Nelson,New Zealand,Provincial capital,NZ,-999,7,Less than 50;000
+536,Greymouth,New Zealand,Provincial capital,NZ,9419,7,Less than 50;000
+537,Christchurch,New Zealand,Provincial capital,NZ,363926,4,250;000 to 499;999
+538,Dunedin,New Zealand,Provincial capital,NZ,114347,5,100;000 to 249;999
+539,Invercargill,New Zealand,Provincial capital,NZ,47287,7,Less than 50;000
+540,Juba,South Sudan,National and provincial capital,OD,300000,4,250;000 to 499;999
+541,Cuiaba,Brazil,Provincial capital,BR,521934,3,500;000 to 999;999
+542,Frankfort,United States,Provincial capital,US,16315,7,Less than 50;000
+543,Nashville,United States,Provincial capital,US,530852,3,500;000 to 999;999
+544,Brasilia,Brazil,National and provincial capital,BR,2207718,2,1;000;000 to 4;999;999
+545,Goiania,Brazil,Provincial capital,BR,1171195,2,1;000;000 to 4;999;999
+546,Charleston,United States,Provincial capital,US,19399,7,Less than 50;000
+547,Campo Grande,Brazil,Provincial capital,BR,729151,3,500;000 to 999;999
+548,Charlotte,United States,Other,US,598351,3,500;000 to 999;999
+549,Pedro Juan Caballero,Paraguay,Provincial capital,PA,-999,7,Less than 50;000
+550,Columbia,United States,Provincial capital,US,33641,7,Less than 50;000
+551,Salto del Guaira,Paraguay,Provincial capital,PA,7385,7,Less than 50;000
+552,Atlanta,United States,Provincial capital,US,422908,4,250;000 to 499;999
+553,Puerto Presidente Stroessner,Paraguay,Provincial capital,PA,-999,7,Less than 50;000
+554,Baltimore,United States,Other,US,610892,3,500;000 to 999;999
+555,Encarnacion,Paraguay,Provincial capital,PA,74983,6,50;000 to 99;999
+556,Dover,United States,Provincial capital,US,18717,7,Less than 50;000
+557,Annapolis,United States,Provincial capital,US,36252,7,Less than 50;000
+558,Posadas,Argentina,Provincial capital,AR,312060,4,250;000 to 499;999
+559,Washington D.C.,United States,National and provincial capital,US,552433,3,500;000 to 999;999
+560,Puerto Maldonado,Peru,Provincial capital,PE,37543,7,Less than 50;000
+561,Richmond,United States,Provincial capital,US,30697,7,Less than 50;000
+562,Cuzco,Peru,Provincial capital,PE,312140,4,250;000 to 499;999
+563,Norfolk,United States,Other,US,10386,7,Less than 50;000
+564,Abancay,Peru,Provincial capital,PE,55111,6,50;000 to 99;999
+565,Raleigh,United States,Provincial capital,US,276093,4,250;000 to 499;999
+566,Puno,Peru,Provincial capital,PE,116552,5,100;000 to 249;999
+567,Brooklyn,United States,Other,US,11037,7,Less than 50;000
+568,Arequipa,Peru,Provincial capital,PE,841130,3,500;000 to 999;999
+569,Chester,United States,Other,US,19621,7,Less than 50;000
+570,Rochester,United States,Other,US,211354,5,100;000 to 249;999
+571,La Paz,Bolivia,National and provincial capital,BL,812799,3,500;000 to 999;999
+572,Albany,United States,Provincial capital,US,75794,6,50;000 to 99;999
+573,Mata-Utu,Wallis & Futuna,National and provincial capital,WF,-999,7,Less than 50;000
+574,Newark,United States,Other,US,280123,4,250;000 to 499;999
+575,Apia,Samoa,National capital,WS,40407,7,Less than 50;000
+576,New York,United States,Other,US,8008278,1,5;000;000 and greater
+577,Harrisburg,United States,Provincial capital,US,47840,7,Less than 50;000
+578,Pago Pago,American Samoa,National and provincial capital,AQ,4196,7,Less than 50;000
+579,Trenton,United States,Provincial capital,US,84833,6,50;000 to 99;999
+580,Papeete,French Polynesia,National and provincial capital,FP,26357,7,Less than 50;000
+581,Philadelphia,United States,Other,US,1517550,2,1;000;000 to 4;999;999
+582,Alofi,Niue,National and provincial capital,NE,624,7,Less than 50;000
+583,Augusta,United States,Provincial capital,US,18560,7,Less than 50;000
+584,Nuku' alofa,Tonga,National capital,TN,22400,7,Less than 50;000
+585,Montpelier,United States,Provincial capital,US,7828,7,Less than 50;000
+586,Avarua,Cook Is.,National and provincial capital,CW,13373,7,Less than 50;000
+587,Concord,United States,Provincial capital,US,16810,7,Less than 50;000
+588,Adamstown,Pitcairn Is.,National and provincial capital,PC,1281,7,Less than 50;000
+589,Boston,United States,Provincial capital,US,589141,3,500;000 to 999;999
+590,Tarija,Bolivia,Provincial capital,BL,159269,5,100;000 to 249;999
+591,Puerto Aisen,Chile,Provincial capital,CI,-999,7,Less than 50;000
+592,Providence,United States,Provincial capital,US,177595,5,100;000 to 249;999
+593,Concepcion,Paraguay,Provincial capital,PA,48123,7,Less than 50;000
+594,Comodoro Rivadavia,Argentina,Other,AR,140850,5,100;000 to 249;999
+595,Hartford,United States,Provincial capital,US,12525,7,Less than 50;000
+596,Rio Gallegos,Argentina,Provincial capital,AR,85700,6,50;000 to 99;999
+597,Pozo Colorado,Paraguay,Provincial capital,PA,-999,7,Less than 50;000
+598,Caracas,Venezuela,National and provincial capital,VE,1815679,2,1;000;000 to 4;999;999
+599,Stanley,Falkland Is.,National and provincial capital,FK,2213,7,Less than 50;000
+600,San Pedro,Paraguay,Provincial capital,PA,-999,7,Less than 50;000
+601,Los Teques,Venezuela,Provincial capital,VE,-999,7,Less than 50;000
+602,Punta Arenas,Chile,Other,CI,117430,5,100;000 to 249;999
+603,Asuncion,Paraguay,National capital,PA,1482200,2,1;000;000 to 4;999;999
+604,Barcelona,Venezuela,Provincial capital,VE,424795,4,250;000 to 499;999
+605,Ushuaia,Argentina,Provincial capital,AR,58028,6,50;000 to 99;999
+606,Artigas,Uruguay,Provincial capital,UY,41909,7,Less than 50;000
+607,San Juan De Los Morros,Venezuela,Provincial capital,VE,87739,6,50;000 to 99;999
+608,San Fernando,Chile,Provincial capital,CI,-999,7,Less than 50;000
+609,Santa Fe,Argentina,Provincial capital,AR,468632,4,250;000 to 499;999
+610,Ciudad Bolivar,Venezuela,Provincial capital,VE,338000,4,250;000 to 499;999
+611,Parana,Argentina,Provincial capital,AR,262295,4,250;000 to 499;999
+612,Talca,Chile,Provincial capital,CI,197479,5,100;000 to 249;999
+613,San Fernado de Apure,Venezuela,Provincial capital,VE,78779,6,50;000 to 99;999
+614,Rosario,Argentina,Other,AR,1173533,2,1;000;000 to 4;999;999
+615,Concepcion,Chile,Provincial capital,CI,215413,5,100;000 to 249;999
+616,Puerto Carreno,Colombia,Provincial capital,CO,10216,7,Less than 50;000
+617,La Plata,Argentina,Provincial capital,AR,694167,3,500;000 to 999;999
+618,Temuco,Chile,Provincial capital,CI,238129,5,100;000 to 249;999
+619,Boa Vista,Brazil,Provincial capital,BR,235150,5,100;000 to 249;999
+620,San Jose De Mayo,Uruguay,Provincial capital,UY,36529,7,Less than 50;000
+621,Neuquen,Argentina,Provincial capital,AR,242092,5,100;000 to 249;999
+622,Puerto La Cruz,Venezuela,Other,VE,370000,4,250;000 to 499;999
+623,Colonia del Sacramento,Uruguay,Provincial capital,UY,21714,7,Less than 50;000
+624,Puerto Montt,Chile,Provincial capital,CI,160054,5,100;000 to 249;999
+625,La Asuncion,Venezuela,Provincial capital,VE,35084,7,Less than 50;000
+626,Canelones,Uruguay,Provincial capital,UY,19698,7,Less than 50;000
+627,Antofagasta,Chile,Provincial capital,CI,309832,4,250;000 to 499;999
+628,Santa Rosa,Argentina,Provincial capital,AR,111424,5,100;000 to 249;999
+629,Port of Spain,Trinidad & Tobago,National capital,TD,49657,7,Less than 50;000
+630,Copiapo,Chile,Provincial capital,CI,129280,5,100;000 to 249;999
+631,Bahia Blanca,Argentina,Other,AR,276546,4,250;000 to 499;999
+632,Cumana,Venezuela,Provincial capital,VE,257783,4,250;000 to 499;999
+633,Maturin,Venezuela,Provincial capital,VE,410972,4,250;000 to 499;999
+634,La Serena,Chile,Provincial capital,CI,154521,5,100;000 to 249;999
+635,Viedma,Argentina,Provincial capital,AR,48940,7,Less than 50;000
+636,San Juan,Argentina,Provincial capital,AR,447048,4,250;000 to 499;999
+637,Tucupita,Venezuela,Provincial capital,VE,51534,6,50;000 to 99;999
+638,Mendoza,Argentina,Provincial capital,AR,876884,3,500;000 to 999;999
+639,Rawson,Argentina,Provincial capital,AR,26335,7,Less than 50;000
+640,Georgetown,Guyana,National capital,GY,235017,5,100;000 to 249;999
+641,Valparaiso,Chile,Provincial capital,CI,282448,4,250;000 to 499;999
+642,Buenos Aires,Argentina,National and provincial capital,AR,13076300,1,5;000;000 and greater
+643,Nieuw Nickerie,Suriname,Provincial capital,NS,13143,7,Less than 50;000
+644,Santiago,Chile,National and provincial capital,CI,4837295,2,1;000;000 to 4;999;999
+645,San Salvador De Jujuy,Argentina,Provincial capital,AR,305891,4,250;000 to 499;999
+646,Totness,Suriname,Provincial capital,NS,1685,7,Less than 50;000
+647,Coquimbo,Chile,Other,CI,161317,5,100;000 to 249;999
+648,Salta,Argentina,Provincial capital,AR,512686,3,500;000 to 999;999
+649,Road Town,British Virgin Is.,National and provincial capital,VI,8449,7,Less than 50;000
+650,Portoviejo,Ecuador,Provincial capital,EC,170326,5,100;000 to 249;999
+651,San Miguel De Tucuman,Argentina,Provincial capital,AR,781023,3,500;000 to 999;999
+652,San Juan,Puerto Rico,National and provincial capital,RQ,418140,4,250;000 to 499;999
+653,Guaranda,Ecuador,Provincial capital,EC,22199,7,Less than 50;000
+654,Charlotte Amalie,Virgin Is.,National and provincial capital,VQ,20000,7,Less than 50;000
+655,Santiago Del Estero,Argentina,Provincial capital,AR,354692,4,250;000 to 499;999
+656,Babahoyo,Ecuador,Provincial capital,EC,76279,6,50;000 to 99;999
+657,Catamarca,Argentina,Provincial capital,AR,188812,5,100;000 to 249;999
+658,The Valley,Anguilla,National and provincial capital,AV,1378,7,Less than 50;000
+659,Guayaquil,Ecuador,Provincial capital,EC,1952029,2,1;000;000 to 4;999;999
+660,La Rioja,Argentina,Provincial capital,AR,162620,5,100;000 to 249;999
+661,Mayaguez,Puerto Rico,Provincial capital,RQ,78647,6,50;000 to 99;999
+662,Cordoba,Argentina,Provincial capital,AR,1428214,2,1;000;000 to 4;999;999
+663,Azogues,Ecuador,Provincial capital,EC,34877,7,Less than 50;000
+664,San Luis,Argentina,Provincial capital,AR,183982,5,100;000 to 249;999
+665,Ponce,Puerto Rico,Provincial capital,RQ,152634,5,100;000 to 249;999
+666,Leticia,Colombia,Provincial capital,CO,29666,7,Less than 50;000
+667,Caacupe,Paraguay,Provincial capital,PA,21696,7,Less than 50;000
+668,Basseterre,St. Kitts & Nevis,National capital,SC,12920,7,Less than 50;000
+669,Coronel Oviedo,Paraguay,Provincial capital,PA,51286,6,50;000 to 99;999
+670,Rio Branco,Brazil,Provincial capital,BR,257642,4,250;000 to 499;999
+671,Paraguari,Paraguay,Provincial capital,PA,10079,7,Less than 50;000
+672,Saint John's,Antigua & Barbuda,National capital,AC,24226,7,Less than 50;000
+673,Cobija,Bolivia,Provincial capital,BL,26585,7,Less than 50;000
+674,Villarrica,Paraguay,Provincial capital,PA,41157,7,Less than 50;000
+675,Plymouth,Montserrat,National and provincial capital,MH,-999,7,Less than 50;000
+676,Baquerizo Moreno,Ecuador,Provincial capital,EC,-999,7,Less than 50;000
+677,Formosa,Argentina,Provincial capital,AR,221383,5,100;000 to 249;999
+678,Cul De Sac,St. Lucia,Other,ST,8467,7,Less than 50;000
+679,Pilar,Paraguay,Provincial capital,PA,-999,7,Less than 50;000
+680,Cuenca,Ecuador,Provincial capital,EC,276964,4,250;000 to 499;999
+681,Basse-Terre,Guadeloupe,National and provincial capital,GP,11472,7,Less than 50;000
+682,Machala,Ecuador,Provincial capital,EC,198123,5,100;000 to 249;999
+683,Resistencia,Argentina,Provincial capital,AR,387158,4,250;000 to 499;999
+684,Roseau,Dominica,National capital,DO,16571,7,Less than 50;000
+685,Corrientes,Argentina,Provincial capital,AR,339067,4,250;000 to 499;999
+686,Tumbes,Peru,Provincial capital,PE,109223,5,100;000 to 249;999
+687,Fort-De-France,Martinique,National and provincial capital,MB,89995,6,50;000 to 99;999
+688,Ypacarai,Paraguay,Provincial capital,PA,9655,7,Less than 50;000
+689,Loja,Ecuador,Provincial capital,EC,117796,5,100;000 to 249;999
+690,Caazapa,Paraguay,Provincial capital,PA,-999,7,Less than 50;000
+691,Castries,St. Lucia,National capital,ST,-999,7,Less than 50;000
+692,Zamora,Ecuador,Provincial capital,EC,15276,7,Less than 50;000
+693,Kingstown,St. Vincent & the Grenadines,National capital,VC,24518,7,Less than 50;000
+694,Piura,Peru,Provincial capital,PE,325466,4,250;000 to 499;999
+695,San Juan Bautista,Paraguay,Provincial capital,PA,-999,7,Less than 50;000
+696,Bridgetown,Barbados,National capital,BB,98511,6,50;000 to 99;999
+697,Salto,Uruguay,Provincial capital,UY,99823,6,50;000 to 99;999
+698,Chiclayo,Peru,Provincial capital,PE,577375,3,500;000 to 999;999
+699,Paysandu,Uruguay,Provincial capital,UY,73249,6,50;000 to 99;999
+700,Saint George's,Grenada,National capital,GJ,7500,7,Less than 50;000
+701,Trujillo,Peru,Provincial capital,PE,747450,3,500;000 to 999;999
+702,Fray Bentos,Uruguay,Provincial capital,UY,23279,7,Less than 50;000
+703,Onverwacht,Suriname,Provincial capital,NS,2105,7,Less than 50;000
+704,Mayobamba,Peru,Provincial capital,PE,-999,7,Less than 50;000
+705,Mercedes,Uruguay,Provincial capital,UY,42359,7,Less than 50;000
+706,Durazno,Uruguay,Provincial capital,UY,33926,7,Less than 50;000
+707,Nieuw Amsterdam,Suriname,Provincial capital,NS,4935,7,Less than 50;000
+708,Chachapoyas,Peru,Provincial capital,PE,20279,7,Less than 50;000
+709,Trinidad,Uruguay,Provincial capital,UY,21093,7,Less than 50;000
+710,Paramaribo,Suriname,National capital and provincial capital enclave,NS,223757,5,100;000 to 249;999
+711,Cajamarca,Peru,Provincial capital,PE,135000,5,100;000 to 249;999
+712,Groningen,Suriname,Provincial capital,NS,3216,7,Less than 50;000
+713,Sao Paulo,Brazil,Provincial capital,BR,10021295,1,5;000;000 and greater
+714,Albina,Suriname,Provincial capital,NS,3985,7,Less than 50;000
+715,Pucallpa,Peru,Provincial capital,PE,310750,4,250;000 to 499;999
+716,Brokopondo,Suriname,Provincial capital,NS,-999,7,Less than 50;000
+717,Santos,Brazil,Other,BR,411403,4,250;000 to 499;999
+718,Chimbote,Peru,Other,PE,316966,4,250;000 to 499;999
+719,Cayenne,French Guiana,National capital,FG,61550,6,50;000 to 99;999
+720,Curitiba,Brazil,Provincial capital,BR,1718421,2,1;000;000 to 4;999;999
+721,Huaraz,Peru,Provincial capital,PE,86934,6,50;000 to 99;999
+722,Macapa,Brazil,Provincial capital,BR,338936,4,250;000 to 499;999
+723,Florianopolis,Brazil,Provincial capital,BR,412724,4,250;000 to 499;999
+724,Huanuco,Peru,Provincial capital,PE,147959,5,100;000 to 249;999
+725,Thule,Greenland,Provincial capital,GL,616,7,Less than 50;000
+726,Porto Alegre,Brazil,Provincial capital,BR,1372741,2,1;000;000 to 4;999;999
+727,Cerro De Pasco,Peru,Provincial capital,PE,78910,6,50;000 to 99;999
+728,Moosonee,Canada,Other,CA,-999,7,Less than 50;000
+729,Rivera,Uruguay,Provincial capital,UY,64631,6,50;000 to 99;999
+730,Quito,Ecuador,National and provincial capital,EC,1399814,2,1;000;000 to 4;999;999
+731,Saint John's,Canada,Provincial capital,CA,-999,7,Less than 50;000
+732,Tacuarembo,Uruguay,Provincial capital,UY,51854,6,50;000 to 99;999
+733,La Tacunga,Ecuador,Provincial capital,EC,-999,7,Less than 50;000
+734,Quebec,Canada,Provincial capital,CA,528595,3,500;000 to 999;999
+735,Melo,Uruguay,Provincial capital,UY,51023,6,50;000 to 99;999
+736,Tena,Ecuador,Provincial capital,EC,17172,7,Less than 50;000
+737,Saint-Pierre,St. Pierre & Miquelon,National and provincial capital,SB,6200,7,Less than 50;000
+738,Ambato,Ecuador,Provincial capital,EC,154369,5,100;000 to 249;999
+739,Treinta Y Tres,Uruguay,Provincial capital,UY,25653,7,Less than 50;000
+740,Montreal,Canada,Other,CA,3268513,2,1;000;000 to 4;999;999
+741,Florida,Uruguay,Provincial capital,UY,32234,7,Less than 50;000
+742,Puyo,Ecuador,Provincial capital,EC,24881,7,Less than 50;000
+743,Fawley,United Kingdom,Other,UK,-999,7,Less than 50;000
+744,Minas,Uruguay,Provincial capital,UY,38025,7,Less than 50;000
+745,Ottawa,Canada,National capital,CA,812129,3,500;000 to 999;999
+746,Riobamba,Ecuador,Provincial capital,EC,124478,5,100;000 to 249;999
+747,Rocha,Uruguay,Provincial capital,UY,25515,7,Less than 50;000
+748,Maldonado,Uruguay,Provincial capital,UY,55478,6,50;000 to 99;999
+749,Belfast,United Kingdom,Provincial capital,UK,274770,4,250;000 to 499;999
+750,Macas,Ecuador,Provincial capital,EC,23687,7,Less than 50;000
+751,Godhavn,Greenland,Other,GL,-999,7,Less than 50;000
+752,Montevideo,Uruguay,National and provincial capital,UY,1270737,2,1;000;000 to 4;999;999
+753,Sheffield,United Kingdom,Other,UK,447047,4,250;000 to 499;999
+754,Iquitos,Peru,Provincial capital,PE,437620,4,250;000 to 499;999
+755,Callao,Peru,Provincial capital,PE,813264,3,500;000 to 999;999
+756,Salvador,Brazil,Provincial capital,BR,2711840,2,1;000;000 to 4;999;999
+757,Dublin,Ireland,National and provincial capital,EI,1024027,2,1;000;000 to 4;999;999
+758,Iqaluit,Canada,Provincial capital,CA,6124,7,Less than 50;000
+759,Huancayo,Peru,Provincial capital,PE,376657,4,250;000 to 499;999
+760,Jamestown,St. Helena,National and provincial capital,SH,637,7,Less than 50;000
+761,Galway,Ireland,Provincial capital,EI,70686,6,50;000 to 99;999
+762,Canaport,Canada,Other,CA,-999,7,Less than 50;000
+763,Huancavelica,Peru,Provincial capital,PE,41576,7,Less than 50;000
+764,Belo Horizonte,Brazil,Provincial capital,BR,2373224,2,1;000;000 to 4;999;999
+765,Ayacucho,Peru,Provincial capital,PE,140033,5,100;000 to 249;999
+766,Birmingham,United Kingdom,Other,UK,984333,3,500;000 to 999;999
+767,Nuuk,Greenland,National and provincial capital,GL,14798,7,Less than 50;000
+768,Vitoria,Brazil,Provincial capital,BR,312656,4,250;000 to 499;999
+769,Ica,Peru,Provincial capital,PE,246844,5,100;000 to 249;999
+770,Cork,Ireland,Provincial capital,EI,188907,5,100;000 to 249;999
+771,Sept-Iles,Canada,Other,CA,22582,7,Less than 50;000
+772,Rio de Janeiro,Brazil,Other,BR,6023699,1,5;000;000 and greater
+773,Niteroi,Brazil,Provincial capital,BR,456456,4,250;000 to 499;999
+774,Charlottetown,Canada,Provincial capital,CA,42402,7,Less than 50;000
+775,London,United Kingdom,National and provincial capital,UK,7421209,1,5;000;000 and greater
+776,Moquegua,Peru,Provincial capital,PE,54517,6,50;000 to 99;999
+777,Tacna,Peru,Provincial capital,PE,280098,4,250;000 to 499;999
+778,Sao Luis,Brazil,Provincial capital,BR,917237,3,500;000 to 999;999
+779,Fredericton,Canada,Provincial capital,CA,52337,6,50;000 to 99;999
+780,Hunterston,United Kingdom,Other,UK,-999,7,Less than 50;000
+781,Iquique,Chile,Provincial capital,CI,227499,5,100;000 to 249;999
+782,Fortaleza,Brazil,Provincial capital,BR,2400000,2,1;000;000 to 4;999;999
+783,Schefferville,Canada,Other,CA,-999,7,Less than 50;000
+784,Teesport,United Kingdom,Other,UK,-999,7,Less than 50;000
+785,Lima,Peru,National and provincial capital,PE,7737002,1,5;000;000 and greater
+786,Teresina,Brazil,Provincial capital,BR,744512,3,500;000 to 999;999
+787,Saint John,Canada,Other,CA,87857,6,50;000 to 99;999
+788,Edinburgh,United Kingdom,Provincial capital,UK,435791,4,250;000 to 499;999
+789,Belem,Brazil,Provincial capital,BR,1407737,2,1;000;000 to 4;999;999
+790,Natal,Brazil,Provincial capital,BR,763043,3,500;000 to 999;999
+791,Goose Bay,Canada,Other,CA,-999,7,Less than 50;000
+792,Glasgow,United Kingdom,Other,UK,610268,3,500;000 to 999;999
+793,Santarem,Brazil,Other,BR,189047,5,100;000 to 249;999
+794,Joao Pessoa,Brazil,Provincial capital,BR,650883,3,500;000 to 999;999
+795,Cherbourg,France,Other,FR,26655,7,Less than 50;000
+796,Douglas,Isle of Man,National and provincial capital,IM,-999,7,Less than 50;000
+797,Manaus,Brazil,Provincial capital,BR,1598210,2,1;000;000 to 4;999;999
+798,Recife,Brazil,Provincial capital,BR,1478098,2,1;000;000 to 4;999;999
+799,Brest,France,Other,FR,144899,5,100;000 to 249;999
+800,Leeds,United Kingdom,Other,UK,455123,4,250;000 to 499;999
+801,Porto Velho,Brazil,Provincial capital,BR,306180,4,250;000 to 499;999
+802,Maceio,Brazil,Provincial capital,BR,954991,3,500;000 to 999;999
+803,Manchester,United Kingdom,Other,UK,395515,4,250;000 to 499;999
+804,Scoresbyund,Greenland,Other,GL,-999,7,Less than 50;000
+805,Aracaju,Brazil,Provincial capital,BR,490175,4,250;000 to 499;999
+806,Palmas,Brazil,Provincial capital,BR,196272,5,100;000 to 249;999
+807,Cardiff,United Kingdom,Provincial capital,UK,302139,4,250;000 to 499;999
+808,Angmagssalik,Greenland,Other,GL,1829,7,Less than 50;000
+809,Liverpool,United Kingdom,Other,UK,468945,4,250;000 to 499;999
+810,Galveston,United States,Other,US,56420,6,50;000 to 99;999
+811,Mayor Pablo Lagerenza,Paraguay,Provincial capital,PA,-999,7,Less than 50;000
+812,St. Peter Port,Guernsey,National and provincial capital,GK,16488,7,Less than 50;000
+813,Ponta Delgada,Portugal,Provincial capital,PO,20056,7,Less than 50;000
+814,Yellowknife,Canada,Provincial capital,CA,15865,7,Less than 50;000
+815,Fuerte Otimpo,Paraguay,Provincial capital,PA,2475,7,Less than 50;000
+816,St. Helier,Jersey,National and provincial capital,JE,-999,7,Less than 50;000
+817,Mariscal Jose F. Estigarribia,Paraguay,Provincial capital,PA,-999,7,Less than 50;000
+818,Juneau,United States,Provincial capital,US,30711,7,Less than 50;000
+819,Caen,France,Provincial capital,FR,110624,5,100;000 to 249;999
+820,Oviedo,Spain,Provincial capital,SP,211398,5,100;000 to 249;999
+821,Trinidad,Bolivia,Provincial capital,BL,84259,6,50;000 to 99;999
+822,Jackson,United States,Provincial capital,US,176696,5,100;000 to 249;999
+823,Rennes,France,Provincial capital,FR,209375,5,100;000 to 249;999
+824,Santiago De Compostela,Spain,Provincial capital,SP,92430,6,50;000 to 99;999
+825,Cochabamba,Bolivia,Provincial capital,BL,900414,3,500;000 to 999;999
+826,Baton Rouge,United States,Provincial capital,US,223349,5,100;000 to 249;999
+827,Viana Do Castelo,Portugal,Provincial capital,PO,15555,7,Less than 50;000
+828,Santa Cruz de La Sierra,Bolivia,Other,BL,1364389,2,1;000;000 to 4;999;999
+829,Nantes,France,Provincial capital,FR,277269,4,250;000 to 499;999
+830,New Orleans,United States,Other,US,484674,4,250;000 to 499;999
+831,Oruro,Bolivia,Provincial capital,BL,208684,5,100;000 to 249;999
+832,Porto,Portugal,Provincial capital,PO,249633,5,100;000 to 249;999
+833,Dundee,United Kingdom,Other,UK,151592,5,100;000 to 249;999
+834,Houston,United States,Other,US,2027712,2,1;000;000 to 4;999;999
+835,Aveiro,Portugal,Provincial capital,PO,54162,6,50;000 to 99;999
+836,Sucre,Bolivia,Provincial capital,BL,224838,5,100;000 to 249;999
+837,Torshavn,Faroe Is.,National and provincial capital,FO,13200,7,Less than 50;000
+838,Prince Rupert,Canada,Other,CA,14708,7,Less than 50;000
+839,Leiria,Portugal,Provincial capital,PO,45112,7,Less than 50;000
+840,Potosi,Bolivia,Provincial capital,BL,141251,5,100;000 to 249;999
+841,Reykjavik,Iceland,National and provincial capital,IC,113906,5,100;000 to 249;999
+842,Fortin Coronel Eugenia Garay,Paraguay,Provincial capital,PA,-999,7,Less than 50;000
+843,Fairbanks,United States,Other,US,30224,7,Less than 50;000
+844,Praia,Cape Verde,National capital,CV,113364,5,100;000 to 249;999
+845,Southampton,United Kingdom,Other,UK,246201,5,100;000 to 249;999
+846,Santa Cruz de Tenerife,Spain,Provincial capital,SP,222190,5,100;000 to 249;999
+847,Nome,United States,Other,US,3485,7,Less than 50;000
+848,Las Palmas,Spain,Other,SP,378495,4,250;000 to 499;999
+849,Whitehorse,Canada,Provincial capital,CA,23272,7,Less than 50;000
+850,Saint Paul,United States,Provincial capital,US,274792,4,250;000 to 499;999
+851,Zaragoza,Spain,Provincial capital,SP,649404,3,500;000 to 999;999
+852,Seward,United States,Other,US,2900,7,Less than 50;000
+853,Pierre,United States,Provincial capital,US,13879,7,Less than 50;000
+854,Minneapolis,United States,Other,US,367773,4,250;000 to 499;999
+855,Valencia,Spain,Provincial capital,SP,805304,3,500;000 to 999;999
+856,Honolulu,United States,Provincial capital,US,371657,4,250;000 to 499;999
+857,Hilo,United States,Other,US,43050,7,Less than 50;000
+858,Des Moines,United States,Provincial capital,US,28668,7,Less than 50;000
+859,Funchal,Portugal,Provincial capital,PO,100847,5,100;000 to 249;999
+860,Nouakchott,Mauritania,National capital,MR,661400,3,500;000 to 999;999
+861,Anchorage,United States,Other,US,260283,4,250;000 to 499;999
+862,Lincoln,United States,Provincial capital,US,242072,5,100;000 to 249;999
+863,Laayoune,Morocco,Other,MO,-999,7,Less than 50;000
+864,Louga,Senegal,Provincial capital,SG,-999,7,Less than 50;000
+865,Edmonton,Canada,Provincial capital,CA,712391,3,500;000 to 999;999
+866,Topeka,United States,Provincial capital,US,121570,5,100;000 to 249;999
+867,Fderik,Mauritania,Provincial capital,MR,-999,7,Less than 50;000
+868,Rosso,Mauritania,Provincial capital,MR,9923,7,Less than 50;000
+869,Calgary,Canada,Other,CA,1019942,2,1;000;000 to 4;999;999
+870,Saint Louis,Senegal,Other,SG,-999,7,Less than 50;000
+871,Braganca,Portugal,Provincial capital,PO,-999,7,Less than 50;000
+872,Oklahoma City,United States,Provincial capital,US,532950,3,500;000 to 999;999
+873,Vancouver,Canada,Other,CA,1837969,2,1;000;000 to 4;999;999
+874,Diourbel,Senegal,Provincial capital,SG,-999,7,Less than 50;000
+875,Fatick,Senegal,Provincial capital,SG,-999,7,Less than 50;000
+876,Braga,Portugal,Provincial capital,PO,121394,5,100;000 to 249;999
+877,Kaolack,Senegal,Provincial capital,SG,-999,7,Less than 50;000
+878,Vila Real,Portugal,Provincial capital,PO,17001,7,Less than 50;000
+879,Victoria,Canada,Provincial capital,CA,289625,4,250;000 to 499;999
+880,San Diego,United States,Other,US,1223400,2,1;000;000 to 4;999;999
+881,Kerewan,The Gambia,Provincial capital,GA,2751,7,Less than 50;000
+882,Viseu,Portugal,Provincial capital,PO,26364,7,Less than 50;000
+883,Seattle,United States,Other,US,569369,3,500;000 to 999;999
+884,Mexicali,Mexico,Provincial capital,MX,597099,3,500;000 to 999;999
+885,Guarda,Portugal,Provincial capital,PO,-999,7,Less than 50;000
+886,Olympia,United States,Provincial capital,US,44916,7,Less than 50;000
+887,Coimbra,Portugal,Provincial capital,PO,106582,5,100;000 to 249;999
+888,Banjul,The Gambia,National capital and provincial capital enclave,GA,34589,7,Less than 50;000
+889,Boise,United States,Provincial capital,US,145987,5,100;000 to 249;999
+890,Portland,United States,Other,US,10638,7,Less than 50;000
+891,Oakland,United States,Other,US,399484,4,250;000 to 499;999
+892,Bathurst,The Gambia,Provincial capital,GA,34589,7,Less than 50;000
+893,Castelo Branco,Portugal,Provincial capital,PO,33479,7,Less than 50;000
+894,Inuvik,Canada,Other,CA,3022,7,Less than 50;000
+895,Salem,United States,Provincial capital,US,24314,7,Less than 50;000
+896,Mansa Konko,The Gambia,Provincial capital,GA,-999,7,Less than 50;000
+897,Rabat,Morocco,National and provincial capital,MO,1655753,2,1;000;000 to 4;999;999
+898,Portalegre,Portugal,Provincial capital,PO,15581,7,Less than 50;000
+899,Bismarck,United States,Provincial capital,US,56706,6,50;000 to 99;999
+900,Carson City,United States,Provincial capital,US,57341,6,50;000 to 99;999
+901,Santarem,Portugal,Provincial capital,PO,29385,7,Less than 50;000
+902,Brikama,The Gambia,Provincial capital,GA,77700,6,50;000 to 99;999
+903,Ziguinchor,Senegal,Provincial capital,SG,159778,5,100;000 to 249;999
+904,Churchill,Canada,Other,CA,-999,7,Less than 50;000
+905,Sacramento,United States,Provincial capital,US,467898,4,250;000 to 499;999
+906,Cacheu,Guinea-Bissau,Provincial capital,PU,10490,7,Less than 50;000
+907,Merida,Spain,Provincial capital,SP,52423,6,50;000 to 99;999
+908,Bolama,Guinea-Bissau,Provincial capital,PU,10769,7,Less than 50;000
+909,Saskatoon,Canada,Other,CA,198958,5,100;000 to 249;999
+910,San Francisco,United States,Other,US,732072,3,500;000 to 999;999
+911,Lisbon,Portugal,National and provincial capital,PO,517802,3,500;000 to 999;999
+912,Bissau,Guinea-Bissau,National capital and provincial capital enclave,PU,388028,4,250;000 to 499;999
+913,Evora,Portugal,Provincial capital,PO,55620,6,50;000 to 99;999
+914,Regina,Canada,Provincial capital,CA,176183,5,100;000 to 249;999
+915,San Jose,United States,Other,US,894943,3,500;000 to 999;999
+916,Setubal,Portugal,Provincial capital,PO,117110,5,100;000 to 249;999
+917,Winnipeg,Canada,Provincial capital,CA,632063,3,500;000 to 999;999
+918,Los Angeles,United States,Other,US,3694820,2,1;000;000 to 4;999;999
+919,Georgetown,The Gambia,Provincial capital,GA,3584,7,Less than 50;000
+920,Helena,United States,Provincial capital,US,27340,7,Less than 50;000
+921,Beja,Portugal,Provincial capital,PO,-999,7,Less than 50;000
+922,Cheyenne,United States,Provincial capital,US,55443,6,50;000 to 99;999
+923,Basse Santa Su,The Gambia,Provincial capital,GA,14380,7,Less than 50;000
+924,Seville,Spain,Provincial capital,SP,701894,3,500;000 to 999;999
+925,Kingston,Jamaica,National and provincial capital,JM,937700,3,500;000 to 999;999
+926,Kolda,Senegal,Provincial capital,SG,58809,6,50;000 to 99;999
+927,Faro,Portugal,Provincial capital,PO,41355,7,Less than 50;000
+928,Salt Lake City,United States,Provincial capital,US,178026,5,100;000 to 249;999
+929,Port Morant,Jamaica,Provincial capital,JM,-999,7,Less than 50;000
+930,Farim,Guinea-Bissau,Provincial capital,PU,6792,7,Less than 50;000
+931,Bordeaux,France,Provincial capital,FR,231844,5,100;000 to 249;999
+932,Denver,United States,Provincial capital,US,554636,3,500;000 to 999;999
+933,Fort-Liberte,Haiti,Provincial capital,HA,-999,7,Less than 50;000
+934,Gabu,Guinea-Bissau,Provincial capital,PU,14430,7,Less than 50;000
+935,Santander,Spain,Provincial capital,SP,183288,5,100;000 to 249;999
+936,Kansas City,United States,Other,US,146866,5,100;000 to 249;999
+937,Bafata,Guinea-Bissau,Provincial capital,PU,22521,7,Less than 50;000
+938,St. Louis,United States,Other,US,320916,4,250;000 to 499;999
+939,Dajabon,Dominican Republic,Provincial capital,DR,16398,7,Less than 50;000
+940,Pamplona,Spain,Provincial capital,SP,193166,5,100;000 to 249;999
+941,Fulacunda,Guinea-Bissau,Provincial capital,PU,-999,7,Less than 50;000
+942,Jefferson City,United States,Provincial capital,US,35883,7,Less than 50;000
+943,Gonaives,Haiti,Provincial capital,HA,84961,6,50;000 to 99;999
+944,Logrono,Spain,Provincial capital,SP,143698,5,100;000 to 249;999
+945,Tambacounda,Senegal,Provincial capital,SG,-999,7,Less than 50;000
+946,Santa Fe,United States,Provincial capital,US,69205,6,50;000 to 99;999
+947,Hinche,Haiti,Provincial capital,HA,18590,7,Less than 50;000
+948,Valladolid,Spain,Provincial capital,SP,322304,4,250;000 to 499;999
+949,Koundara,Guinea,Provincial capital,GV,13990,7,Less than 50;000
+950,Memphis,United States,Other,US,650100,3,500;000 to 999;999
+951,Elias Pina,Dominican Republic,Provincial capital,DR,-999,7,Less than 50;000
+952,Madrid,Spain,National and provincial capital,SP,3117977,2,1;000;000 to 4;999;999
+953,Little Rock,United States,Provincial capital,US,184217,5,100;000 to 249;999
+954,Mali,Guinea,Provincial capital,GV,5479,7,Less than 50;000
+955,Port-au-Prince,Haiti,National and provincial capital,HA,1234742,2,1;000;000 to 4;999;999
+956,Toledo,Spain,Provincial capital,SP,74632,6,50;000 to 99;999
+957,Gaoual,Guinea,Provincial capital,GV,7461,7,Less than 50;000
+958,Phoenix,United States,Provincial capital,US,1321045,2,1;000;000 to 4;999;999
+959,Tongue,Guinea,Provincial capital,GV,25531,7,Less than 50;000
+960,Bilbao,Spain,Other,SP,351409,4,250;000 to 499;999
+961,Labe,Guinea,Provincial capital,GV,46510,7,Less than 50;000
+962,Jimani,Dominican Republic,Provincial capital,DR,6567,7,Less than 50;000
+963,Vitoria,Spain,Provincial capital,SP,224578,5,100;000 to 249;999
+964,Ayoun El Atrous,Mauritania,Provincial capital,MR,-999,7,Less than 50;000
+965,El Paso,United States,Other,US,563662,3,500;000 to 999;999
+966,Melilla,Spain,Provincial capital,SP,67838,6,50;000 to 99;999
+967,Nema,Mauritania,Provincial capital,MR,-999,7,Less than 50;000
+968,Jacmel,Haiti,Provincial capital,HA,33563,7,Less than 50;000
+969,Murcia,Spain,Provincial capital,SP,406807,4,250;000 to 499;999
+970,Hermosillo,Mexico,Provincial capital,MX,595811,3,500;000 to 999;999
+971,Segou,Mali,Provincial capital,ML,92552,6,50;000 to 99;999
+972,Gibraltar,Gibraltar,National and provincial capital,GI,26544,7,Less than 50;000
+973,Bamako,Mali,National and provincial capital,ML,1297281,2,1;000;000 to 4;999;999
+974,Pedernales,Dominican Republic,Provincial capital,DR,11072,7,Less than 50;000
+975,Siguiri,Guinea,Provincial capital,GV,43601,7,Less than 50;000
+976,Chihuahua,Mexico,Provincial capital,MX,708267,3,500;000 to 999;999
+977,Sikasso,Mali,Provincial capital,ML,144786,5,100;000 to 249;999
+978,Fes,Morocco,Provincial capital,MO,964891,3,500;000 to 999;999
+979,Mao,Dominican Republic,Provincial capital,DR,48297,7,Less than 50;000
+980,Culiacan,Mexico,Provincial capital,MX,582469,3,500;000 to 999;999
+981,Dinguiraye,Guinea,Provincial capital,GV,6062,7,Less than 50;000
+982,Meknes,Morocco,Provincial capital,MO,545705,3,500;000 to 999;999
+983,Timbuktu,Mali,Other,ML,32460,7,Less than 50;000
+984,Ceuta,Spain,Provincial capital,SP,75861,6,50;000 to 99;999
+985,La Paz,Mexico,Provincial capital,MX,171485,5,100;000 to 249;999
+986,Sabaneta,Dominican Republic,Provincial capital,DR,16380,7,Less than 50;000
+987,Durango,Mexico,Provincial capital,MX,457140,4,250;000 to 499;999
+988,Gao,Mali,Provincial capital,ML,57978,6,50;000 to 99;999
+989,Oran,Algeria,Other,AG,645984,3,500;000 to 999;999
+990,Mopti,Mali,Provincial capital,ML,108456,5,100;000 to 249;999
+991,Santiago,Dominican Republic,Provincial capital,DR,555904,3,500;000 to 999;999
+992,Sidi-Bel-Abbes,Algeria,Provincial capital,AG,191769,5,100;000 to 249;999
+993,Gorom Gorom,Burkina Faso,Provincial capital,UV,6691,7,Less than 50;000
+994,Mazatlan,Mexico,Other,MX,354717,4,250;000 to 499;999
+995,Moca,Dominican Republic,Provincial capital,DR,61834,6,50;000 to 99;999
+996,Tlemcen,Algeria,Provincial capital,AG,132341,5,100;000 to 249;999
+997,Djibo,Burkina Faso,Provincial capital,UV,22223,7,Less than 50;000
+998,Zacatecas,Mexico,Provincial capital,MX,118562,5,100;000 to 249;999
+999,Salcedo,Dominican Republic,Provincial capital,DR,-999,7,Less than 50;000
+1000,Oujda,Morocco,Provincial capital,MO,405253,4,250;000 to 499;999
+1001,Tougan,Burkina Faso,Provincial capital,UV,17590,7,Less than 50;000
+1002,Dallas,United States,Other,US,13852,7,Less than 50;000
+1003,La Vega,Dominican Republic,Provincial capital,DR,-999,7,Less than 50;000
+1004,Casablanca,Morocco,Provincial capital,MO,3144909,2,1;000;000 to 4;999;999
+1005,Nouna,Burkina Faso,Provincial capital,UV,29048,7,Less than 50;000
+1006,Marrakech,Morocco,Provincial capital,MO,839296,3,500;000 to 999;999
+1007,Dedougou,Burkina Faso,Provincial capital,UV,45341,7,Less than 50;000
+1008,Austin,United States,Provincial capital,US,23451,7,Less than 50;000
+1009,Bonao,Dominican Republic,Provincial capital,DR,73269,6,50;000 to 99;999
+1010,Bechar,Algeria,Provincial capital,AG,143382,5,100;000 to 249;999
+1011,Agadir,Morocco,Provincial capital,MO,698310,3,500;000 to 999;999
+1012,Ouahigouya,Burkina Faso,Provincial capital,UV,61096,6,50;000 to 99;999
+1013,Adrar,Algeria,Provincial capital,AG,-999,7,Less than 50;000
+1014,San Antonio,United States,Other,US,1256810,2,1;000;000 to 4;999;999
+1015,Yako,Burkina Faso,Provincial capital,UV,22904,7,Less than 50;000
+1016,San Juan,Dominican Republic,Provincial capital,DR,-999,7,Less than 50;000
+1017,Tindouf,Algeria,Other,AG,-999,7,Less than 50;000
+1018,Kiffa,Mauritania,Provincial capital,MR,-999,7,Less than 50;000
+1019,Monterrey,Mexico,Provincial capital,MX,1122874,2,1;000;000 to 4;999;999
+1020,Neiba,Dominican Republic,Provincial capital,DR,18670,7,Less than 50;000
+1021,Ziniare,Burkina Faso,Provincial capital,UV,12703,7,Less than 50;000
+1022,Kaedi,Mauritania,Provincial capital,MR,-999,7,Less than 50;000
+1023,Saltillo,Mexico,Provincial capital,MX,621250,3,500;000 to 999;999
+1024,Ouagadougou,Burkina Faso,National and provincial capital,UV,1086505,2,1;000;000 to 4;999;999
+1025,Selibabi,Mauritania,Provincial capital,MR,-999,7,Less than 50;000
+1026,Azua,Dominican Republic,Provincial capital,DR,59139,6,50;000 to 99;999
+1027,Ciudad Victoria,Mexico,Provincial capital,MX,269923,4,250;000 to 499;999
+1028,Kayes,Mali,Provincial capital,ML,97464,6,50;000 to 99;999
+1029,Reo,Burkina Faso,Provincial capital,UV,37535,7,Less than 50;000
+1030,Bani,Dominican Republic,Provincial capital,DR,66709,6,50;000 to 99;999
+1031,Aguascalientes,Mexico,Provincial capital,MX,658179,3,500;000 to 999;999
+1032,Catio,Guinea-Bissau,Provincial capital,PU,9898,7,Less than 50;000
+1033,Barahona,Dominican Republic,Provincial capital,DR,-999,7,Less than 50;000
+1034,Boke,Guinea,Provincial capital,GV,15460,7,Less than 50;000
+1035,Koudougou,Burkina Faso,Provincial capital,UV,87347,6,50;000 to 99;999
+1036,Tepic,Mexico,Provincial capital,MX,280592,4,250;000 to 499;999
+1037,Punta Palenque,Dominican Republic,Other,DR,-999,7,Less than 50;000
+1038,Guanajuato,Mexico,Provincial capital,MX,78364,6,50;000 to 99;999
+1039,Bo,Sierra Leone,Provincial capital,SL,174354,5,100;000 to 249;999
+1040,Kombissiri,Burkina Faso,Provincial capital,UV,30137,7,Less than 50;000
+1041,Guadalajara,Mexico,Provincial capital,MX,1640589,2,1;000;000 to 4;999;999
+1042,Nagua,Dominican Republic,Provincial capital,DR,33862,7,Less than 50;000
+1043,Robertsport,Liberia,Provincial capital,LI,11969,7,Less than 50;000
+1044,Dori,Burkina Faso,Provincial capital,UV,37806,7,Less than 50;000
+1045,Colima,Mexico,Provincial capital,MX,127235,5,100;000 to 249;999
+1046,Telimele,Guinea,Provincial capital,GV,30311,7,Less than 50;000
+1047,Fria,Guinea,Provincial capital,GV,-999,7,Less than 50;000
+1048,Kaya,Burkina Faso,Provincial capital,UV,39229,7,Less than 50;000
+1049,San Francisco De Macoris,Dominican Republic,Provincial capital,DR,124763,5,100;000 to 249;999
+1050,Tampico,Mexico,Other,MX,309003,4,250;000 to 499;999
+1051,Campeche,Mexico,Provincial capital,MX,205212,5,100;000 to 249;999
+1052,Boffa,Guinea,Provincial capital,GV,2332,7,Less than 50;000
+1053,Bogande,Burkina Faso,Provincial capital,UV,9854,7,Less than 50;000
+1054,Samana,Dominican Republic,Provincial capital,DR,-999,7,Less than 50;000
+1055,Kindia,Guinea,Provincial capital,GV,117062,5,100;000 to 249;999
+1056,Jalapa,Mexico,Provincial capital,MX,425148,4,250;000 to 499;999
+1057,Boulsa,Burkina Faso,Provincial capital,UV,17489,7,Less than 50;000
+1058,Conakry,Guinea,National and provincial capital,GV,1767200,2,1;000;000 to 4;999;999
+1059,Tlaxcala,Mexico,Provincial capital,MX,84670,6,50;000 to 99;999
+1060,Cotui,Dominican Republic,Provincial capital,DR,41641,7,Less than 50;000
+1061,Forecariah,Guinea,Provincial capital,GV,12358,7,Less than 50;000
+1062,Zorgo,Burkina Faso,Provincial capital,UV,23892,7,Less than 50;000
+1063,Koupela,Burkina Faso,Provincial capital,UV,32052,7,Less than 50;000
+1064,Makeni,Sierra Leone,Provincial capital,SL,87679,6,50;000 to 99;999
+1065,Kaduna,Nigeria,Provincial capital,NI,1582102,2,1;000;000 to 4;999;999
+1066,Puebla,Mexico,Other,MX,1392099,2,1;000;000 to 4;999;999
+1067,Monte Plata,Dominican Republic,Provincial capital,DR,15532,7,Less than 50;000
+1068,Tenkodogo,Burkina Faso,Provincial capital,UV,37658,7,Less than 50;000
+1069,Freetown,Sierra Leone,National and provincial capital,SL,802639,3,500;000 to 999;999
+1070,Minna,Nigeria,Provincial capital,NI,291905,4,250;000 to 499;999
+1071,Pita,Guinea,Provincial capital,GV,20052,7,Less than 50;000
+1072,Manga,Burkina Faso,Provincial capital,UV,15173,7,Less than 50;000
+1073,Abuja,Nigeria,National and provincial capital,NI,162135,5,100;000 to 249;999
+1074,Dalaba,Guinea,Provincial capital,GV,-999,7,Less than 50;000
+1075,Rivercess,Liberia,Provincial capital,LI,-999,7,Less than 50;000
+1076,Mamou,Guinea,Provincial capital,GV,41619,7,Less than 50;000
+1077,Villahermosa,Mexico,Provincial capital,MX,362401,4,250;000 to 499;999
+1078,Santo Domingo,Dominican Republic,National and provincial capital,DR,2201941,2,1;000;000 to 4;999;999
+1079,Lokoja,Nigeria,Provincial capital,NI,60579,6,50;000 to 99;999
+1080,Greenville,Liberia,Provincial capital,LI,-999,7,Less than 50;000
+1081,Oaxaca,Mexico,Provincial capital,MX,262566,4,250;000 to 499;999
+1082,Enugu,Nigeria,Provincial capital,NI,688862,3,500;000 to 999;999
+1083,Nouadhibou,Mauritania,Other,MR,72337,6,50;000 to 99;999
+1084,San Cristobal,Dominican Republic,Provincial capital,DR,-999,7,Less than 50;000
+1085,Sassandra,Cote d'Ivoire,Provincial capital,IV,23274,7,Less than 50;000
+1086,Benin City,Nigeria,Provincial capital,NI,1125058,2,1;000;000 to 4;999;999
+1087,Tuxtla Gutierrez,Mexico,Provincial capital,MX,481128,4,250;000 to 499;999
+1088,Atar,Mauritania,Provincial capital,MR,-999,7,Less than 50;000
+1089,Hato Mayor,Dominican Republic,Provincial capital,DR,0,7,Less than 50;000
+1090,Asaba,Nigeria,Provincial capital,NI,73374,6,50;000 to 99;999
+1091,Barclayville,Liberia,Provincial capital,LI,-999,7,Less than 50;000
+1092,El Seibo,Dominican Republic,Provincial capital,DR,-999,7,Less than 50;000
+1093,Akjoujt,Mauritania,Provincial capital,MR,-999,7,Less than 50;000
+1094,Awka,Nigeria,Provincial capital,NI,167738,5,100;000 to 249;999
+1095,San Pedro,Cote d'Ivoire,Provincial capital,IV,-999,7,Less than 50;000
+1096,Agadez,Niger,Provincial capital,NG,-999,7,Less than 50;000
+1097,Veracruz,Mexico,Other,MX,568313,3,500;000 to 999;999
+1098,Higuey,Dominican Republic,Provincial capital,DR,-999,7,Less than 50;000
+1099,Tahoua,Niger,Provincial capital,NG,80425,6,50;000 to 99;999
+1100,Tidjikdja,Mauritania,Provincial capital,MR,-999,7,Less than 50;000
+1101,Tabou,Cote d'Ivoire,Provincial capital,IV,17134,7,Less than 50;000
+1102,Harper,Liberia,Provincial capital,LI,32661,7,Less than 50;000
+1103,Aleg,Mauritania,Provincial capital,MR,-999,7,Less than 50;000
+1104,Niamey,Niger,National and provincial capital,NG,774235,3,500;000 to 999;999
+1105,Tingrela,Cote d'Ivoire,Provincial capital,IV,-999,7,Less than 50;000
+1106,San Luis Potosi,Mexico,Provincial capital,MX,677704,3,500;000 to 999;999
+1107,San Pedro De Macoris,Dominican Republic,Provincial capital,DR,217899,5,100;000 to 249;999
+1108,Thies,Senegal,Provincial capital,SG,252320,4,250;000 to 499;999
+1109,Boundiali,Cote d'Ivoire,Provincial capital,IV,38878,7,Less than 50;000
+1110,Sokoto,Nigeria,Provincial capital,NI,563861,3,500;000 to 999;999
+1111,Queretaro,Mexico,Provincial capital,MX,611785,3,500;000 to 999;999
+1112,Dosso,Niger,Provincial capital,NG,49750,7,Less than 50;000
+1113,La Romana,Dominican Republic,Provincial capital,DR,208437,5,100;000 to 249;999
+1114,Odienne,Cote d'Ivoire,Provincial capital,IV,49857,7,Less than 50;000
+1115,Pachuca,Mexico,Provincial capital,MX,319581,4,250;000 to 499;999
+1116,Dakar,Senegal,National and provincial capital,SG,2476400,2,1;000;000 to 4;999;999
+1117,Korhogo,Cote d'Ivoire,Provincial capital,IV,167359,5,100;000 to 249;999
+1118,Birnin Kebbi,Nigeria,Provincial capital,NI,108164,5,100;000 to 249;999
+1119,Diapaga,Burkina Faso,Provincial capital,UV,26013,7,Less than 50;000
+1120,Cali,Colombia,Provincial capital,CO,2392877,2,1;000;000 to 4;999;999
+1121,Morelia,Mexico,Provincial capital,MX,592797,3,500;000 to 999;999
+1122,Voinjama,Liberia,Provincial capital,LI,-999,7,Less than 50;000
+1123,Kenema,Sierra Leone,Provincial capital,SL,143137,5,100;000 to 249;999
+1124,Fada Ngourma,Burkina Faso,Provincial capital,UV,33910,7,Less than 50;000
+1125,Popayan,Colombia,Provincial capital,CO,-999,7,Less than 50;000
+1126,Mexico City,Mexico,National and provincial capital,MX,11285654,1,5;000;000 and greater
+1127,Nzerekore,Guinea,Provincial capital,GV,132728,5,100;000 to 249;999
+1128,Yomou,Guinea,Provincial capital,GV,3614,7,Less than 50;000
+1129,Faya,Chad,Provincial capital,CD,13400,7,Less than 50;000
+1130,Toluca,Mexico,Provincial capital,MX,505881,3,500;000 to 999;999
+1131,Florencia,Colombia,Provincial capital,CO,130337,5,100;000 to 249;999
+1132,Mao,Chad,Provincial capital,CD,18031,7,Less than 50;000
+1133,Sanniquellie,Liberia,Provincial capital,LI,-999,7,Less than 50;000
+1134,Bol,Chad,Provincial capital,CD,-999,7,Less than 50;000
+1135,Cuernavaca,Mexico,Provincial capital,MX,343769,4,250;000 to 499;999
+1136,Diffa,Niger,Provincial capital,NG,27948,7,Less than 50;000
+1137,Pasto,Colombia,Provincial capital,CO,382236,4,250;000 to 499;999
+1138,Gbarnga,Liberia,Provincial capital,LI,45835,7,Less than 50;000
+1139,Mocoa,Colombia,Provincial capital,CO,22035,7,Less than 50;000
+1140,Ndjamena,Chad,National and provincial capital,CD,721081,3,500;000 to 999;999
+1141,Chilpancingo De Los Bravo,Mexico,Provincial capital,MX,165250,5,100;000 to 249;999
+1142,Kakata,Liberia,Provincial capital,LI,-999,7,Less than 50;000
+1143,Tulcan,Ecuador,Provincial capital,EC,-999,7,Less than 50;000
+1144,Maiduguri,Nigeria,Provincial capital,NI,1112449,2,1;000;000 to 4;999;999
+1145,Acapulco,Mexico,Other,MX,652136,3,500;000 to 999;999
+1146,Bentol,Liberia,Provincial capital,LI,-999,7,Less than 50;000
+1147,Ibarra,Ecuador,Provincial capital,EC,108666,5,100;000 to 249;999
+1148,Coban,Guatemala,Provincial capital,GT,53375,6,50;000 to 99;999
+1149,Damaturu,Nigeria,Provincial capital,NI,255895,4,250;000 to 499;999
+1150,Tunja,Colombia,Provincial capital,CO,117479,5,100;000 to 249;999
+1151,Buchanan,Liberia,Provincial capital,LI,25731,7,Less than 50;000
+1152,Bozoum,Central African Republic,Provincial capital,CT,40201,7,Less than 50;000
+1153,Huehuetenango,Guatemala,Provincial capital,GT,79426,6,50;000 to 99;999
+1154,Monrovia,Liberia,National capital,LI,939524,3,500;000 to 999;999
+1155,Manizales,Colombia,Provincial capital,CO,357814,4,250;000 to 499;999
+1156,Bouar,Central African Republic,Provincial capital,CT,28581,7,Less than 50;000
+1157,Dabola,Guinea,Provincial capital,GV,13057,7,Less than 50;000
+1158,Bangui,Central African Republic,National and provincial capital,CT,542393,3,500;000 to 999;999
+1159,Pereira,Colombia,Provincial capital,CO,440118,4,250;000 to 499;999
+1160,Kouroussa,Guinea,Provincial capital,GV,14223,7,Less than 50;000
+1161,Santa Cruz Del Quiche,Guatemala,Provincial capital,GT,23618,7,Less than 50;000
+1162,Mobaye,Central African Republic,Provincial capital,CT,19431,7,Less than 50;000
+1163,Kankan,Guinea,Provincial capital,GV,114009,5,100;000 to 249;999
+1164,Armenia,Colombia,Provincial capital,CO,315328,4,250;000 to 499;999
+1165,Faranah,Guinea,Provincial capital,GV,9350,7,Less than 50;000
+1166,Mbaiki,Central African Republic,Provincial capital,CT,67132,6,50;000 to 99;999
+1167,San Marcos,Guatemala,Provincial capital,GT,25088,7,Less than 50;000
+1168,Kerouane,Guinea,Provincial capital,GV,7228,7,Less than 50;000
+1169,Ibague,Colombia,Provincial capital,CO,421685,4,250;000 to 499;999
+1170,Impfondo,Congo,Provincial capital,CF,20859,7,Less than 50;000
+1171,Totonicapan,Guatemala,Provincial capital,GT,69734,6,50;000 to 99;999
+1172,Villavicencio,Colombia,Provincial capital,CO,321717,4,250;000 to 499;999
+1173,Mbandaka,Congo; DRC,Provincial capital,CG,184185,5,100;000 to 249;999
+1174,Quezaltenango,Guatemala,Provincial capital,GT,-999,7,Less than 50;000
+1175,Neiva,Colombia,Provincial capital,CO,352855,4,250;000 to 499;999
+1176,Kissidougou,Guinea,Provincial capital,GV,47099,7,Less than 50;000
+1177,Solola,Guatemala,Provincial capital,GT,45373,7,Less than 50;000
+1178,Bertoua,Cameroon,Provincial capital,CM,218111,5,100;000 to 249;999
+1179,Beyla,Guinea,Provincial capital,GV,-999,7,Less than 50;000
+1180,Gueckedou,Guinea,Provincial capital,GV,-999,7,Less than 50;000
+1181,Bogota,Colombia,National capital and provincial capital enclave,CO,7102602,1,5;000;000 and greater
+1182,Retalhuleu,Guatemala,Provincial capital,GT,36656,7,Less than 50;000
+1183,Berberati,Central African Republic,Provincial capital,CT,61815,6,50;000 to 99;999
+1184,Macenta,Guinea,Provincial capital,GV,43102,7,Less than 50;000
+1185,Touba,Cote d'Ivoire,Provincial capital,IV,27504,7,Less than 50;000
+1186,Mazatenango,Guatemala,Provincial capital,GT,44132,7,Less than 50;000
+1187,Biankouma,Cote d'Ivoire,Provincial capital,IV,22868,7,Less than 50;000
+1188,Barranquilla,Colombia,Provincial capital,CO,1380425,2,1;000;000 to 4;999;999
+1189,Yaounde,Cameroon,National and provincial capital,CM,1299369,2,1;000;000 to 4;999;999
+1190,Salama,Guatemala,Provincial capital,GT,-999,7,Less than 50;000
+1191,Man,Cote d'Ivoire,Provincial capital,IV,139341,5,100;000 to 249;999
+1192,El Progreso,Guatemala,Provincial capital,GT,7350,7,Less than 50;000
+1193,Nola,Central African Republic,Provincial capital,CT,26809,7,Less than 50;000
+1194,Danane,Cote d'Ivoire,Provincial capital,IV,53808,6,50;000 to 99;999
+1195,Chimaltenango,Guatemala,Provincial capital,GT,82370,6,50;000 to 99;999
+1196,Valledupar,Colombia,Provincial capital,CO,308237,4,250;000 to 499;999
+1197,Bangolo,Cote d'Ivoire,Provincial capital,IV,17712,7,Less than 50;000
+1198,Cartagena,Colombia,Provincial capital,CO,952024,3,500;000 to 999;999
+1199,Duekoue,Cote d'Ivoire,Provincial capital,IV,47198,7,Less than 50;000
+1200,Guatemala,Guatemala,National and provincial capital,GT,994938,3,500;000 to 999;999
+1201,Ebebiyin,Equatorial Guinea,Provincial capital,EK,24831,7,Less than 50;000
+1202,Guiglo,Cote d'Ivoire,Provincial capital,IV,39134,7,Less than 50;000
+1203,Sincelejo,Colombia,Provincial capital,CO,261187,4,250;000 to 499;999
+1204,Antigua Guatemala,Guatemala,Provincial capital,GT,39368,7,Less than 50;000
+1205,Escuintla,Guatemala,Provincial capital,GT,103165,5,100;000 to 249;999
+1206,Zwedru,Liberia,Provincial capital,LI,25678,7,Less than 50;000
+1207,Mongomo,Equatorial Guinea,Provincial capital,EK,6393,7,Less than 50;000
+1208,Monteria,Colombia,Provincial capital,CO,272420,4,250;000 to 499;999
+1209,Cuilapa,Guatemala,Provincial capital,GT,16484,7,Less than 50;000
+1210,Mankono,Cote d'Ivoire,Provincial capital,IV,19095,7,Less than 50;000
+1211,Ouesso,Congo,Provincial capital,CF,23915,7,Less than 50;000
+1212,La Palma,Panama,Provincial capital,PM,1845,7,Less than 50;000
+1213,Seguela,Cote d'Ivoire,Provincial capital,IV,51157,6,50;000 to 99;999
+1214,Pinar Del Rio,Cuba,Provincial capital,CU,186990,5,100;000 to 249;999
+1215,Oyem,Gabon,Provincial capital,GB,30870,7,Less than 50;000
+1216,Zuenoula,Cote d'Ivoire,Provincial capital,IV,34435,7,Less than 50;000
+1217,Medellin,Colombia,Provincial capital,CO,1999979,2,1;000;000 to 4;999;999
+1218,Santa Clara,Cuba,Provincial capital,CU,250512,4,250;000 to 499;999
+1219,Vavoua,Cote d'Ivoire,Provincial capital,IV,31250,7,Less than 50;000
+1220,Quibdo,Colombia,Provincial capital,CO,75104,6,50;000 to 99;999
+1221,Makokou,Gabon,Provincial capital,GB,13571,7,Less than 50;000
+1222,Cienfuegos,Cuba,Provincial capital,CU,186644,5,100;000 to 249;999
+1223,Bouafle,Cote d'Ivoire,Provincial capital,IV,60962,6,50;000 to 99;999
+1224,Maracaibo,Venezuela,Provincial capital,VE,2225000,2,1;000;000 to 4;999;999
+1225,Maroua,Cameroon,Provincial capital,CM,319941,4,250;000 to 499;999
+1226,Sancti Spiritus,Cuba,Provincial capital,CU,127069,5,100;000 to 249;999
+1227,Daloa,Cote d'Ivoire,Provincial capital,IV,215652,5,100;000 to 249;999
+1228,Sinfra,Cote d'Ivoire,Provincial capital,IV,59919,6,50;000 to 99;999
+1229,Trujillo,Venezuela,Provincial capital,VE,38110,7,Less than 50;000
+1230,Bongor,Chad,Provincial capital,CD,27770,7,Less than 50;000
+1231,Nueva Gerona,Cuba,Provincial capital,CU,20264,7,Less than 50;000
+1232,Issia,Cote d'Ivoire,Provincial capital,IV,1937,7,Less than 50;000
+1233,Gagnoa,Cote d'Ivoire,Provincial capital,IV,123184,5,100;000 to 249;999
+1234,Lai,Chad,Provincial capital,CD,19382,7,Less than 50;000
+1235,Merida,Venezuela,Provincial capital,VE,300000,4,250;000 to 499;999
+1236,Ciego De Avila,Cuba,Provincial capital,CU,142027,5,100;000 to 249;999
+1237,Lakota,Cote d'Ivoire,Provincial capital,IV,38055,7,Less than 50;000
+1238,George Town,Cayman Is.,National and provincial capital,CJ,29370,7,Less than 50;000
+1239,Soubre,Cote d'Ivoire,Provincial capital,IV,58492,6,50;000 to 99;999
+1240,Garoua,Cameroon,Provincial capital,CM,436899,4,250;000 to 499;999
+1241,Cucuta,Colombia,Provincial capital,CO,721398,3,500;000 to 999;999
+1242,Halifax,Canada,Provincial capital,CA,359111,4,250;000 to 499;999
+1243,Bobo Dioulasso,Burkina Faso,Provincial capital,UV,360106,4,250;000 to 499;999
+1244,Yola,Nigeria,Provincial capital,NI,96006,6,50;000 to 99;999
+1245,Orodara,Burkina Faso,Provincial capital,UV,18632,7,Less than 50;000
+1246,Jalingo,Nigeria,Provincial capital,NI,117757,5,100;000 to 249;999
+1247,San Cristobal,Venezuela,Provincial capital,VE,246583,5,100;000 to 249;999
+1248,Hamilton,Bermuda,National and provincial capital,BD,902,7,Less than 50;000
+1249,Diebougou,Burkina Faso,Provincial capital,UV,12732,7,Less than 50;000
+1250,Banfora,Burkina Faso,Provincial capital,UV,60288,6,50;000 to 99;999
+1251,Doba,Chad,Provincial capital,CD,24336,7,Less than 50;000
+1252,Bucaramanga,Colombia,Provincial capital,CO,571820,3,500;000 to 999;999
+1253,Gaoua,Burkina Faso,Provincial capital,UV,-999,7,Less than 50;000
+1254,Alajuela,Costa Rica,Provincial capital,CS,47494,7,Less than 50;000
+1255,Arauca,Colombia,Provincial capital,CO,69264,6,50;000 to 99;999
+1256,Heredia,Costa Rica,Provincial capital,CS,21947,7,Less than 50;000
+1257,Moundou,Chad,Provincial capital,CD,135167,5,100;000 to 249;999
+1258,Ferkessedougou,Cote d'Ivoire,Provincial capital,IV,62008,6,50;000 to 99;999
+1259,Bouna,Cote d'Ivoire,Provincial capital,IV,23570,7,Less than 50;000
+1260,Puerto Ayacucho,Venezuela,Provincial capital,VE,52526,6,50;000 to 99;999
+1261,Puerto Limon,Costa Rica,Provincial capital,CS,63081,6,50;000 to 99;999
+1262,San Felipe,Venezuela,Provincial capital,VE,76766,6,50;000 to 99;999
+1263,Ngaoundere,Cameroon,Provincial capital,CM,231357,5,100;000 to 249;999
+1264,Tanda,Cote d'Ivoire,Provincial capital,IV,20161,7,Less than 50;000
+1265,San Jose,Costa Rica,National and provincial capital,CS,335007,4,250;000 to 499;999
+1266,Am Timan,Chad,Provincial capital,CD,28885,7,Less than 50;000
+1267,Maracay,Venezuela,Provincial capital,VE,-999,7,Less than 50;000
+1268,Agnibilekrou,Cote d'Ivoire,Provincial capital,IV,43061,7,Less than 50;000
+1269,Cartago,Costa Rica,Provincial capital,CS,26594,7,Less than 50;000
+1270,Valencia,Venezuela,Provincial capital,VE,1385083,2,1;000;000 to 4;999;999
+1271,Sarh,Chad,Provincial capital,CD,102528,5,100;000 to 249;999
+1272,Yamoussoukro,Cote d'Ivoire,National and provincial capital,IV,194530,5,100;000 to 249;999
+1273,Bocas del Toro,Panama,Provincial capital,PM,-999,7,Less than 50;000
+1274,Barquisimeto,Venezuela,Provincial capital,VE,809490,3,500;000 to 999;999
+1275,Ndele,Central African Republic,Provincial capital,CT,11764,7,Less than 50;000
+1276,Dimbokro,Cote d'Ivoire,Provincial capital,IV,67349,6,50;000 to 99;999
+1277,San Carlos,Venezuela,Provincial capital,VE,77192,6,50;000 to 99;999
+1278,Kaga Bandoro,Central African Republic,Provincial capital,CT,56520,6,50;000 to 99;999
+1279,David,Panama,Provincial capital,PM,82859,6,50;000 to 99;999
+1280,Toumodi,Cote d'Ivoire,Provincial capital,IV,39005,7,Less than 50;000
+1281,Guanare,Venezuela,Provincial capital,VE,112286,5,100;000 to 249;999
+1282,Oume,Cote d'Ivoire,Provincial capital,IV,52070,6,50;000 to 99;999
+1283,Bria,Central African Republic,Provincial capital,CT,29027,7,Less than 50;000
+1284,Oranjestad,Aruba,National and provincial capital,AA,29998,7,Less than 50;000
+1285,Tiassale,Cote d'Ivoire,Provincial capital,IV,35090,7,Less than 50;000
+1286,Barinas,Venezuela,Provincial capital,VE,-999,7,Less than 50;000
+1287,Bossangoa,Central African Republic,Provincial capital,CT,27428,7,Less than 50;000
+1288,Yopal,Colombia,Provincial capital,CO,61029,6,50;000 to 99;999
+1289,Divo,Cote d'Ivoire,Provincial capital,IV,127867,5,100;000 to 249;999
+1290,Sibut,Central African Republic,Provincial capital,CT,34267,7,Less than 50;000
+1291,Puerto Inirida,Colombia,Provincial capital,CO,7298,7,Less than 50;000
+1292,Willemstad,Netherlands Antilles,National and provincial capital,NT,125000,5,100;000 to 249;999
+1293,Dabakala,Cote d'Ivoire,Provincial capital,IV,13717,7,Less than 50;000
+1294,Bambari,Central African Republic,Provincial capital,CT,32547,7,Less than 50;000
+1295,San Jose Del Guavuare,Colombia,Provincial capital,CO,22136,7,Less than 50;000
+1296,Riohacha,Colombia,Provincial capital,CO,92431,6,50;000 to 99;999
+1297,Katiola,Cote d'Ivoire,Provincial capital,IV,59641,6,50;000 to 99;999
+1298,Bouake,Cote d'Ivoire,Provincial capital,IV,567481,3,500;000 to 999;999
+1299,Kebili,Tunisia,Provincial capital,TS,19875,7,Less than 50;000
+1300,Coro,Venezuela,Provincial capital,VE,195227,5,100;000 to 249;999
+1301,Mitu,Colombia,Provincial capital,CO,5917,7,Less than 50;000
+1302,Beoumi,Cote d'Ivoire,Provincial capital,IV,23053,7,Less than 50;000
+1303,Mbahiakro,Cote d'Ivoire,Provincial capital,IV,-999,7,Less than 50;000
+1304,Medemine,Tunisia,Provincial capital,TS,-999,7,Less than 50;000
+1305,Santiago,Panama,Provincial capital,PM,45355,7,Less than 50;000
+1306,Sakassou,Cote d'Ivoire,Provincial capital,IV,15068,7,Less than 50;000
+1307,Toronto,Canada,Provincial capital,CA,4612191,2,1;000;000 to 4;999;999
+1308,Daoukro,Cote d'Ivoire,Provincial capital,IV,40175,7,Less than 50;000
+1309,Buffalo,United States,Other,US,14283,7,Less than 50;000
+1310,Tataouine,Tunisia,Provincial capital,TS,62577,6,50;000 to 99;999
+1311,Abengourou,Cote d'Ivoire,Provincial capital,IV,104020,5,100;000 to 249;999
+1312,Chitre,Panama,Provincial capital,PM,43966,7,Less than 50;000
+1313,Ghardina,Algeria,Provincial capital,AG,-999,7,Less than 50;000
+1314,Las Tablas,Panama,Provincial capital,PM,8570,7,Less than 50;000
+1315,Detroit,United States,Other,US,951270,3,500;000 to 999;999
+1316,Bongouanou,Cote d'Ivoire,Provincial capital,IV,34405,7,Less than 50;000
+1317,Adzope,Cote d'Ivoire,Provincial capital,IV,61884,6,50;000 to 99;999
+1318,Cleveland,United States,Other,US,12763,7,Less than 50;000
+1319,Ghadamis,Libya,Other,LY,-999,7,Less than 50;000
+1320,San Carlos,Nicaragua,Provincial capital,NU,13451,7,Less than 50;000
+1321,Liberia,Costa Rica,Provincial capital,CS,45380,7,Less than 50;000
+1322,Agboville,Cote d'Ivoire,Provincial capital,IV,81770,6,50;000 to 99;999
+1323,In Salah,Algeria,Other,AG,-999,7,Less than 50;000
+1324,Pittsburgh,United States,Other,US,319494,4,250;000 to 499;999
+1325,Po,Burkina Faso,Provincial capital,UV,17924,7,Less than 50;000
+1326,Puntarenas,Costa Rica,Provincial capital,CS,35650,7,Less than 50;000
+1327,Leo,Burkina Faso,Provincial capital,UV,26884,7,Less than 50;000
+1328,Columbus,United States,Provincial capital,US,20823,7,Less than 50;000
+1329,Tamanrasset,Algeria,Other,AG,73128,6,50;000 to 99;999
+1330,Blida,Algeria,Provincial capital,AG,-999,7,Less than 50;000
+1331,El Porvenir,Panama,Provincial capital,PM,10,7,Less than 50;000
+1332,Bolgatanga,Ghana,Provincial capital,GH,54430,6,50;000 to 99;999
+1333,Nassau,The Bahamas,National capital,BF,227940,5,100;000 to 249;999
+1334,Bouira,Algeria,Provincial capital,AG,-999,7,Less than 50;000
+1335,Colon,Panama,Provincial capital,PM,76643,6,50;000 to 99;999
+1336,Wa,Ghana,Provincial capital,GH,78107,6,50;000 to 99;999
+1337,Setif,Algeria,Provincial capital,AG,-999,7,Less than 50;000
+1338,Mobile,United States,Other,US,190274,5,100;000 to 249;999
+1339,Panama,Panama,National and provincial capital,PM,408168,4,250;000 to 499;999
+1340,Tamale,Ghana,Provincial capital,GH,360579,4,250;000 to 499;999
+1341,Bordj Bou Arreridj,Algeria,Provincial capital,AG,-999,7,Less than 50;000
+1342,Bondoukou,Cote d'Ivoire,Provincial capital,IV,58297,6,50;000 to 99;999
+1343,Montgomery,United States,Provincial capital,US,198325,5,100;000 to 249;999
+1344,Penonome,Panama,Provincial capital,PM,12394,7,Less than 50;000
+1345,M'sila,Algeria,Provincial capital,AG,-999,7,Less than 50;000
+1346,Esmeraldas,Ecuador,Provincial capital,EC,-999,7,Less than 50;000
+1347,Djelfa,Algeria,Provincial capital,AG,-999,7,Less than 50;000
+1348,Sunyani,Ghana,Provincial capital,GH,70299,6,50;000 to 99;999
+1349,Tallahassee,United States,Provincial capital,US,153583,5,100;000 to 249;999
+1350,Laghouat,Algeria,Provincial capital,AG,113872,5,100;000 to 249;999
+1351,San Andres,Colombia,Provincial capital,CO,58257,6,50;000 to 99;999
+1352,Tizi-Ouzou,Algeria,Provincial capital,AG,-999,7,Less than 50;000
+1353,Kumasi,Ghana,Provincial capital,GH,1468609,2,1;000;000 to 4;999;999
+1354,Jacksonville,United States,Other,US,797557,3,500;000 to 999;999
+1355,Roatan,Honduras,Provincial capital,HO,7514,7,Less than 50;000
+1356,Algiers,Algeria,National and provincial capital,AG,1977663,2,1;000;000 to 4;999;999
+1357,Tampa,United States,Other,US,324465,4,250;000 to 499;999
+1358,Koforidua,Ghana,Provincial capital,GH,96266,6,50;000 to 99;999
+1359,Trujillo,Honduras,Provincial capital,HO,9646,7,Less than 50;000
+1360,Bejaia,Algeria,Provincial capital,AG,164103,5,100;000 to 249;999
+1361,Medea,Algeria,Provincial capital,AG,147707,5,100;000 to 249;999
+1362,Miami,United States,Other,US,13336,7,Less than 50;000
+1363,Accra,Ghana,National and provincial capital,GH,1963264,2,1;000;000 to 4;999;999
+1364,La Ceiba,Honduras,Provincial capital,HO,130218,5,100;000 to 249;999
+1365,Matanzas,Cuba,Provincial capital,CU,146733,5,100;000 to 249;999
+1366,Mostaganem,Algeria,Provincial capital,AG,130000,5,100;000 to 249;999
+1367,Aboisso,Cote d'Ivoire,Provincial capital,IV,37654,7,Less than 50;000
+1368,Puerto Lempira,Honduras,Provincial capital,HO,4856,7,Less than 50;000
+1369,Mascara,Algeria,Provincial capital,AG,-999,7,Less than 50;000
+1370,Abidjan,Cote d'Ivoire,Provincial capital,IV,3677115,2,1;000;000 to 4;999;999
+1371,Tiaret,Algeria,Provincial capital,AG,-999,7,Less than 50;000
+1372,Havana,Cuba,National and provincial capital,CU,2163824,2,1;000;000 to 4;999;999
+1373,Juticalpa,Honduras,Provincial capital,HO,33686,7,Less than 50;000
+1374,Saida,Algeria,Provincial capital,AG,127497,5,100;000 to 249;999
+1375,Grand Lahou,Cote d'Ivoire,Provincial capital,IV,10273,7,Less than 50;000
+1376,Milwaukee,United States,Other,US,579180,3,500;000 to 999;999
+1377,Cape Coast,Ghana,Provincial capital,GH,143015,5,100;000 to 249;999
+1378,Bluefields,Nicaragua,Provincial capital,NU,44373,7,Less than 50;000
+1379,Montpellier,France,Provincial capital,FR,248252,5,100;000 to 249;999
+1380,Sekondi,Ghana,Provincial capital,GH,138872,5,100;000 to 249;999
+1381,Madison,United States,Provincial capital,US,19100,7,Less than 50;000
+1382,San Francisco Gotera,El Salvador,Provincial capital,ES,-999,7,Less than 50;000
+1383,Lansing,United States,Provincial capital,US,117691,5,100;000 to 249;999
+1384,Toulouse,France,Provincial capital,FR,433055,4,250;000 to 499;999
+1385,Biltine,Chad,Provincial capital,CD,11000,7,Less than 50;000
+1386,Nacaome,Honduras,Provincial capital,HO,13929,7,Less than 50;000
+1387,Chicago,United States,Other,US,2841952,2,1;000;000 to 4;999;999
+1388,Marseille,France,Provincial capital,FR,794811,3,500;000 to 999;999
+1389,Abeche,Chad,Provincial capital,CD,74188,6,50;000 to 99;999
+1390,San Miguel,El Salvador,Provincial capital,ES,-999,7,Less than 50;000
+1391,Zinder,Niger,Provincial capital,NG,191424,5,100;000 to 249;999
+1392,Usulutan,El Salvador,Provincial capital,ES,51910,6,50;000 to 99;999
+1393,La Union,El Salvador,Provincial capital,ES,26807,7,Less than 50;000
+1394,Maradi,Niger,Provincial capital,NG,163487,5,100;000 to 249;999
+1395,Andorra La Valla,Andorra,National capital,AN,20430,7,Less than 50;000
+1396,Indianapolis,United States,Provincial capital,US,773283,3,500;000 to 999;999
+1397,Ati,Chad,Provincial capital,CD,24074,7,Less than 50;000
+1398,Choluteca,Honduras,Provincial capital,HO,-999,7,Less than 50;000
+1399,Katsina,Nigeria,Provincial capital,NI,432149,4,250;000 to 499;999
+1400,Barcelona,Spain,Provincial capital,SP,1581595,2,1;000;000 to 4;999;999
+1401,Springfield,United States,Provincial capital,US,23363,7,Less than 50;000
+1402,Mongo,Chad,Provincial capital,CD,27763,7,Less than 50;000
+1403,Cojutepeque,El Salvador,Provincial capital,ES,48411,7,Less than 50;000
+1404,Palma De Mallorca,Spain,Provincial capital,SP,375773,4,250;000 to 499;999
+1405,Kano,Nigeria,Provincial capital,NI,3626068,2,1;000;000 to 4;999;999
+1406,Cincinnati,United States,Other,US,306382,4,250;000 to 499;999
+1407,Santa Ana,El Salvador,Provincial capital,ES,176661,5,100;000 to 249;999
+1408,Ahuachapan,El Salvador,Provincial capital,ES,34102,7,Less than 50;000
+1409,Genoa,Italy,Provincial capital,IT,601951,3,500;000 to 999;999
+1410,Dutse,Nigeria,Provincial capital,NI,17129,7,Less than 50;000
+1411,Sensuntepeque,El Salvador,Provincial capital,ES,20386,7,Less than 50;000
+1412,Florence,Italy,Other,IT,371517,4,250;000 to 499;999
+1413,Noril`sk,Russia,Other,RS,140800,5,100;000 to 249;999
+1414,Monaco,Monaco,National capital,MN,1020,7,Less than 50;000
+1415,Umuahia,Nigeria,Provincial capital,NI,264662,4,250;000 to 499;999
+1416,Sonsonate,El Salvador,Provincial capital,ES,59468,6,50;000 to 99;999
+1417,Owerri,Nigeria,Provincial capital,NI,215038,5,100;000 to 249;999
+1418,Ajaccio,France,Provincial capital,FR,54364,6,50;000 to 99;999
+1419,San Salvador,El Salvador,National and provincial capital,ES,525990,3,500;000 to 999;999
+1420,Guelma,Algeria,Provincial capital,AG,123590,5,100;000 to 249;999
+1421,Uyo,Nigeria,Provincial capital,NI,-999,7,Less than 50;000
+1422,Nueva San Salvador,El Salvador,Provincial capital,ES,124694,5,100;000 to 249;999
+1423,Constantine,Algeria,Provincial capital,AG,450097,4,250;000 to 499;999
+1424,Calabar,Nigeria,Provincial capital,NI,461796,4,250;000 to 499;999
+1425,Oum el Bouaghi,Algeria,Provincial capital,AG,100821,5,100;000 to 249;999
+1426,San Vicente,El Salvador,Provincial capital,ES,37326,7,Less than 50;000
+1427,Batna,Algeria,Provincial capital,AG,280798,4,250;000 to 499;999
+1428,Tbessa,Algeria,Provincial capital,AG,-999,7,Less than 50;000
+1429,Port Harcourt,Nigeria,Provincial capital,NI,1148665,2,1;000;000 to 4;999;999
+1430,Zacatecoluca,El Salvador,Provincial capital,ES,39613,7,Less than 50;000
+1431,Biskra,Algeria,Provincial capital,AG,-999,7,Less than 50;000
+1432,Tozeur,Tunisia,Provincial capital,TS,34943,7,Less than 50;000
+1433,Santo Antonio,Sao Tome & Principe,Provincial capital,TP,12529,7,Less than 50;000
+1434,Punta Gorda,Belize,Provincial capital,BH,5026,7,Less than 50;000
+1435,Cagliari,Italy,Provincial capital,IT,164249,5,100;000 to 249;999
+1436,Sao Tome,Sao Tome & Principe,National and provincial capital,TP,53300,6,50;000 to 99;999
+1437,Puerto Barrios,Guatemala,Provincial capital,GT,56605,6,50;000 to 99;999
+1438,Bizerte,Tunisia,Provincial capital,TS,115268,5,100;000 to 249;999
+1439,Zacapa,Guatemala,Provincial capital,GT,36088,7,Less than 50;000
+1440,L'Ariana,Tunisia,Provincial capital,TS,-999,7,Less than 50;000
+1441,Dudinka,Russia,Provincial capital,RS,23619,7,Less than 50;000
+1442,Chiquimula,Guatemala,Provincial capital,GT,41521,7,Less than 50;000
+1443,Annaba,Algeria,Provincial capital,AG,206570,5,100;000 to 249;999
+1444,Skikda,Algeria,Provincial capital,AG,162702,5,100;000 to 249;999
+1445,Tunis,Tunisia,National and provincial capital,TS,693210,3,500;000 to 999;999
+1446,Jijel,Algeria,Provincial capital,AG,-999,7,Less than 50;000
+1447,Bafoussam,Cameroon,Provincial capital,CM,290768,4,250;000 to 499;999
+1448,Santa Rosa,Honduras,Provincial capital,HO,27753,7,Less than 50;000
+1449,Beja,Tunisia,Provincial capital,TS,57233,6,50;000 to 99;999
+1450,Jalapa,Guatemala,Provincial capital,GT,45834,7,Less than 50;000
+1451,Buea,Cameroon,Provincial capital,CM,-999,7,Less than 50;000
+1452,Nueva Ocotepeque,Honduras,Provincial capital,HO,8780,7,Less than 50;000
+1453,Douala,Cameroon,Other,CM,1338082,2,1;000;000 to 4;999;999
+1454,Jutiapa,Guatemala,Provincial capital,GT,34332,7,Less than 50;000
+1455,Malabo,Equatorial Guinea,National and provincial capital,EK,155963,5,100;000 to 249;999
+1456,Chalatenango,El Salvador,Provincial capital,ES,19364,7,Less than 50;000
+1457,Luba,Equatorial Guinea,Provincial capital,EK,8655,7,Less than 50;000
+1458,San Pedro Sula,Honduras,Provincial capital,HO,489466,4,250;000 to 499;999
+1459,Ebolowa,Cameroon,Provincial capital,CM,87875,6,50;000 to 99;999
+1460,Yoro,Honduras,Provincial capital,HO,15774,7,Less than 50;000
+1461,Bauchi,Nigeria,Provincial capital,NI,316149,4,250;000 to 499;999
+1462,Santa Barbara,Honduras,Provincial capital,HO,15119,7,Less than 50;000
+1463,Gracias,Honduras,Provincial capital,HO,7909,7,Less than 50;000
+1464,Jos,Nigeria,Provincial capital,NI,816824,3,500;000 to 999;999
+1465,Comayagua,Honduras,Provincial capital,HO,58784,6,50;000 to 99;999
+1466,Makurdi,Nigeria,Provincial capital,NI,292645,4,250;000 to 499;999
+1467,La Esperanza,Honduras,Provincial capital,HO,5318,7,Less than 50;000
+1468,La Paz,Honduras,Provincial capital,HO,17555,7,Less than 50;000
+1469,Bamenda,Cameroon,Provincial capital,CM,393835,4,250;000 to 499;999
+1470,Tegucigalpa,Honduras,National and provincial capital,HO,850848,3,500;000 to 999;999
+1471,Bata,Equatorial Guinea,Provincial capital,EK,173046,5,100;000 to 249;999
+1472,Chinandega,Nicaragua,Provincial capital,NU,126387,5,100;000 to 249;999
+1473,Boaco,Nicaragua,Provincial capital,NU,29046,7,Less than 50;000
+1474,Evinayong,Equatorial Guinea,Provincial capital,EK,8462,7,Less than 50;000
+1475,Libreville,Gabon,National and provincial capital,GB,578156,3,500;000 to 999;999
+1476,Leon,Nicaragua,Provincial capital,NU,144538,5,100;000 to 249;999
+1477,Natitingou,Benin,Provincial capital,BN,80892,6,50;000 to 99;999
+1478,Managua,Nicaragua,National and provincial capital,NU,973087,3,500;000 to 999;999
+1479,Parakou,Benin,Provincial capital,BN,163753,5,100;000 to 249;999
+1480,Juigalpa,Nicaragua,Provincial capital,NU,54731,6,50;000 to 99;999
+1481,Bassar,Togo,Provincial capital,TO,61845,6,50;000 to 99;999
+1482,Masaya,Nicaragua,Provincial capital,NU,130113,5,100;000 to 249;999
+1483,Sotouboua,Togo,Provincial capital,TO,21054,7,Less than 50;000
+1484,Granada,Nicaragua,Provincial capital,NU,89409,6,50;000 to 99;999
+1485,Oshogbo,Nigeria,Provincial capital,NI,-999,7,Less than 50;000
+1486,Jinotepe,Nicaragua,Provincial capital,NU,29507,7,Less than 50;000
+1487,Ibadan,Nigeria,Other,NI,3565108,2,1;000;000 to 4;999;999
+1488,Rivas,Nicaragua,Provincial capital,NU,30293,7,Less than 50;000
+1489,Akure,Nigeria,Provincial capital,NI,420594,4,250;000 to 499;999
+1490,Abeokuta,Nigeria,Provincial capital,NI,593100,3,500;000 to 999;999
+1491,Yuscaran,Honduras,Provincial capital,HO,2371,7,Less than 50;000
+1492,Lagos,Nigeria,Other,NI,9000000,1,5;000;000 and greater
+1493,Ocotal,Nicaragua,Provincial capital,NU,33928,7,Less than 50;000
+1494,Ilorin,Nigeria,Provincial capital,NI,814192,3,500;000 to 999;999
+1495,Somoto,Nicaragua,Provincial capital,NU,20316,7,Less than 50;000
+1496,Jinotega,Nicaragua,Provincial capital,NU,51073,6,50;000 to 99;999
+1497,Abomey,Benin,Provincial capital,BN,82154,6,50;000 to 99;999
+1498,Esteli,Nicaragua,Provincial capital,NU,96422,6,50;000 to 99;999
+1499,Matagalpa,Nicaragua,Provincial capital,NU,109089,5,100;000 to 249;999
+1500,Merida,Mexico,Provincial capital,MX,717175,3,500;000 to 999;999
+1501,Kpalime,Togo,Provincial capital,TO,95974,6,50;000 to 99;999
+1502,Chetumal,Mexico,Provincial capital,MX,134412,5,100;000 to 249;999
+1503,Corozal,Belize,Provincial capital,BH,8724,7,Less than 50;000
+1504,Lokossa,Benin,Provincial capital,BN,86971,6,50;000 to 99;999
+1505,Orange Walk,Belize,Provincial capital,BH,15298,7,Less than 50;000
+1506,Belize,Belize,Provincial capital,BH,61461,6,50;000 to 99;999
+1507,Porto Novo,Benin,National and provincial capital,BN,234168,5,100;000 to 249;999
+1508,El Cayo,Belize,Provincial capital,BH,-999,7,Less than 50;000
+1509,Ho,Ghana,Provincial capital,GH,69998,6,50;000 to 99;999
+1510,Belmopan,Belize,National capital,BH,13381,7,Less than 50;000
+1511,Cotonou,Benin,Provincial capital,BN,690584,3,500;000 to 999;999
+1512,Lome,Togo,National and provincial capital,TO,749700,3,500;000 to 999;999
+1513,Stann Creek Town,Belize,Provincial capital,BH,-999,7,Less than 50;000
+1514,Flores,Guatemala,Provincial capital,GT,20464,7,Less than 50;000
+1515,Grand Turk,Turks & Caicos Is.,National and provincial capital,TK,3720,7,Less than 50;000
+1516,Port-De-Paix,Haiti,Provincial capital,HA,-999,7,Less than 50;000
+1517,Monte Cristi,Dominican Republic,Provincial capital,DR,-999,7,Less than 50;000
+1518,Puerto Plata,Dominican Republic,Provincial capital,DR,-999,7,Less than 50;000
+1519,Cap-Haitien,Haiti,Provincial capital,HA,134815,5,100;000 to 249;999
+1520,Santa Marta,Colombia,Provincial capital,CO,431781,4,250;000 to 499;999
+1521,Camaguey,Cuba,Provincial capital,CU,347562,4,250;000 to 499;999
+1522,Victoria De Las Tunas,Cuba,Provincial capital,CU,-999,7,Less than 50;000
+1523,Holguin,Cuba,Provincial capital,CU,319102,4,250;000 to 499;999
+1524,Manzanillo,Cuba,Provincial capital,CU,128188,5,100;000 to 249;999
+1525,Guantanamo,Cuba,Provincial capital,CU,272801,4,250;000 to 499;999
+1526,Santiago De Cuba,Cuba,Provincial capital,CU,555865,3,500;000 to 999;999
+1527,Jeremie,Haiti,Provincial capital,HA,30917,7,Less than 50;000
+1528,Les Cayes,Haiti,Provincial capital,HA,59319,6,50;000 to 99;999
+1529,Falmouth,Jamaica,Provincial capital,JM,7779,7,Less than 50;000
+1530,Montego Bay,Jamaica,Provincial capital,JM,82867,6,50;000 to 99;999
+1531,Lucea,Jamaica,Provincial capital,JM,6289,7,Less than 50;000
+1532,Savanna La Mar,Jamaica,Provincial capital,JM,-999,7,Less than 50;000
+1533,Mandeville,Jamaica,Provincial capital,JM,47115,7,Less than 50;000
+1534,Black River,Jamaica,Provincial capital,JM,4229,7,Less than 50;000
+1535,Halfway Tree,Jamaica,Provincial capital,JM,-999,7,Less than 50;000
+1536,St. Anns Bay,Jamaica,Provincial capital,JM,-999,7,Less than 50;000
+1537,Port Maria,Jamaica,Provincial capital,JM,7906,7,Less than 50;000
+1538,Port Antonio,Jamaica,Provincial capital,JM,-999,7,Less than 50;000
+1539,Spanish Town,Jamaica,Provincial capital,JM,145018,5,100;000 to 249;999
+1540,May Pen,Jamaica,Provincial capital,JM,44755,7,Less than 50;000
+1541,Koszalin,Poland,Provincial capital,PL,107450,5,100;000 to 249;999
+1542,Erzurum,Turkey,Provincial capital,TU,420691,4,250;000 to 499;999
+1543,Jendouba,Tunisia,Provincial capital,TS,51408,6,50;000 to 99;999
+1544,Szczecin,Poland,Provincial capital,PL,407811,4,250;000 to 499;999
+1545,Rimnicu Vilcea,Romania,Provincial capital,RO,107558,5,100;000 to 249;999
+1546,Ismailia,Egypt,Provincial capital,EG,284813,4,250;000 to 499;999
+1547,Le Kef,Tunisia,Provincial capital,TS,-999,7,Less than 50;000
+1548,Erzincan,Turkey,Provincial capital,TU,114027,5,100;000 to 249;999
+1549,Zagizig,Egypt,Provincial capital,EG,-999,7,Less than 50;000
+1550,Pila,Poland,Provincial capital,PL,75532,6,50;000 to 99;999
+1551,Targu Jiu,Romania,Provincial capital,RO,97179,6,50;000 to 99;999
+1552,Siliana,Tunisia,Provincial capital,TS,26960,7,Less than 50;000
+1553,Gorzow Wielkopolski,Poland,Provincial capital,PL,124430,5,100;000 to 249;999
+1554,Bistrita,Romania,Provincial capital,RO,81318,6,50;000 to 99;999
+1555,Kasserine,Tunisia,Provincial capital,TS,81987,6,50;000 to 99;999
+1556,Nal'chik,Russia,Provincial capital,RS,272800,4,250;000 to 499;999
+1557,Benha,Egypt,Provincial capital,EG,-999,7,Less than 50;000
+1558,Zielona Gora,Poland,Provincial capital,PL,118433,5,100;000 to 249;999
+1559,Targu-Mures,Romania,Provincial capital,RO,146863,5,100;000 to 249;999
+1560,Sdid Bouzid,Tunisia,Provincial capital,TS,-999,7,Less than 50;000
+1561,Leszno,Poland,Provincial capital,PL,63565,6,50;000 to 99;999
+1562,Vladikavkaz,Russia,Provincial capital,RS,317370,4,250;000 to 499;999
+1563,Cairo,Egypt,National and provincial capital,EG,7734614,1,5;000;000 and greater
+1564,Botosani,Romania,Provincial capital,RO,114783,5,100;000 to 249;999
+1565,Legnica,Poland,Provincial capital,PL,106033,5,100;000 to 249;999
+1566,Sfax,Tunisia,Other,TS,277278,4,250;000 to 499;999
+1567,Suceava,Romania,Provincial capital,RO,105796,5,100;000 to 249;999
+1568,Nazran,Russia,Provincial capital,RS,164131,5,100;000 to 249;999
+1569,Gafsa,Tunisia,Provincial capital,TS,81232,6,50;000 to 99;999
+1570,Giza,Egypt,Other,EG,2443203,2,1;000;000 to 4;999;999
+1571,Iasi,Romania,Provincial capital,RO,318012,4,250;000 to 499;999
+1572,Jelenia Gora,Poland,Provincial capital,PL,87310,6,50;000 to 99;999
+1573,T'Bilisi,Georgia,National and provincial capital,GG,1049498,2,1;000;000 to 4;999;999
+1574,Gabes,Tunisia,Provincial capital,TS,110075,5,100;000 to 249;999
+1575,Suez,Egypt,Other,EG,488125,4,250;000 to 499;999
+1576,Piatra-Neamt,Romania,Provincial capital,RO,102688,5,100;000 to 249;999
+1577,Walbrzych,Poland,Provincial capital,PL,127431,5,100;000 to 249;999
+1578,Kars,Turkey,Provincial capital,TU,77486,6,50;000 to 99;999
+1579,Nabeul,Tunisia,Provincial capital,TS,-999,7,Less than 50;000
+1580,Vaslui,Romania,Provincial capital,RO,69225,6,50;000 to 99;999
+1581,Beni Suef,Egypt,Provincial capital,EG,-999,7,Less than 50;000
+1582,Usti Nad Labem,Czech Republic,Provincial capital,EZ,94105,6,50;000 to 99;999
+1583,Zaghouan,Tunisia,Provincial capital,TS,16911,7,Less than 50;000
+1584,Bacau,Romania,Provincial capital,RO,171396,5,100;000 to 249;999
+1585,Sousse,Tunisia,Provincial capital,TS,164123,5,100;000 to 249;999
+1586,Gdynia,Poland,Other,PL,253730,4,250;000 to 499;999
+1587,Yerevan,Armenia,National capital,AM,1093485,2,1;000;000 to 4;999;999
+1588,Piraeus,Greece,Other,GR,172429,5,100;000 to 249;999
+1589,Monasir,Tunisia,Provincial capital,TS,71546,6,50;000 to 99;999
+1590,Miercurea-Cuic,Romania,Provincial capital,RO,41282,7,Less than 50;000
+1591,Kaliningrad,Russia,Provincial capital,RS,434954,4,250;000 to 499;999
+1592,Slupsk,Poland,Provincial capital,PL,98608,6,50;000 to 99;999
+1593,Agri,Turkey,Provincial capital,TU,92022,6,50;000 to 99;999
+1594,Manisa,Turkey,Provincial capital,TU,243971,5,100;000 to 249;999
+1595,Kairouan,Tunisia,Provincial capital,TS,119794,5,100;000 to 249;999
+1596,Gdansk,Poland,Provincial capital,PL,461865,4,250;000 to 499;999
+1597,Sfintu-Gheorghe,Romania,Provincial capital,RO,60677,6,50;000 to 99;999
+1598,Tunceli,Turkey,Provincial capital,TU,29062,7,Less than 50;000
+1599,Mahdia,Tunisia,Provincial capital,TS,-999,7,Less than 50;000
+1600,Elblag,Poland,Provincial capital,PL,127558,5,100;000 to 249;999
+1601,Brasov,Romania,Provincial capital,RO,276088,4,250;000 to 499;999
+1602,Olsztyn,Poland,Provincial capital,PL,171803,5,100;000 to 249;999
+1603,Focsani,Romania,Provincial capital,RO,105112,5,100;000 to 249;999
+1604,Izmir,Turkey,Provincial capital,TU,2500603,2,1;000;000 to 4;999;999
+1605,Bingol,Turkey,Provincial capital,TU,80568,6,50;000 to 99;999
+1606,Bydgoszcz,Poland,Provincial capital,PL,366452,4,250;000 to 499;999
+1607,Bari,Italy,Provincial capital,IT,316532,4,250;000 to 499;999
+1608,Galati,Romania,Provincial capital,RO,294087,4,250;000 to 499;999
+1609,Braila,Romania,Provincial capital,RO,213569,5,100;000 to 249;999
+1610,Torun,Poland,Provincial capital,PL,208717,5,100;000 to 249;999
+1611,Campobasso,Italy,Provincial capital,IT,50762,6,50;000 to 99;999
+1612,Buzau,Romania,Provincial capital,RO,130954,5,100;000 to 249;999
+1613,Chios,Greece,Provincial capital,GR,23953,7,Less than 50;000
+1614,Wloclawek,Poland,Provincial capital,PL,120339,5,100;000 to 249;999
+1615,Mus,Turkey,Provincial capital,TU,82536,6,50;000 to 99;999
+1616,Poznan,Poland,Provincial capital,PL,570352,3,500;000 to 999;999
+1617,Aydin,Turkey,Provincial capital,TU,163022,5,100;000 to 249;999
+1618,Bitlis,Turkey,Provincial capital,TU,-999,7,Less than 50;000
+1619,Naples,Italy,Other,IT,988972,3,500;000 to 999;999
+1620,Vilnius,Lithuania,National capital,LH,542366,3,500;000 to 999;999
+1621,Konin,Poland,Provincial capital,PL,81258,6,50;000 to 99;999
+1622,Potenza,Italy,Provincial capital,IT,69060,6,50;000 to 99;999
+1623,Iraklion,Greece,Provincial capital,GR,137154,5,100;000 to 249;999
+1624,Suwalki,Poland,Provincial capital,PL,69222,6,50;000 to 99;999
+1625,Kalisz,Poland,Provincial capital,PL,108759,5,100;000 to 249;999
+1626,Siirt,Turkey,Provincial capital,TU,114034,5,100;000 to 249;999
+1627,Hrodna,Belarus,Provincial capital,BO,317365,4,250;000 to 499;999
+1628,Wroclaw,Poland,Provincial capital,PL,634893,3,500;000 to 999;999
+1629,Catanzaro,Italy,Provincial capital,IT,95251,6,50;000 to 99;999
+1630,Bialystok,Poland,Provincial capital,PL,291855,4,250;000 to 499;999
+1631,Diyarbakir,Turkey,Provincial capital,TU,644763,3,500;000 to 999;999
+1632,Palermo,Italy,Provincial capital,IT,672175,3,500;000 to 999;999
+1633,Brest,Belarus,Provincial capital,BO,300715,4,250;000 to 499;999
+1634,Athens,Greece,National capital,GR,729137,3,500;000 to 999;999
+1635,Mardin,Turkey,Provincial capital,TU,71373,6,50;000 to 99;999
+1636,Opole,Poland,Provincial capital,PL,127676,5,100;000 to 249;999
+1637,Biala Podlaska,Poland,Provincial capital,PL,57541,6,50;000 to 99;999
+1638,Al-Hasakah,Syria,Provincial capital,SY,-999,7,Less than 50;000
+1639,Komatini,Greece,Provincial capital,GR,-999,7,Less than 50;000
+1640,Lublin,Poland,Provincial capital,PL,360044,4,250;000 to 499;999
+1641,Chelm,Poland,Provincial capital,PL,68043,6,50;000 to 99;999
+1642,Valletta,Malta,National capital,MT,6794,7,Less than 50;000
+1643,Dayr az Zawr,Syria,Provincial capital,SY,242565,5,100;000 to 249;999
+1644,Kurdzhali,Bulgaria,Provincial capital,BU,-999,7,Less than 50;000
+1645,Lodz,Poland,Provincial capital,PL,768755,3,500;000 to 999;999
+1646,Zamosc,Poland,Provincial capital,PL,66034,6,50;000 to 99;999
+1647,Kirklareli,Turkey,Provincial capital,TU,58223,6,50;000 to 99;999
+1648,Sieradz,Poland,Provincial capital,PL,44436,7,Less than 50;000
+1649,Edirne,Turkey,Provincial capital,TU,126470,5,100;000 to 249;999
+1650,Van,Turkey,Provincial capital,TU,371713,4,250;000 to 499;999
+1651,Kyiv,Ukraine,National and provincial capital,UP,2514227,2,1;000;000 to 4;999;999
+1652,Bologna,Italy,Provincial capital,IT,371217,4,250;000 to 499;999
+1653,Tekirdag,Turkey,Provincial capital,TU,122287,5,100;000 to 249;999
+1654,Hakkari,Turkey,Provincial capital,TU,77699,6,50;000 to 99;999
+1655,Dahuk,Iraq,Provincial capital,IZ,-999,7,Less than 50;000
+1656,Zhytomyra,Ukraine,Provincial capital,UP,282192,4,250;000 to 499;999
+1657,Thessaloniki,Greece,Other,GR,354290,4,250;000 to 499;999
+1658,Czestochowa,Poland,Provincial capital,PL,248125,5,100;000 to 249;999
+1659,San Marino,San Marino,National capital,SM,29000,7,Less than 50;000
+1660,Polygyros,Greece,Provincial capital,GR,5258,7,Less than 50;000
+1661,Cherkasy,Ukraine,Provincial capital,UP,297568,4,250;000 to 499;999
+1662,Canakkale,Turkey,Provincial capital,TU,87791,6,50;000 to 99;999
+1663,Ancona,Italy,Provincial capital,IT,100507,5,100;000 to 249;999
+1664,Lomza,Poland,Provincial capital,PL,63723,6,50;000 to 99;999
+1665,Al Mawsil,Iraq,Other,IZ,1739800,2,1;000;000 to 4;999;999
+1666,Vinnytsya,Ukraine,Provincial capital,UP,352115,4,250;000 to 499;999
+1667,Balikesir,Turkey,Provincial capital,TU,238151,5,100;000 to 249;999
+1668,Perugia,Italy,Provincial capital,IT,149125,5,100;000 to 249;999
+1669,Ostroleca,Poland,Provincial capital,PL,53740,6,50;000 to 99;999
+1670,Arbil,Iraq,Provincial capital,IZ,932800,3,500;000 to 999;999
+1671,Kirovohrad,Ukraine,Provincial capital,UP,249454,5,100;000 to 249;999
+1672,Pitesti,Romania,Provincial capital,RO,167669,5,100;000 to 249;999
+1673,Aquila,Italy,Provincial capital,IT,68503,6,50;000 to 99;999
+1674,Ciechanow,Poland,Provincial capital,PL,46438,7,Less than 50;000
+1675,Chisinau,Moldova,National capital,MD,635994,3,500;000 to 999;999
+1676,Drobeta- Turmu Sererin,Romania,Provincial capital,RO,102346,5,100;000 to 249;999
+1677,Kirkuk,Iraq,Provincial capital,IZ,601433,3,500;000 to 999;999
+1678,Plock,Poland,Provincial capital,PL,127474,5,100;000 to 249;999
+1679,Rome,Italy,National and provincial capital,IT,2563241,2,1;000;000 to 4;999;999
+1680,Slatina,Romania,Provincial capital,RO,78988,6,50;000 to 99;999
+1681,Odesa,Ukraine,Provincial capital,UP,1001558,2,1;000;000 to 4;999;999
+1682,Sarajevo,Bosnia & Herzegovina,National capital,BK,696731,3,500;000 to 999;999
+1683,Craiova,Romania,Provincial capital,RO,304142,4,250;000 to 499;999
+1684,Tulcea,Romania,Provincial capital,RO,92475,6,50;000 to 99;999
+1685,Samarra,Iraq,Provincial capital,IZ,158508,5,100;000 to 249;999
+1686,Warsaw,Poland,National and provincial capital,PL,1702139,2,1;000;000 to 4;999;999
+1687,Bajram Curri,Albania,Provincial capital,AL,7967,7,Less than 50;000
+1688,Siedlce,Poland,Provincial capital,PL,76772,6,50;000 to 99;999
+1689,Alexandria,Romania,Provincial capital,RO,49346,7,Less than 50;000
+1690,Joensuu,Finland,Provincial capital,FI,53388,6,50;000 to 99;999
+1691,Shkoder,Albania,Provincial capital,AL,88245,6,50;000 to 99;999
+1692,An Nabk,Saudi Arabia,Provincial capital,SA,49372,7,Less than 50;000
+1693,Mikkeli,Finland,Provincial capital,FI,46550,7,Less than 50;000
+1694,Skierniewice,Poland,Provincial capital,PL,49042,7,Less than 50;000
+1695,Lezhe,Albania,Provincial capital,AL,18695,7,Less than 50;000
+1696,At Tafilah,Jordan,Provincial capital,JO,25429,7,Less than 50;000
+1697,Montana,Bulgaria,Provincial capital,BU,47445,7,Less than 50;000
+1698,Durres,Albania,Provincial capital,AL,122034,5,100;000 to 249;999
+1699,Hameenlinna,Finland,Provincial capital,FI,47261,7,Less than 50;000
+1700,Piotrkow Trybunalski,Poland,Provincial capital,PL,80128,6,50;000 to 99;999
+1701,Tabuk,Saudi Arabia,Provincial capital,SA,455450,4,250;000 to 499;999
+1702,Lovec,Bulgaria,Provincial capital,BU,42211,7,Less than 50;000
+1703,Kouvola,Finland,Provincial capital,FI,31133,7,Less than 50;000
+1704,Fier,Albania,Provincial capital,AL,-999,7,Less than 50;000
+1705,Ha'il,Saudi Arabia,Provincial capital,SA,-999,7,Less than 50;000
+1706,Radom,Poland,Provincial capital,PL,226794,5,100;000 to 249;999
+1707,Vlore,Albania,Provincial capital,AL,89546,6,50;000 to 99;999
+1708,Sofia,Bulgaria,National capital and provincial capital enclave,BU,1152556,2,1;000;000 to 4;999;999
+1709,Helsinki,Finland,National and provincial capital,FI,558457,3,500;000 to 999;999
+1710,Kielce,Poland,Provincial capital,PL,208598,5,100;000 to 249;999
+1711,Buraydah,Saudi Arabia,Provincial capital,SA,391336,4,250;000 to 499;999
+1712,Targoviste,Romania,Provincial capital,RO,88435,6,50;000 to 99;999
+1713,Belgrade,Serbia,National capital,RB,1273651,2,1;000;000 to 4;999;999
+1714,Katowice,Poland,Provincial capital,PL,317316,4,250;000 to 499;999
+1715,Tallinn,Estonia,National capital,EN,394024,4,250;000 to 499;999
+1716,As Suwayda,Syria,Provincial capital,SY,59052,6,50;000 to 99;999
+1717,Podgorica,Montenegro,National capital,MJ,136473,5,100;000 to 249;999
+1718,Ploiesti,Romania,Provincial capital,RO,228851,5,100;000 to 249;999
+1719,Ma'an,Jordan,Provincial capital,JO,-999,7,Less than 50;000
+1720,Erseke,Albania,Provincial capital,AL,7890,7,Less than 50;000
+1721,Slobozia,Romania,Provincial capital,RO,52693,6,50;000 to 99;999
+1722,Al Ghurdaqah,Egypt,Provincial capital,EG,95622,6,50;000 to 99;999
+1723,Bielsko-Biala,Poland,Provincial capital,PL,176515,5,100;000 to 249;999
+1724,Riga,Latvia,National capital,LG,742572,3,500;000 to 999;999
+1725,Medina,Saudi Arabia,Other,SA,1300000,2,1;000;000 to 4;999;999
+1726,Skopje,FYR of Macedonia,National capital,MK,474889,4,250;000 to 499;999
+1727,Ostrava,Czech Republic,Provincial capital,EZ,313088,4,250;000 to 499;999
+1728,Bucharest,Romania,National and provincial capital,RO,1877155,2,1;000;000 to 4;999;999
+1729,Karelia,Russia,Other,RS,-999,7,Less than 50;000
+1730,Pogradec,Albania,Provincial capital,AL,-999,7,Less than 50;000
+1731,Haifa,Israel,Provincial capital,IS,267300,4,250;000 to 499;999
+1732,Ramla,Israel,Provincial capital,IS,63860,6,50;000 to 99;999
+1733,Calarasi,Romania,Provincial capital,RO,69167,6,50;000 to 99;999
+1734,Korce,Albania,Provincial capital,AL,58259,6,50;000 to 99;999
+1735,Beersheba,Israel,Provincial capital,IS,186600,5,100;000 to 249;999
+1736,Banska Bystrica,Slovakia,Provincial capital,LO,82336,6,50;000 to 99;999
+1737,Rovaniemi,Finland,Provincial capital,FI,34781,7,Less than 50;000
+1738,Giurgiu,Romania,Provincial capital,RO,69067,6,50;000 to 99;999
+1739,Ioannina,Greece,Provincial capital,GR,64012,6,50;000 to 99;999
+1740,Razgrad,Bulgaria,Provincial capital,BU,38285,7,Less than 50;000
+1741,Oulu,Finland,Provincial capital,FI,128618,5,100;000 to 249;999
+1742,Bratislava,Slovakia,National capital and provincial capital enclave,LO,423737,4,250;000 to 499;999
+1743,El'Arish,Egypt,Provincial capital,EG,-999,7,Less than 50;000
+1744,Varna,Bulgaria,Provincial capital,BU,312770,4,250;000 to 499;999
+1745,Kuopio,Finland,Provincial capital,FI,89104,6,50;000 to 99;999
+1746,Larisa,Greece,Provincial capital,GR,128758,5,100;000 to 249;999
+1747,Burgas,Bulgaria,Provincial capital,BU,195966,5,100;000 to 249;999
+1748,Tel Aviv-Yafo,Israel,Provincial capital,IS,378358,4,250;000 to 499;999
+1749,Gyor,Hungary,Provincial capital,HU,128265,5,100;000 to 249;999
+1750,Jyvaskyla,Finland,Provincial capital,FI,85026,6,50;000 to 99;999
+1751,Lushnje,Albania,Provincial capital,AL,41469,7,Less than 50;000
+1752,Constanta,Romania,Provincial capital,RO,303399,4,250;000 to 499;999
+1753,Gaza City,Gaza Strip,Other,GZ,410000,4,250;000 to 499;999
+1754,Tatabanya,Hungary,Provincial capital,HU,70541,6,50;000 to 99;999
+1755,Saint Petersburg,Russia,Provincial capital,RS,4039745,2,1;000;000 to 4;999;999
+1756,Sidon,Lebanon,Provincial capital,LE,163554,5,100;000 to 249;999
+1757,Gramsh,Albania,Provincial capital,AL,11556,7,Less than 50;000
+1758,Istanbul,Turkey,Provincial capital,TU,11174257,1,5;000;000 and greater
+1759,Kocaeli,Turkey,Provincial capital,TU,196571,5,100;000 to 249;999
+1760,Novgorod,Russia,Provincial capital,RS,215062,5,100;000 to 249;999
+1761,Nabatiyet et Tahta,Lebanon,Provincial capital,LE,-999,7,Less than 50;000
+1762,Budapest,Hungary,National capital and provincial capital enclave,HU,1696128,2,1;000;000 to 4;999;999
+1763,Sakarya,Turkey,Provincial capital,TU,286787,4,250;000 to 499;999
+1764,Berat,Albania,Provincial capital,AL,46866,7,Less than 50;000
+1765,Bursa,Turkey,Provincial capital,TU,1412701,2,1;000;000 to 4;999;999
+1766,Pskov,Russia,Provincial capital,RS,201990,5,100;000 to 249;999
+1767,Nazareth,Israel,Provincial capital,IS,64800,6,50;000 to 99;999
+1768,Corovode,Albania,Provincial capital,AL,14046,7,Less than 50;000
+1769,Bilecik,Turkey,Provincial capital,TU,40285,7,Less than 50;000
+1770,Szekesfehervar,Hungary,Provincial capital,HU,101600,5,100;000 to 249;999
+1771,Arkangel'sk,Russia,Provincial capital,RS,356051,4,250;000 to 499;999
+1772,Eskisehir,Turkey,Provincial capital,TU,514869,3,500;000 to 999;999
+1773,Damascus,Syria,National and provincial capital,SY,1569394,2,1;000;000 to 4;999;999
+1774,Tepelene,Albania,Provincial capital,AL,11955,7,Less than 50;000
+1775,Veszprem,Hungary,Provincial capital,HU,62023,6,50;000 to 99;999
+1776,Kutahya,Turkey,Provincial capital,TU,185008,5,100;000 to 249;999
+1777,Permet,Albania,Provincial capital,AL,10686,7,Less than 50;000
+1778,Kaposvar,Hungary,Provincial capital,HU,67746,6,50;000 to 99;999
+1779,Afyon,Turkey,Provincial capital,TU,-999,7,Less than 50;000
+1780,Vologda,Russia,Provincial capital,RS,294889,4,250;000 to 499;999
+1781,Al Qunaytirah,Syria,Provincial capital,SY,36143,7,Less than 50;000
+1782,Gjirokaster,Albania,Provincial capital,AL,23437,7,Less than 50;000
+1783,Szekszard,Hungary,Provincial capital,HU,34174,7,Less than 50;000
+1784,Usak,Turkey,Provincial capital,TU,152862,5,100;000 to 249;999
+1785,Dar'a,Syria,Provincial capital,SY,-999,7,Less than 50;000
+1786,Sarande,Albania,Provincial capital,AL,15147,7,Less than 50;000
+1787,Pecs,Hungary,Provincial capital,HU,156649,5,100;000 to 249;999
+1788,Konya,Turkey,Provincial capital,TU,875530,3,500;000 to 999;999
+1789,Irbid,Jordan,Provincial capital,JO,307480,4,250;000 to 499;999
+1790,Kostroma,Russia,Provincial capital,RS,277656,4,250;000 to 499;999
+1791,Denizli,Turkey,Provincial capital,TU,313238,4,250;000 to 499;999
+1792,Tarnobrzeg,Poland,Provincial capital,PL,50459,6,50;000 to 99;999
+1793,Al Mafraq,Jordan,Provincial capital,JO,57118,6,50;000 to 99;999
+1794,Isparta,Turkey,Provincial capital,TU,172334,5,100;000 to 249;999
+1795,Kerkya,Greece,Provincial capital,GR,27003,7,Less than 50;000
+1796,Burdur,Turkey,Provincial capital,TU,66158,6,50;000 to 99;999
+1797,Krakow,Poland,Provincial capital,PL,755050,3,500;000 to 999;999
+1798,Yaroslavl,Russia,Provincial capital,RS,606730,3,500;000 to 999;999
+1799,Mugla,Turkey,Provincial capital,TU,48183,7,Less than 50;000
+1800,Az Zarqa',Jordan,Provincial capital,JO,792665,3,500;000 to 999;999
+1801,Rzeszow,Poland,Provincial capital,PL,158382,5,100;000 to 249;999
+1802,Antalya,Turkey,Provincial capital,TU,758188,3,500;000 to 999;999
+1803,Ivanovo,Russia,Provincial capital,RS,420839,4,250;000 to 499;999
+1804,Peshkopi,Albania,Provincial capital,AL,14848,7,Less than 50;000
+1805,As-Salt,Jordan,Provincial capital,JO,80189,6,50;000 to 99;999
+1806,Tarnow,Poland,Provincial capital,PL,117799,5,100;000 to 249;999
+1807,Kukes,Albania,Provincial capital,AL,17832,7,Less than 50;000
+1808,Majkop,Russia,Provincial capital,RS,158451,5,100;000 to 249;999
+1809,Tver,Russia,Provincial capital,RS,400212,4,250;000 to 499;999
+1810,Sokhumi,Georgia,Provincial capital,GG,81546,6,50;000 to 99;999
+1811,Krosno,Poland,Provincial capital,PL,47784,7,Less than 50;000
+1812,Puke,Albania,Provincial capital,AL,6495,7,Less than 50;000
+1813,Elazig,Turkey,Provincial capital,TU,298004,4,250;000 to 499;999
+1814,Amman,Jordan,National and provincial capital,JO,1275857,2,1;000;000 to 4;999;999
+1815,Gor'kiy,Russia,Provincial capital,RS,1284164,2,1;000;000 to 4;999;999
+1816,Malatya,Turkey,Provincial capital,TU,441805,4,250;000 to 499;999
+1817,Al Karak,Jordan,Provincial capital,JO,-999,7,Less than 50;000
+1818,Nowy Sacz,Poland,Provincial capital,PL,84376,6,50;000 to 99;999
+1819,Rreshen,Albania,Provincial capital,AL,10064,7,Less than 50;000
+1820,Adiyaman,Turkey,Provincial capital,TU,223744,5,100;000 to 249;999
+1821,Petrozavodsk,Russia,Provincial capital,RS,265025,4,250;000 to 499;999
+1822,Jerusalem,Israel,National and provincial capital,IS,714000,3,500;000 to 999;999
+1823,Vladimir,Russia,Provincial capital,RS,310024,4,250;000 to 499;999
+1824,Kahramanmaras,Turkey,Provincial capital,TU,376045,4,250;000 to 499;999
+1825,Ryazan,Russia,Provincial capital,RS,520173,3,500;000 to 999;999
+1826,Kuybyskev,Russia,Provincial capital,RS,1134730,2,1;000;000 to 4;999;999
+1827,Salgotarjan,Hungary,Provincial capital,HU,39640,7,Less than 50;000
+1828,Burrel,Albania,Provincial capital,AL,15405,7,Less than 50;000
+1829,Ariha,West Bank,Other,WE,-999,7,Less than 50;000
+1830,Tambov,Russia,Provincial capital,RS,290933,4,250;000 to 499;999
+1831,Penza,Russia,Provincial capital,RS,512602,3,500;000 to 999;999
+1832,Sanhurfa,Turkey,Provincial capital,TU,-999,7,Less than 50;000
+1833,Kruje,Albania,Provincial capital,AL,21286,7,Less than 50;000
+1834,Lipetsk,Russia,Provincial capital,RS,515655,3,500;000 to 999;999
+1835,Ar'ar,Saudi Arabia,Provincial capital,SA,-999,7,Less than 50;000
+1836,Saratov,Russia,Provincial capital,RS,863725,3,500;000 to 999;999
+1837,Miskolc,Hungary,Provincial capital,HU,172637,5,100;000 to 249;999
+1838,Aintab,Turkey,Provincial capital,TU,1065975,2,1;000;000 to 4;999;999
+1839,Tirana,Albania,National and provincial capital,AL,374801,4,250;000 to 499;999
+1840,Sakakah,Saudi Arabia,Provincial capital,SA,128332,5,100;000 to 249;999
+1841,Volgograd,Russia,Provincial capital,RS,1011417,2,1;000;000 to 4;999;999
+1842,Eger,Hungary,Provincial capital,HU,56647,6,50;000 to 99;999
+1843,Atyrau,Kazakhstan,Provincial capital,KZ,180000,5,100;000 to 249;999
+1844,Librazhd,Albania,Provincial capital,AL,12691,7,Less than 50;000
+1845,Ba qubah,Iraq,Provincial capital,IZ,152550,5,100;000 to 249;999
+1846,Kosice,Slovakia,Provincial capital,LO,236563,5,100;000 to 249;999
+1847,Cherkessk,Russia,Provincial capital,RS,116224,5,100;000 to 249;999
+1848,Rostov-on-Don,Russia,Provincial capital,RS,1074482,2,1;000;000 to 4;999;999
+1849,Elbasan,Albania,Provincial capital,AL,100903,5,100;000 to 249;999
+1850,Astrakhan,Russia,Provincial capital,RS,502533,3,500;000 to 999;999
+1851,Ar-Ramadi,Iraq,Provincial capital,IZ,274539,4,250;000 to 499;999
+1852,Kurgan,Russia,Provincial capital,RS,343129,4,250;000 to 499;999
+1853,Kirsehir,Turkey,Provincial capital,TU,94336,6,50;000 to 99;999
+1854,Nyiregyhaza,Hungary,Provincial capital,HU,116298,5,100;000 to 249;999
+1855,Baghdad,Iraq,National and provincial capital,IZ,5672513,1,5;000;000 and greater
+1856,Kayseri,Turkey,Provincial capital,TU,592840,3,500;000 to 999;999
+1857,Lamia,Greece,Provincial capital,GR,47246,7,Less than 50;000
+1858,Stavropol,Russia,Provincial capital,RS,363064,4,250;000 to 499;999
+1859,Uzhhorod,Ukraine,Provincial capital,UP,117878,5,100;000 to 249;999
+1860,Chelyabinsk,Russia,Provincial capital,RS,1062919,2,1;000;000 to 4;999;999
+1861,Karbala',Iraq,Provincial capital,IZ,434450,4,250;000 to 499;999
+1862,Debrecen,Hungary,Provincial capital,HU,204124,5,100;000 to 249;999
+1863,Nevsehir,Turkey,Provincial capital,TU,75527,6,50;000 to 99;999
+1864,Kostanay,Kazakhstan,Provincial capital,KZ,210000,5,100;000 to 249;999
+1865,Al-Hillah,Iraq,Provincial capital,IZ,289709,4,250;000 to 499;999
+1866,Nigde,Turkey,Provincial capital,TU,91039,6,50;000 to 99;999
+1867,Patras,Greece,Other,GR,163360,5,100;000 to 249;999
+1868,Elista,Russia,Provincial capital,RS,106971,5,100;000 to 249;999
+1869,Szolnok,Hungary,Provincial capital,HU,75474,6,50;000 to 99;999
+1870,Aktyubinsk,Kazakhstan,Provincial capital,KZ,262457,4,250;000 to 499;999
+1871,Ad Diwaniyah,Iraq,Provincial capital,IZ,318801,4,250;000 to 499;999
+1872,Belgorod,Russia,Provincial capital,RS,345289,4,250;000 to 499;999
+1873,An Najaf,Iraq,Provincial capital,IZ,482576,4,250;000 to 499;999
+1874,Oradea,Romania,Provincial capital,RO,206614,5,100;000 to 249;999
+1875,Seyhan,Turkey,Provincial capital,TU,-999,7,Less than 50;000
+1876,Arua,Uganda,Provincial capital,UG,55585,6,50;000 to 99;999
+1877,Turgay,Kazakhstan,Provincial capital,KZ,-999,7,Less than 50;000
+1878,Tripoli,Greece,Provincial capital,GR,26561,7,Less than 50;000
+1879,Gulu,Uganda,Provincial capital,UG,146858,5,100;000 to 249;999
+1880,Tripoli,Libya,National and provincial capital,LY,1150989,2,1;000;000 to 4;999;999
+1881,Kharkiv,Ukraine,Provincial capital,UP,1430885,2,1;000;000 to 4;999;999
+1882,Kecskemet,Hungary,Provincial capital,HU,109847,5,100;000 to 249;999
+1883,Mersin,Turkey,Provincial capital,TU,537842,3,500;000 to 999;999
+1884,Tomsk,Russia,Provincial capital,RS,485519,4,250;000 to 499;999
+1885,Az Zawiyah,Libya,Provincial capital,LY,4917,7,Less than 50;000
+1886,Poltava,Ukraine,Provincial capital,UP,317847,4,250;000 to 499;999
+1887,Fort Portal,Uganda,Provincial capital,UG,42670,7,Less than 50;000
+1888,Al Khums,Libya,Provincial capital,LY,201943,5,100;000 to 249;999
+1889,Misratah,Libya,Provincial capital,LY,386120,4,250;000 to 499;999
+1890,Khanty-Mansiysk,Russia,Provincial capital,RS,67800,6,50;000 to 99;999
+1891,Luhans'k,Ukraine,Provincial capital,UP,452000,4,250;000 to 499;999
+1892,Bekescsaba,Hungary,Provincial capital,HU,65206,6,50;000 to 99;999
+1893,Antioch,Turkey,Provincial capital,TU,154803,5,100;000 to 249;999
+1894,Bombo,Uganda,Provincial capital,UG,-999,7,Less than 50;000
+1895,Gharyan,Libya,Provincial capital,LY,-999,7,Less than 50;000
+1896,Szeged,Hungary,Provincial capital,HU,164883,5,100;000 to 249;999
+1897,Al Ladhiqiyah,Syria,Provincial capital,SY,-999,7,Less than 50;000
+1898,Igarka,Russia,Other,RS,7470,7,Less than 50;000
+1899,Dnipropetrovs'k,Ukraine,Provincial capital,UP,1032822,2,1;000;000 to 4;999;999
+1900,Jinja,Uganda,Provincial capital,UG,93061,6,50;000 to 99;999
+1901,Benghazi,Libya,Provincial capital,LY,650629,3,500;000 to 999;999
+1902,Arad,Romania,Provincial capital,RO,169065,5,100;000 to 249;999
+1903,Kampala,Uganda,National and provincial capital,UG,1353189,2,1;000;000 to 4;999;999
+1904,Petropavlovsk,Kazakhstan,Provincial capital,KZ,200920,5,100;000 to 249;999
+1905,Ammochostos,Cyprus,Provincial capital,CY,42526,7,Less than 50;000
+1906,Ajdabiya,Libya,Provincial capital,LY,134358,5,100;000 to 249;999
+1907,Tartus,Syria,Provincial capital,SY,89457,6,50;000 to 99;999
+1908,Donets'k,Ukraine,Provincial capital,UP,1024700,2,1;000;000 to 4;999;999
+1909,Sabha,Libya,Provincial capital,LY,-999,7,Less than 50;000
+1910,Birao,Central African Republic,Provincial capital,CT,10178,7,Less than 50;000
+1911,Omsk,Russia,Provincial capital,RS,1129281,2,1;000;000 to 4;999;999
+1912,Timisoara,Romania,Provincial capital,RO,315053,4,250;000 to 499;999
+1913,Zaporiyhzhya,Ukraine,Provincial capital,UP,796217,3,500;000 to 999;999
+1914,Murzuq,Libya,Other,LY,43732,7,Less than 50;000
+1915,Malakal,South Sudan,Provincial capital,OD,160765,5,100;000 to 249;999
+1916,Kokshetau,Kazakhstan,Provincial capital,KZ,124444,5,100;000 to 249;999
+1917,Tripoli,Lebanon,Other,LE,229398,5,100;000 to 249;999
+1918,Pavlodar,Kazakhstan,Provincial capital,KZ,329002,4,250;000 to 499;999
+1919,Zonguldak,Turkey,Provincial capital,TU,100229,5,100;000 to 249;999
+1920,Resita,Romania,Provincial capital,RO,81228,6,50;000 to 99;999
+1921,Krasnodar,Russia,Provincial capital,RS,649851,3,500;000 to 999;999
+1922,Bolu,Turkey,Provincial capital,TU,96629,6,50;000 to 99;999
+1923,Wau,South Sudan,Provincial capital,OD,127384,5,100;000 to 249;999
+1924,Cankiri,Turkey,Provincial capital,TU,71379,6,50;000 to 99;999
+1925,Astana,Kazakhstan,National and provincial capital,KZ,345604,4,250;000 to 499;999
+1926,Moscow,Russia,National and provincial capital,RS,10381222,1,5;000;000 and greater
+1927,Obo,Central African Republic,Provincial capital,CT,12887,7,Less than 50;000
+1928,Kaluga,Russia,Provincial capital,RS,338978,4,250;000 to 499;999
+1929,Beirut,Lebanon,National and provincial capital,LE,1916100,2,1;000;000 to 4;999;999
+1930,Longyearbyen,Svalbard,National and provincial capital,SV,1232,7,Less than 50;000
+1931,Ankara,Turkey,National and provincial capital,TU,3517182,2,1;000;000 to 4;999;999
+1932,Karaganda,Kazakhstan,Other,KZ,451800,4,250;000 to 499;999
+1933,Tula,Russia,Provincial capital,RS,468825,4,250;000 to 499;999
+1934,Kyrenia,Cyprus,Provincial capital,CY,26701,7,Less than 50;000
+1935,Bangassou,Central African Republic,Provincial capital,CT,24361,7,Less than 50;000
+1936,Tromso,Norway,Provincial capital,NO,52436,6,50;000 to 99;999
+1937,Klintsy,Russia,Provincial capital,RS,66336,6,50;000 to 99;999
+1938,Zhezkazgan,Kazakhstan,Provincial capital,KZ,104357,5,100;000 to 249;999
+1939,Nicosia,Cyprus,National and provincial capital,CY,200452,5,100;000 to 249;999
+1940,Zahle,Lebanon,Provincial capital,LE,78145,6,50;000 to 99;999
+1941,Kisangani,Congo; DRC,Provincial capital,CG,539158,3,500;000 to 999;999
+1942,Larnaka,Cyprus,Provincial capital,CY,48947,7,Less than 50;000
+1943,Paphos,Cyprus,Provincial capital,CY,35961,7,Less than 50;000
+1944,Orel,Russia,Provincial capital,RS,324200,4,250;000 to 499;999
+1945,Taldykorgan,Kazakhstan,Provincial capital,KZ,200000,5,100;000 to 249;999
+1946,Narvik,Norway,Other,NO,14114,7,Less than 50;000
+1947,Wadi Halfa,Sudan,Other,SU,-999,7,Less than 50;000
+1948,Kursk,Russia,Provincial capital,RS,409431,4,250;000 to 499;999
+1949,B'abda,Lebanon,Provincial capital,LE,-999,7,Less than 50;000
+1950,Lemesos,Cyprus,Provincial capital,CY,154000,5,100;000 to 249;999
+1951,Vadso,Norway,Provincial capital,NO,5139,7,Less than 50;000
+1952,Ust'-Kamenogorsk,Kazakhstan,Provincial capital,KZ,319067,4,250;000 to 499;999
+1953,Voronezh,Russia,Provincial capital,RS,848752,3,500;000 to 999;999
+1954,Darnah,Libya,Provincial capital,LY,78782,6,50;000 to 99;999
+1955,Kemerovo,Russia,Provincial capital,RS,477090,4,250;000 to 499;999
+1956,Dongola,Sudan,Provincial capital,SU,-999,7,Less than 50;000
+1957,Sumy,Ukraine,Provincial capital,UP,294456,4,250;000 to 499;999
+1958,Novosibirsk,Russia,Provincial capital,RS,1419007,2,1;000;000 to 4;999;999
+1959,Marsa Matruh,Egypt,Provincial capital,EG,62042,6,50;000 to 99;999
+1960,Omdurman,Sudan,Other,SU,1200000,2,1;000;000 to 4;999;999
+1961,Aleppo,Syria,Other,SY,1602264,2,1;000;000 to 4;999;999
+1962,Syktyvkar,Russia,Provincial capital,RS,230139,5,100;000 to 249;999
+1963,Murmansk,Russia,Provincial capital,RS,319263,4,250;000 to 499;999
+1964,El Minya,Egypt,Provincial capital,EG,-999,7,Less than 50;000
+1965,Novokuznetsk,Russia,Other,RS,539616,3,500;000 to 999;999
+1966,Vyatka,Russia,Provincial capital,RS,457383,4,250;000 to 499;999
+1967,Asyut,Egypt,Provincial capital,EG,420585,4,250;000 to 499;999
+1968,Khartoum,Sudan,National and provincial capital,SU,1974647,2,1;000;000 to 4;999;999
+1969,Barnaul,Russia,Provincial capital,RS,599579,3,500;000 to 999;999
+1970,Sohag,Egypt,Provincial capital,EG,-999,7,Less than 50;000
+1971,Ar Raqqah,Syria,Provincial capital,SY,177636,5,100;000 to 249;999
+1972,Perm',Russia,Provincial capital,RS,982419,3,500;000 to 999;999
+1973,Hammerfest,Norway,Other,NO,6788,7,Less than 50;000
+1974,El Fasher,Sudan,Provincial capital,SU,252609,4,250;000 to 499;999
+1975,Idlib,Syria,Provincial capital,SY,128840,5,100;000 to 249;999
+1976,Gorno-Altaysk,Russia,Provincial capital,RS,54917,6,50;000 to 99;999
+1977,Qena,Egypt,Provincial capital,EG,235362,5,100;000 to 249;999
+1978,Izevsk,Russia,Provincial capital,RS,631038,3,500;000 to 999;999
+1979,El Obeid,Sudan,Other,SU,393311,4,250;000 to 499;999
+1980,Vitsyebsk,Belarus,Provincial capital,BO,342700,4,250;000 to 499;999
+1981,Hamah,Syria,Provincial capital,SY,460602,4,250;000 to 499;999
+1982,Yaskar-Ola,Russia,Provincial capital,RS,-999,7,Less than 50;000
+1983,El-Kharga,Egypt,Provincial capital,EG,-999,7,Less than 50;000
+1984,Semipalatinsk,Kazakhstan,Provincial capital,KZ,292780,4,250;000 to 499;999
+1985,Najran,Saudi Arabia,Provincial capital,SA,258573,4,250;000 to 499;999
+1986,Smolensk,Russia,Provincial capital,RS,320991,4,250;000 to 499;999
+1987,Aswan,Egypt,Provincial capital,EG,241261,5,100;000 to 249;999
+1988,Homs,Syria,Other,SY,775404,3,500;000 to 999;999
+1989,Kudymkar,Russia,Provincial capital,RS,31596,7,Less than 50;000
+1990,Dumyat,Egypt,Provincial capital,EG,-999,7,Less than 50;000
+1991,Mahilyow,Belarus,Provincial capital,BO,369200,4,250;000 to 499;999
+1992,Mecca,Saudi Arabia,Other,SA,1323624,2,1;000;000 to 4;999;999
+1993,Olgiy,Mongolia,Provincial capital,MG,28400,7,Less than 50;000
+1994,Sinop,Turkey,Provincial capital,TU,34834,7,Less than 50;000
+1995,Nar'yan Mar,Russia,Provincial capital,RS,18041,7,Less than 50;000
+1996,Homyel',Belarus,Provincial capital,BO,480951,4,250;000 to 499;999
+1997,Kastamonu,Turkey,Provincial capital,TU,70402,6,50;000 to 99;999
+1998,Port Sudan,Sudan,Other,SU,489725,4,250;000 to 499;999
+1999,Port Said,Egypt,Provincial capital,EG,-999,7,Less than 50;000
+2000,Sari,Iran,Provincial capital,IR,255396,4,250;000 to 499;999
+2001,Vorkuta,Russia,Other,RS,80039,6,50;000 to 99;999
+2002,Samsun,Turkey,Provincial capital,TU,394050,4,250;000 to 499;999
+2003,Chernihiv,Ukraine,Provincial capital,UP,307684,4,250;000 to 499;999
+2004,Sa'Dah,Yemen,Provincial capital,YM,31859,7,Less than 50;000
+2005,Semnan,Iran,Provincial capital,IR,124826,5,100;000 to 249;999
+2006,Amasya,Turkey,Provincial capital,TU,82896,6,50;000 to 99;999
+2007,Mykolayiv,Ukraine,Provincial capital,UP,510840,3,500;000 to 999;999
+2008,Kotlas,Russia,Other,RS,59180,6,50;000 to 99;999
+2009,Alexandria,Egypt,Other,EG,3811516,2,1;000;000 to 4;999;999
+2010,Asmara,Eritrea,National capital,ER,563930,3,500;000 to 999;999
+2011,Marib,Yemen,Provincial capital,YM,-999,7,Less than 50;000
+2012,Kherson,Ukraine,Provincial capital,UP,320477,4,250;000 to 499;999
+2013,Corum,Turkey,Provincial capital,TU,183418,5,100;000 to 249;999
+2014,Al Mukalla,Yemen,Provincial capital,YM,258132,4,250;000 to 499;999
+2015,Gonder,Ethiopia,Provincial capital,ET,153914,5,100;000 to 249;999
+2016,Kafr el Sheikh,Egypt,Provincial capital,EG,-999,7,Less than 50;000
+2017,Salekhard,Russia,Provincial capital,RS,38025,7,Less than 50;000
+2018,Minsk,Belarus,National and provincial capital,BO,1742124,2,1;000;000 to 4;999;999
+2019,Yozgat,Turkey,Provincial capital,TU,87881,6,50;000 to 99;999
+2020,Tyumen,Russia,Provincial capital,RS,519119,3,500;000 to 999;999
+2021,'Ataq,Yemen,Provincial capital,YM,-999,7,Less than 50;000
+2022,Jeddah,Saudi Arabia,Other,SA,2867446,2,1;000;000 to 4;999;999
+2023,Kovel',Ukraine,Provincial capital,UP,66400,6,50;000 to 99;999
+2024,El Mansura,Egypt,Provincial capital,EG,-999,7,Less than 50;000
+2025,Simferopol',Ukraine,Provincial capital,UP,358108,4,250;000 to 499;999
+2026,Sverdlovsk,Russia,Provincial capital,RS,1287573,2,1;000;000 to 4;999;999
+2027,Al Bayda,Yemen,Provincial capital,YM,37821,7,Less than 50;000
+2028,Aden,Yemen,Other,YM,550602,3,500;000 to 999;999
+2029,Rivne,Ukraine,Provincial capital,UP,255106,4,250;000 to 499;999
+2030,Ordu,Turkey,Provincial capital,TU,116788,5,100;000 to 249;999
+2031,Boosaaso,Somalia,Provincial capital,SO,-999,7,Less than 50;000
+2032,Damanhur,Egypt,Provincial capital,EG,227943,5,100;000 to 249;999
+2033,Giresun,Turkey,Provincial capital,TU,98864,6,50;000 to 99;999
+2034,L'viv,Ukraine,Provincial capital,UP,717803,3,500;000 to 999;999
+2035,Abha,Saudi Arabia,Provincial capital,SA,210886,5,100;000 to 249;999
+2036,Ufa,Russia,Provincial capital,RS,1033338,2,1;000;000 to 4;999;999
+2037,Orenburg,Russia,Provincial capital,RS,550204,3,500;000 to 999;999
+2038,Tehran,Iran,National and provincial capital,IR,7153309,1,5;000;000 and greater
+2039,Tokat,Turkey,Provincial capital,TU,129702,5,100;000 to 249;999
+2040,Przemysl,Poland,Provincial capital,PL,67013,6,50;000 to 99;999
+2041,Shibin el Kom,Egypt,Provincial capital,EG,56872,6,50;000 to 99;999
+2042,Laascaanood,Somalia,Provincial capital,SO,60100,6,50;000 to 99;999
+2043,Jaizan,Saudi Arabia,Provincial capital,SA,-999,7,Less than 50;000
+2044,El Faiyum,Egypt,Provincial capital,EG,-999,7,Less than 50;000
+2045,Ternopil',Ukraine,Provincial capital,UP,235676,5,100;000 to 249;999
+2046,Sivas,Turkey,Provincial capital,TU,264022,4,250;000 to 499;999
+2047,Hajjah,Yemen,Provincial capital,YM,43549,7,Less than 50;000
+2048,Ural'sk,Kazakhstan,Provincial capital,KZ,200000,5,100;000 to 249;999
+2049,Ceerigaabo,Somalia,Provincial capital,SO,-999,7,Less than 50;000
+2050,Bat'umi,Georgia,Provincial capital,GG,121806,5,100;000 to 249;999
+2051,Abu Zenima,Egypt,Other,EG,-999,7,Less than 50;000
+2052,Burao,Somalia,Provincial capital,SO,99270,6,50;000 to 99;999
+2053,Sanaa,Yemen,National and provincial capital,YM,1937451,2,1;000;000 to 4;999;999
+2054,El Tur,Egypt,Provincial capital,EG,-999,7,Less than 50;000
+2055,Ceboksary,Russia,Provincial capital,RS,446781,4,250;000 to 499;999
+2056,Khmel'nyts'kyz,Ukraine,Provincial capital,UP,398346,4,250;000 to 499;999
+2057,Coruh,Turkey,Provincial capital,TU,-999,7,Less than 50;000
+2058,Al Hudaydah,Yemen,Provincial capital,YM,617871,3,500;000 to 999;999
+2059,Garoowe,Somalia,Provincial capital,SO,-999,7,Less than 50;000
+2060,Dhamar,Yemen,Provincial capital,YM,-999,7,Less than 50;000
+2061,Tanta,Egypt,Provincial capital,EG,404901,4,250;000 to 499;999
+2062,Kazan',Russia,Provincial capital,RS,1104738,2,1;000;000 to 4;999;999
+2063,Rize,Turkey,Provincial capital,TU,92772,6,50;000 to 99;999
+2064,Gaalkacyo,Somalia,Provincial capital,SO,61200,6,50;000 to 99;999
+2065,Ivano-frankivs'k,Ukraine,Provincial capital,UP,204200,5,100;000 to 249;999
+2066,Mek'ele,Ethiopia,Provincial capital,ET,-999,7,Less than 50;000
+2067,Trabzon,Turkey,Provincial capital,TU,244083,5,100;000 to 249;999
+2068,Ul'yanovsk,Russia,Provincial capital,RS,640680,3,500;000 to 999;999
+2069,Chernivtsi,Ukraine,Provincial capital,UP,236250,5,100;000 to 249;999
+2070,Dhuusa Mareeb,Somalia,Provincial capital,SO,-999,7,Less than 50;000
+2071,Saransk,Russia,Provincial capital,RS,303394,4,250;000 to 499;999
+2072,Ibb,Yemen,Provincial capital,YM,234837,5,100;000 to 249;999
+2073,Satu Mare,Romania,Provincial capital,RO,112490,5,100;000 to 249;999
+2074,Kyzylorda,Kazakhstan,Provincial capital,KZ,300000,4,250;000 to 499;999
+2075,Djibouti,Djibouti,National and provincial capital,DJ,623891,3,500;000 to 999;999
+2076,Beledweyne,Somalia,Provincial capital,SO,55410,6,50;000 to 99;999
+2077,Ta'izz,Yemen,Provincial capital,YM,615222,3,500;000 to 999;999
+2078,Gumushane,Turkey,Provincial capital,TU,32250,7,Less than 50;000
+2079,Baia Mare,Romania,Provincial capital,RO,136553,5,100;000 to 249;999
+2080,Navoi,Uzbekistan,Provincial capital,UZ,129725,5,100;000 to 249;999
+2081,Zalau,Romania,Provincial capital,RO,63232,6,50;000 to 99;999
+2082,Lahij,Yemen,Provincial capital,YM,23375,7,Less than 50;000
+2083,Bukhara,Uzbekistan,Provincial capital,UZ,247644,5,100;000 to 249;999
+2084,Samarkand,Uzbekistan,Provincial capital,UZ,319366,4,250;000 to 499;999
+2085,Obock,Djibouti,Provincial capital,DJ,17776,7,Less than 50;000
+2086,Dese,Ethiopia,Provincial capital,ET,136056,5,100;000 to 249;999
+2087,Jawhar,Somalia,Provincial capital,SO,-999,7,Less than 50;000
+2088,Tadjoura,Djibouti,Provincial capital,DJ,22193,7,Less than 50;000
+2089,Cluj-Napoca,Romania,Provincial capital,RO,316748,4,250;000 to 499;999
+2090,Alba Lulia,Romania,Provincial capital,RO,66085,6,50;000 to 99;999
+2091,Chardzhev,Turkmenistan,Provincial capital,TX,-999,7,Less than 50;000
+2092,Harar,Ethiopia,Provincial capital,ET,-999,7,Less than 50;000
+2093,Mogadishu,Somalia,National and provincial capital,SO,2587183,2,1;000;000 to 4;999;999
+2094,Ali Sabieh,Djibouti,Provincial capital,DJ,40074,7,Less than 50;000
+2095,Deva,Romania,Provincial capital,RO,67802,6,50;000 to 99;999
+2096,Dikhil,Djibouti,Provincial capital,DJ,12043,7,Less than 50;000
+2097,Esfahan,Iran,Provincial capital,IR,1547164,2,1;000;000 to 4;999;999
+2098,Karshi,Uzbekistan,Provincial capital,UZ,222898,5,100;000 to 249;999
+2099,Sibiu,Romania,Provincial capital,RO,151894,5,100;000 to 249;999
+2100,Hargeysa,Somalia,Provincial capital,SO,477876,4,250;000 to 499;999
+2101,Shahr-E Kord,Iran,Provincial capital,IR,129153,5,100;000 to 249;999
+2102,Termez,Uzbekistan,Provincial capital,UZ,140385,5,100;000 to 249;999
+2103,Goba,Ethiopia,Provincial capital,ET,34369,7,Less than 50;000
+2104,Yazd,Iran,Provincial capital,IR,477905,4,250;000 to 499;999
+2105,Mazar-E Sharif,Afghanistan,Provincial capital,AF,303282,4,250;000 to 499;999
+2106,Yasuj,Iran,Provincial capital,IR,-999,7,Less than 50;000
+2107,Moroto,Uganda,Provincial capital,UG,-999,7,Less than 50;000
+2108,Shiraz,Iran,Provincial capital,IR,1249942,2,1;000;000 to 4;999;999
+2109,Sheberghan,Afghanistan,Provincial capital,AF,55641,6,50;000 to 99;999
+2110,Mbale,Uganda,Provincial capital,UG,76493,6,50;000 to 99;999
+2111,Meymaneh,Afghanistan,Provincial capital,AF,-999,7,Less than 50;000
+2112,Kuwait,Kuwait,National and provincial capital,KU,60064,6,50;000 to 99;999
+2113,Kakamega,Kenya,Provincial capital,KE,63426,6,50;000 to 99;999
+2114,Hawalli,Kuwait,Provincial capital,KU,0,7,Less than 50;000
+2115,Al-Ahmadi,Kuwait,Provincial capital,KU,-999,7,Less than 50;000
+2116,Qal eh-ye,Afghanistan,Provincial capital,AF,-999,7,Less than 50;000
+2117,Debre Markos,Ethiopia,Provincial capital,ET,59920,6,50;000 to 99;999
+2118,Bushehr,Iran,Provincial capital,IR,-999,7,Less than 50;000
+2119,Chaghcharan,Afghanistan,Provincial capital,AF,-999,7,Less than 50;000
+2120,Nek'emte,Ethiopia,Provincial capital,ET,-999,7,Less than 50;000
+2121,Ad Damman,Saudi Arabia,Provincial capital,SA,-999,7,Less than 50;000
+2122,Al-Muharraq,Bahrain,Provincial capital,BA,97458,6,50;000 to 99;999
+2123,Addis Ababa,Ethiopia,National and provincial capital,ET,2757729,2,1;000;000 to 4;999;999
+2124,Herat,Afghanistan,Provincial capital,AF,-999,7,Less than 50;000
+2125,Manama,Bahrain,National and provincial capital,BA,147074,5,100;000 to 249;999
+2126,Kerman,Iran,Provincial capital,IR,577514,3,500;000 to 999;999
+2127,Jidd Hafs,Bahrain,Provincial capital,BA,31735,7,Less than 50;000
+2128,Gore,Ethiopia,Provincial capital,ET,9352,7,Less than 50;000
+2129,Zahedan,Iran,Provincial capital,IR,551980,3,500;000 to 999;999
+2130,Ar Rifa,Bahrain,Provincial capital,BA,-999,7,Less than 50;000
+2131,Asela,Ethiopia,Provincial capital,ET,-999,7,Less than 50;000
+2132,Sitrah,Bahrain,Provincial capital,BA,37657,7,Less than 50;000
+2133,Jima,Ethiopia,Provincial capital,ET,128306,5,100;000 to 249;999
+2134,Bandar-E Abbas,Iran,Provincial capital,IR,-999,7,Less than 50;000
+2135,Awasa,Ethiopia,Provincial capital,ET,133097,5,100;000 to 249;999
+2136,Riyadh,Saudi Arabia,National and provincial capital,SA,4205961,2,1;000;000 to 4;999;999
+2137,Al Kasab,Oman,Other,MU,-999,7,Less than 50;000
+2138,Arba Minch,Ethiopia,Provincial capital,ET,69622,6,50;000 to 99;999
+2139,Ilam,Iran,Provincial capital,IR,140940,5,100;000 to 249;999
+2140,Xuddur,Somalia,Provincial capital,SO,-999,7,Less than 50;000
+2141,Fujairad,United Arab Emirates,Provincial capital,AE,62415,6,50;000 to 99;999
+2142,Garbahaarey,Somalia,Provincial capital,SO,12652,7,Less than 50;000
+2143,Khorramabad,Iran,Provincial capital,IR,329825,4,250;000 to 499;999
+2144,Karachi,Pakistan,Provincial capital,PK,11624219,1,5;000;000 and greater
+2145,Baydhabo,Somalia,Provincial capital,SO,-999,7,Less than 50;000
+2146,Al-Kut,Iraq,Provincial capital,IZ,315162,4,250;000 to 499;999
+2147,Al 'Amarah,Iraq,Provincial capital,IZ,323302,4,250;000 to 499;999
+2148,Muscat,Oman,National and provincial capital,MU,797000,3,500;000 to 999;999
+2149,Marka,Somalia,Provincial capital,SO,-999,7,Less than 50;000
+2150,Tarin Kowt,Afghanistan,Provincial capital,AF,-999,7,Less than 50;000
+2151,Wajir,Kenya,Provincial capital,KE,45771,7,Less than 50;000
+2152,Ahvaz,Iran,Provincial capital,IR,841145,3,500;000 to 999;999
+2153,Farah,Afghanistan,Provincial capital,AF,43561,7,Less than 50;000
+2154,Qalat,Afghanistan,Provincial capital,AF,-999,7,Less than 50;000
+2155,Bu'aale,Somalia,Provincial capital,SO,-999,7,Less than 50;000
+2156,As-Samawah,Iraq,Provincial capital,IZ,152890,5,100;000 to 249;999
+2157,Kandahar,Afghanistan,Provincial capital,AF,391190,4,250;000 to 499;999
+2158,Trondheim,Norway,Provincial capital,NO,147139,5,100;000 to 249;999
+2159,An-Nasiriyah,Iraq,Provincial capital,IZ,400249,4,250;000 to 499;999
+2160,Lashkar Gah,Afghanistan,Provincial capital,AF,-999,7,Less than 50;000
+2161,Al Basrah,Iraq,Other,IZ,2600000,2,1;000;000 to 4;999;999
+2162,Molde,Norway,Provincial capital,NO,18594,7,Less than 50;000
+2163,Al-Jahrah,Kuwait,Provincial capital,KU,-999,7,Less than 50;000
+2164,Bergen,Norway,Other,NO,213585,5,100;000 to 249;999
+2165,Zaranj,Afghanistan,Provincial capital,AF,-999,7,Less than 50;000
+2166,Ringkobing,Denmark,Provincial capital,DA,9315,7,Less than 50;000
+2167,Bremen,Germany,Provincial capital,GM,546501,3,500;000 to 999;999
+2168,Ra's Al-Khaymah,United Arab Emirates,Provincial capital,AE,115949,5,100;000 to 249;999
+2169,Quetta,Pakistan,Provincial capital,PK,733675,3,500;000 to 999;999
+2170,Hannover,Germany,Provincial capital,GM,515140,3,500;000 to 999;999
+2171,Umm Al Qaywayn,United Arab Emirates,Provincial capital,AE,44411,7,Less than 50;000
+2172,Srinagar,India,Provincial capital,IN,20216,7,Less than 50;000
+2173,Ajman,United Arab Emirates,Provincial capital,AE,226172,5,100;000 to 249;999
+2174,Erfurt,Germany,Provincial capital,GM,203254,5,100;000 to 249;999
+2175,Amritsar,India,Other,IN,1092450,2,1;000;000 to 4;999;999
+2176,Sharjah,United Arab Emirates,Provincial capital,AE,543733,3,500;000 to 999;999
+2177,Frankfurt,Germany,Other,GM,650000,3,500;000 to 999;999
+2178,Lahore,Pakistan,Provincial capital,PK,6310888,1,5;000;000 and greater
+2179,Amiens,France,Provincial capital,FR,143086,5,100;000 to 249;999
+2180,Doha,Qatar,National and provincial capital,QA,344939,4,250;000 to 499;999
+2181,Simla,India,Provincial capital,IN,173503,5,100;000 to 249;999
+2182,Rouen,France,Provincial capital,FR,112787,5,100;000 to 249;999
+2183,Dubai,United Arab Emirates,Provincial capital,AE,1137347,2,1;000;000 to 4;999;999
+2184,Chandigarh,India,Provincial capital enclave,IN,914371,3,500;000 to 999;999
+2185,Le Havre,France,Other,FR,185972,5,100;000 to 249;999
+2186,Abu Dhabi,United Arab Emirates,National and provincial capital,AE,603492,3,500;000 to 999;999
+2187,Delhi,India,Provincial capital,IN,10927986,1,5;000;000 and greater
+2188,Paris,France,National and provincial capital,FR,2138551,2,1;000;000 to 4;999;999
+2189,Groznyy,Russia,Provincial capital,RS,226100,5,100;000 to 249;999
+2190,Jaipur,India,Provincial capital,IN,2711758,2,1;000;000 to 4;999;999
+2191,Stuttgart,Germany,Provincial capital,GM,589793,3,500;000 to 999;999
+2192,Machackala,Russia,Provincial capital,RS,497959,4,250;000 to 499;999
+2193,Bhopal,India,Provincial capital,IN,1599914,2,1;000;000 to 4;999;999
+2194,Orleans,France,Provincial capital,FR,124149,5,100;000 to 249;999
+2195,Baku,Azerbaijan,National and provincial capital,AJ,1116513,2,1;000;000 to 4;999;999
+2196,New Delhi,India,National capital,IN,317797,4,250;000 to 499;999
+2197,Poitiers,France,Provincial capital,FR,85960,6,50;000 to 99;999
+2198,Turkmenbashi,Turkmenistan,Provincial capital,TX,68292,6,50;000 to 99;999
+2199,Limoges,France,Provincial capital,FR,141176,5,100;000 to 249;999
+2200,Hamadan,Iran,Provincial capital,IR,528256,3,500;000 to 999;999
+2201,Zareh Sharan,Afghanistan,Provincial capital,AF,7366,7,Less than 50;000
+2202,Dunkirk,France,Other,FR,-999,7,Less than 50;000
+2203,Arak,Iran,Provincial capital,IR,503647,3,500;000 to 999;999
+2204,Islamabad,Pakistan,National capital,PK,601600,3,500;000 to 999;999
+2205,Liege,Belgium,Provincial capital,BE,182597,5,100;000 to 249;999
+2206,Mangyshlak,Kazakhstan,Provincial capital,KZ,-999,7,Less than 50;000
+2207,Namur,Belgium,Provincial capital,BE,106284,5,100;000 to 249;999
+2208,Rawalpindi,Pakistan,Other,PK,1743101,2,1;000;000 to 4;999;999
+2209,Mons,Belgium,Provincial capital,BE,91277,6,50;000 to 99;999
+2210,Naxcivian,Azerbaijan,Provincial capital,AJ,64754,6,50;000 to 99;999
+2211,Reims,France,Provincial capital,FR,196565,5,100;000 to 249;999
+2212,Gardez,Afghanistan,Provincial capital,AF,103601,5,100;000 to 249;999
+2213,Ghazni,Afghanistan,Provincial capital,AF,141000,5,100;000 to 249;999
+2214,Tabriz,Iran,Provincial capital,IR,1424641,2,1;000;000 to 4;999;999
+2215,Dijon,France,Provincial capital,FR,149782,5,100;000 to 249;999
+2216,Faisalabad,Pakistan,Other,PK,2506595,2,1;000;000 to 4;999;999
+2217,Orumiyeh,Iran,Provincial capital,IR,-999,7,Less than 50;000
+2218,Hyderabad,Pakistan,Other,PK,1386330,2,1;000;000 to 4;999;999
+2219,Clermont-Ferrand,France,Provincial capital,FR,138681,5,100;000 to 249;999
+2220,Rasht,Iran,Provincial capital,IR,594590,3,500;000 to 999;999
+2221,Zanjan,Iran,Provincial capital,IR,357471,4,250;000 to 499;999
+2222,Gandhinagar,India,Provincial capital,IN,-999,7,Less than 50;000
+2223,Lyon,France,Provincial capital,FR,472317,4,250;000 to 499;999
+2224,As-Sulaymaniyah,Iraq,Provincial capital,IZ,723170,3,500;000 to 999;999
+2225,Ahmadabad,India,Other,IN,3719710,2,1;000;000 to 4;999;999
+2226,Europoort,Netherlands,Other,NL,-999,7,Less than 50;000
+2227,Sanandaj,Iran,Provincial capital,IR,349176,4,250;000 to 499;999
+2228,Almaty,Kazakhstan,Provincial capital,KZ,2000900,2,1;000;000 to 4;999;999
+2229,Bishkek,Kyrgyzstan,National and provincial capital,KG,900000,3,500;000 to 999;999
+2230,'s-Hertogenbosch,Netherlands,Provincial capital,NL,134520,5,100;000 to 249;999
+2231,Kermanshah,Iran,Provincial capital,IR,621100,3,500;000 to 999;999
+2232,Middelburg,Netherlands,Provincial capital,NL,46485,7,Less than 50;000
+2233,Karakol,Kyrgyzstan,Provincial capital,KG,70171,6,50;000 to 99;999
+2234,Nukus,Uzbekistan,Provincial capital,UZ,230006,5,100;000 to 249;999
+2235,Dashkhovuz,Turkmenistan,Provincial capital,TX,-999,7,Less than 50;000
+2236,Naryn,Kyrgyzstan,Provincial capital,KG,-999,7,Less than 50;000
+2237,Bruges,Belgium,Provincial capital,BE,12650,7,Less than 50;000
+2238,Urgench,Uzbekistan,Provincial capital,UZ,150110,5,100;000 to 249;999
+2239,Namangan,Uzbekistan,Provincial capital,UZ,432456,4,250;000 to 499;999
+2240,Antwerpen,Belgium,Provincial capital,BE,459805,4,250;000 to 499;999
+2241,Ashgabat,Turkmenistan,National and provincial capital,TX,727700,3,500;000 to 999;999
+2242,Andizhan,Uzbekistan,Provincial capital,UZ,318419,4,250;000 to 499;999
+2243,Gent,Belgium,Provincial capital,BE,231493,5,100;000 to 249;999
+2244,Mary,Turkmenistan,Provincial capital,TX,114680,5,100;000 to 249;999
+2245,Osh,Kyrgyzstan,Provincial capital,KG,200000,5,100;000 to 249;999
+2246,Hasselt,Belgium,Provincial capital,BE,69222,6,50;000 to 99;999
+2247,Mashhad,Iran,Provincial capital,IR,2307177,2,1;000;000 to 4;999;999
+2248,Lille,France,Provincial capital,FR,228328,5,100;000 to 249;999
+2249,Fergana,Uzbekistan,Provincial capital,UZ,164322,5,100;000 to 249;999
+2250,Brussels,Belgium,National capital and provincial capital enclave,BE,1019022,2,1;000;000 to 4;999;999
+2251,Kashi,China,Other,CH,274717,4,250;000 to 499;999
+2252,Haarlem,Netherlands,Provincial capital,NL,147590,5,100;000 to 249;999
+2253,Jalabad,Afghanistan,Provincial capital,AF,200331,5,100;000 to 249;999
+2254,Dushanbe,Tajikistan,National and provincial capital,TI,543107,3,500;000 to 999;999
+2255,Kulob,Tajikistan,Provincial capital,TI,78786,6,50;000 to 99;999
+2256,Amsterdam,Netherlands,National capital,NL,741636,3,500;000 to 999;999
+2257,Qurghonteppa,Tajikistan,Provincial capital,TI,65000,6,50;000 to 99;999
+2258,Utrecht,Netherlands,Provincial capital,NL,290529,4,250;000 to 499;999
+2259,The Hague,Netherlands,Provincial capital,NL,474292,4,250;000 to 499;999
+2260,Feyzabad,Afghanistan,Provincial capital,AF,40276,7,Less than 50;000
+2261,Rotterdam,Netherlands,Other,NL,598199,3,500;000 to 999;999
+2262,Taloqan,Afghanistan,Provincial capital,AF,64256,6,50;000 to 99;999
+2263,Groningen,Netherlands,Provincial capital,NL,181194,5,100;000 to 249;999
+2264,Konduz,Afghanistan,Provincial capital,AF,161902,5,100;000 to 249;999
+2265,Leeuwarden,Netherlands,Provincial capital,NL,91424,6,50;000 to 99;999
+2266,Asadabad,Afghanistan,Provincial capital,AF,59617,6,50;000 to 99;999
+2267,Assen,Netherlands,Provincial capital,NL,62237,6,50;000 to 99;999
+2268,Peshawar,Pakistan,Provincial capital,PK,1218773,2,1;000;000 to 4;999;999
+2269,Aybak,Afghanistan,Provincial capital,AF,-999,7,Less than 50;000
+2270,Zwolle,Netherlands,Provincial capital,NL,111805,5,100;000 to 249;999
+2271,Baghlan,Afghanistan,Provincial capital,AF,108449,5,100;000 to 249;999
+2272,Arnhem,Netherlands,Provincial capital,NL,141674,5,100;000 to 249;999
+2273,Duisburg,Germany,Other,GM,504358,3,500;000 to 999;999
+2274,Mahmud-E Eraqi,Afghanistan,Provincial capital,AF,-999,7,Less than 50;000
+2275,Charikar,Afghanistan,Provincial capital,AF,53676,6,50;000 to 99;999
+2276,Dusseldorf,Germany,Provincial capital,GM,573057,3,500;000 to 999;999
+2277,Bamian,Afghanistan,Provincial capital,AF,-999,7,Less than 50;000
+2278,Mehtar Lam,Afghanistan,Provincial capital,AF,17345,7,Less than 50;000
+2279,Maastricht,Netherlands,Provincial capital,NL,122378,5,100;000 to 249;999
+2280,Dortmund,Germany,Other,GM,588462,3,500;000 to 999;999
+2281,Kabul,Afghanistan,National and provincial capital,AF,3043532,2,1;000;000 to 4;999;999
+2282,Essen,Germany,Other,GM,593085,3,500;000 to 999;999
+2283,Mayda Shahr,Afghanistan,Provincial capital,AF,-999,7,Less than 50;000
+2284,Baraki Barak,Afghanistan,Provincial capital,AF,22305,7,Less than 50;000
+2285,Cologne,Germany,Other,GM,963395,3,500;000 to 999;999
+2286,Leninobod,Tajikistan,Provincial capital,TI,144865,5,100;000 to 249;999
+2287,Bonn,Germany,Other,GM,313125,4,250;000 to 499;999
+2288,Talas,Kyrgyzstan,Provincial capital,KG,35172,7,Less than 50;000
+2289,Shymkent,Kazakhstan,Provincial capital,KZ,414032,4,250;000 to 499;999
+2290,Bremerhaven,Germany,Other,GM,117446,5,100;000 to 249;999
+2291,Arhus,Denmark,Provincial capital,DA,237551,5,100;000 to 249;999
+2292,Tashkent,Uzbekistan,National and provincial capital,UZ,1978028,2,1;000;000 to 4;999;999
+2293,Vejle,Denmark,Provincial capital,DA,51177,6,50;000 to 99;999
+2294,Gulistan,Uzbekistan,Provincial capital,UZ,53373,6,50;000 to 99;999
+2295,Odense,Denmark,Provincial capital,DA,145931,5,100;000 to 249;999
+2296,Dzhizak,Uzbekistan,Provincial capital,UZ,152642,5,100;000 to 249;999
+2297,Ribe,Denmark,Provincial capital,DA,7983,7,Less than 50;000
+2298,Dzhambul,Kazakhstan,Provincial capital,KZ,358153,4,250;000 to 499;999
+2299,Abenra,Denmark,Provincial capital,DA,16344,7,Less than 50;000
+2300,Urumqi,China,Provincial capital,CH,1508225,2,1;000;000 to 4;999;999
+2301,Kiel,Germany,Provincial capital,GM,232758,5,100;000 to 249;999
+2302,Nepalganj,Nepal,Provincial capital,NP,-999,7,Less than 50;000
+2303,Hamburg,Germany,Provincial capital,GM,1739117,2,1;000;000 to 4;999;999
+2304,Bhairawa,Nepal,Provincial capital,NP,63367,6,50;000 to 99;999
+2305,Besancon,France,Provincial capital,FR,128426,5,100;000 to 249;999
+2306,Neuchatel,Switzerland,Provincial capital,SZ,31270,7,Less than 50;000
+2307,Lucknow,India,Provincial capital,IN,2472011,2,1;000;000 to 4;999;999
+2308,Fribourg,Switzerland,Provincial capital,SZ,32827,7,Less than 50;000
+2309,Kanpur,India,Other,IN,2823249,2,1;000;000 to 4;999;999
+2310,Lausanne,Switzerland,Provincial capital,SZ,116751,5,100;000 to 249;999
+2311,Varanasi,India,Other,IN,1164404,2,1;000;000 to 4;999;999
+2312,Sion,Switzerland,Provincial capital,SZ,28045,7,Less than 50;000
+2313,Geneva,Switzerland,Provincial capital,SZ,183981,5,100;000 to 249;999
+2314,Jumla,Nepal,Provincial capital,NP,9073,7,Less than 50;000
+2315,Aosta,Italy,Provincial capital,IT,34062,7,Less than 50;000
+2316,Turin,Italy,Other,IT,865263,3,500;000 to 999;999
+2317,Dandeldhura,Nepal,Provincial capital,NP,-999,7,Less than 50;000
+2318,Basel,Switzerland,Provincial capital,SZ,164488,5,100;000 to 249;999
+2319,Dhangarhi,Nepal,Provincial capital,NP,92294,6,50;000 to 99;999
+2320,Liestal,Switzerland,Provincial capital,SZ,12832,7,Less than 50;000
+2321,Sallyan,Nepal,Provincial capital,NP,-999,7,Less than 50;000
+2322,Baglung,Nepal,Provincial capital,NP,23296,7,Less than 50;000
+2323,Aarau,Switzerland,Provincial capital,SZ,15501,7,Less than 50;000
+2324,Pokhara,Nepal,Provincial capital,NP,200000,5,100;000 to 249;999
+2325,Kathmandu,Nepal,National and provincial capital,NP,1442271,2,1;000;000 to 4;999;999
+2326,Delemont,Switzerland,Provincial capital,SZ,11315,7,Less than 50;000
+2327,Bhimphedi,Nepal,Provincial capital,NP,-999,7,Less than 50;000
+2328,Solothurn,Switzerland,Provincial capital,SZ,14853,7,Less than 50;000
+2329,Ramechhap,Nepal,Provincial capital,NP,-999,7,Less than 50;000
+2330,Luzern,Switzerland,Provincial capital,SZ,57066,6,50;000 to 99;999
+2331,Rajbiraj,Nepal,Provincial capital,NP,33061,7,Less than 50;000
+2332,Stans,Switzerland,Provincial capital,SZ,7475,7,Less than 50;000
+2333,Patna,India,Provincial capital,IN,1599920,2,1;000;000 to 4;999;999
+2334,Rajshahi,Bangladesh,Provincial capital,BG,700133,3,500;000 to 999;999
+2335,Bern,Switzerland,National and provincial capital,SZ,121631,5,100;000 to 249;999
+2336,Sarnen,Switzerland,Provincial capital,SZ,9410,7,Less than 50;000
+2337,Khulna,Bangladesh,Provincial capital,BG,1342339,2,1;000;000 to 4;999;999
+2338,Wiesbaden,Germany,Provincial capital,GM,272432,4,250;000 to 499;999
+2339,Kolkata,India,Provincial capital,IN,4631392,2,1;000;000 to 4;999;999
+2340,Punakha,Bhutan,Provincial capital,BT,-999,7,Less than 50;000
+2341,Mainz,Germany,Provincial capital,GM,184997,5,100;000 to 249;999
+2342,Diekirch,Luxembourg,Provincial capital,LU,6242,7,Less than 50;000
+2343,Grevenmacher,Luxembourg,Provincial capital,LU,3958,7,Less than 50;000
+2344,Thimphu,Bhutan,National and provincial capital,BT,98676,6,50;000 to 99;999
+2345,Arlon,Belgium,Provincial capital,BE,26179,7,Less than 50;000
+2346,Wangdue Prodrang,Bhutan,Provincial capital,BT,-999,7,Less than 50;000
+2347,Paro,Bhutan,Provincial capital,BT,2169,7,Less than 50;000
+2348,Luxembourg,Luxembourg,National and provincial capital,LU,76684,6,50;000 to 99;999
+2349,Gangtok,India,Provincial capital,IN,30700,7,Less than 50;000
+2350,Saarbrucken,Germany,Provincial capital,GM,181227,5,100;000 to 249;999
+2351,Ilam,Nepal,Provincial capital,NP,17491,7,Less than 50;000
+2352,Nancy,France,Provincial capital,FR,105334,5,100;000 to 249;999
+2353,Strasbourg,France,Provincial capital,FR,274845,4,250;000 to 499;999
+2354,Biratnagar,Nepal,Provincial capital,NP,182324,5,100;000 to 249;999
+2355,Saint Gallen,Switzerland,Provincial capital,SZ,70572,6,50;000 to 99;999
+2356,Herisau,Switzerland,Provincial capital,SZ,15438,7,Less than 50;000
+2357,Nagpur,India,Other,IN,2228018,2,1;000;000 to 4;999;999
+2358,Appenzell,Switzerland,Provincial capital,SZ,5649,7,Less than 50;000
+2359,Vaduz,Liechtenstein,National capital,LS,5197,7,Less than 50;000
+2360,Bhubaneshwar,India,Provincial capital,IN,762243,3,500;000 to 999;999
+2361,Chur,Switzerland,Provincial capital,SZ,32429,7,Less than 50;000
+2362,Vishakhapatnam,India,Other,IN,1063178,2,1;000;000 to 4;999;999
+2363,Bellinzona,Switzerland,Provincial capital,SZ,16572,7,Less than 50;000
+2364,Chennai,India,Provincial capital,IN,4328063,2,1;000;000 to 4;999;999
+2365,Pondicherry,India,Provincial capital,IN,227411,5,100;000 to 249;999
+2366,Kavaratti,India,Provincial capital,IN,10688,7,Less than 50;000
+2367,Trento,Italy,Provincial capital,IT,104946,5,100;000 to 249;999
+2368,Madurai,India,Other,IN,909908,3,500;000 to 999;999
+2369,Milan,Italy,Provincial capital,IT,1306661,2,1;000;000 to 4;999;999
+2370,Schaffhausen,Switzerland,Provincial capital,SZ,33863,7,Less than 50;000
+2371,Trivandrum,India,Provincial capital,IN,784153,3,500;000 to 999;999
+2372,Frauenfeld,Switzerland,Provincial capital,SZ,21979,7,Less than 50;000
+2373,Cochin,India,Other,IN,604696,3,500;000 to 999;999
+2374,Bregenz,Austria,Provincial capital,AU,26928,7,Less than 50;000
+2375,Daman,India,Provincial capital,IN,39737,7,Less than 50;000
+2376,Zurich,Switzerland,Provincial capital,SZ,341730,4,250;000 to 499;999
+2377,Zug,Switzerland,Provincial capital,SZ,23435,7,Less than 50;000
+2378,Silvassa,India,Provincial capital,IN,27359,7,Less than 50;000
+2379,Glarus,Switzerland,Provincial capital,SZ,5681,7,Less than 50;000
+2380,Schwyz,Switzerland,Provincial capital,SZ,14177,7,Less than 50;000
+2381,Mumbai,India,Provincial capital,IN,12691836,1,5;000;000 and greater
+2382,Altdorf,Switzerland,Provincial capital,SZ,8678,7,Less than 50;000
+2383,Pune,India,Other,IN,2935744,2,1;000;000 to 4;999;999
+2384,Hyderabad,India,Provincial capital,IN,3597816,2,1;000;000 to 4;999;999
+2385,Hermansverk,Norway,Provincial capital,NO,-999,7,Less than 50;000
+2386,Panaji,India,Provincial capital,IN,65586,6,50;000 to 99;999
+2387,Vossavangen,Norway,Provincial capital,NO,5571,7,Less than 50;000
+2388,Stavanger,Norway,Provincial capital,NO,173132,5,100;000 to 249;999
+2389,Bangalore,India,Other,IN,5104047,1,5;000;000 and greater
+2390,Arendal,Norway,Provincial capital,NO,30916,7,Less than 50;000
+2391,Mangalore,India,Other,IN,417387,4,250;000 to 499;999
+2392,Kristiansand,Norway,Provincial capital,NO,63814,6,50;000 to 99;999
+2393,Trincomalee,Sri Lanka,Provincial capital,CE,108420,5,100;000 to 249;999
+2394,Alborg,Denmark,Provincial capital,DA,122219,5,100;000 to 249;999
+2395,Anuradhapura,Sri Lanka,Provincial capital,CE,60943,6,50;000 to 99;999
+2396,Viborg,Denmark,Provincial capital,DA,34831,7,Less than 50;000
+2397,Puttalan,Sri Lanka,Provincial capital,CE,45661,7,Less than 50;000
+2398,Drammen,Norway,Provincial capital,NO,90722,6,50;000 to 99;999
+2399,Kandy,Sri Lanka,Provincial capital,CE,111701,5,100;000 to 249;999
+2400,Lillehammer,Norway,Provincial capital,NO,19096,7,Less than 50;000
+2401,Hamar,Norway,Provincial capital,NO,29479,7,Less than 50;000
+2402,Badulla,Sri Lanka,Provincial capital,CE,42230,7,Less than 50;000
+2403,Colombo,Sri Lanka,National and provincial capital,CE,648034,3,500;000 to 999;999
+2404,Oslo,Norway,National and provincial capital,NO,580000,3,500;000 to 999;999
+2405,Ratnapura,Sri Lanka,Provincial capital,CE,47832,7,Less than 50;000
+2406,Moss,Norway,Provincial capital,NO,34492,7,Less than 50;000
+2407,Galle,Sri Lanka,Provincial capital,CE,93118,6,50;000 to 99;999
+2408,Tonsberg,Norway,Provincial capital,NO,44959,7,Less than 50;000
+2409,Nakhom Phanom,Thailand,Provincial capital,TH,34595,7,Less than 50;000
+2410,Skien,Norway,Provincial capital,NO,-999,7,Less than 50;000
+2411,Vinh,Vietnam,Provincial capital,VM,-999,7,Less than 50;000
+2412,Bodo,Norway,Provincial capital,NO,34073,7,Less than 50;000
+2413,Ha Tinh,Vietnam,Provincial capital,VM,-999,7,Less than 50;000
+2414,Steinkjer,Norway,Provincial capital,NO,11113,7,Less than 50;000
+2415,Dong Hoi,Vietnam,Provincial capital,VM,31040,7,Less than 50;000
+2416,Ostersund,Sweden,Provincial capital,SW,42940,7,Less than 50;000
+2417,Muang Khammouan,Laos,Provincial capital,LA,26200,7,Less than 50;000
+2418,Vaxjo,Sweden,Provincial capital,SW,59600,6,50;000 to 99;999
+2419,Kalmar,Sweden,Provincial capital,SW,34744,7,Less than 50;000
+2420,Sakon Nakhon,Thailand,Provincial capital,TH,76237,6,50;000 to 99;999
+2421,Linkoping,Sweden,Provincial capital,SW,96732,6,50;000 to 99;999
+2422,Koror,Palau,National and provincial capital,PS,-999,7,Less than 50;000
+2423,Jonkoping,Sweden,Provincial capital,SW,83202,6,50;000 to 99;999
+2424,Davao,Philippines,Other,RP,1212504,2,1;000;000 to 4;999;999
+2425,Falun,Sweden,Provincial capital,SW,36477,7,Less than 50;000
+2426,Baerum,Norway,Provincial capital,NO,-999,7,Less than 50;000
+2427,Manado,Indonesia,Provincial capital,ID,451893,4,250;000 to 499;999
+2428,Vasteras,Sweden,Provincial capital,SW,107194,5,100;000 to 249;999
+2429,Hiroshima,Japan,Provincial capital,JA,62370,6,50;000 to 99;999
+2430,Matsuyama,Japan,Provincial capital,JA,-999,7,Less than 50;000
+2431,Karlstad,Sweden,Provincial capital,SW,59266,6,50;000 to 99;999
+2432,Orebro,Sweden,Provincial capital,SW,98573,6,50;000 to 99;999
+2433,Mariestad,Sweden,Provincial capital,SW,14891,7,Less than 50;000
+2434,Luan Chau,Vietnam,Provincial capital,VM,-999,7,Less than 50;000
+2435,Vannersborg,Sweden,Provincial capital,SW,-999,7,Less than 50;000
+2436,Phongsali,Laos,Provincial capital,LA,-999,7,Less than 50;000
+2437,Goteborg,Sweden,Provincial capital,SW,515252,3,500;000 to 999;999
+2438,Son La,Vietnam,Provincial capital,VM,19054,7,Less than 50;000
+2439,Halmstad,Sweden,Provincial capital,SW,55657,6,50;000 to 99;999
+2440,Lulea,Sweden,Provincial capital,SW,45551,7,Less than 50;000
+2441,Louang Namtha,Laos,Provincial capital,LA,3225,7,Less than 50;000
+2442,Xam Nua,Laos,Provincial capital,LA,38992,7,Less than 50;000
+2443,Umea,Sweden,Provincial capital,SW,74005,6,50;000 to 99;999
+2444,Vaasa,Finland,Provincial capital,FI,-999,7,Less than 50;000
+2445,Louangphrabang,Laos,Provincial capital,LA,47378,7,Less than 50;000
+2446,Harnosand,Sweden,Provincial capital,SW,17016,7,Less than 50;000
+2447,Shimonoseki,Japan,Other,JA,245786,5,100;000 to 249;999
+2448,Gavle,Sweden,Provincial capital,SW,68635,6,50;000 to 99;999
+2449,Mandalay,Myanmar,Provincial capital,BM,1208099,2,1;000;000 to 4;999;999
+2450,Sagaing,Myanmar,Provincial capital,BM,78739,6,50;000 to 99;999
+2451,Turku,Finland,Provincial capital,FI,175945,5,100;000 to 249;999
+2452,Taunggyi,Myanmar,Provincial capital,BM,160115,5,100;000 to 249;999
+2453,Mariehamn,Finland,Provincial capital,FI,10682,7,Less than 50;000
+2454,Uppsala,Sweden,Provincial capital,SW,127734,5,100;000 to 249;999
+2455,Chang Rai,Thailand,Provincial capital,TH,78756,6,50;000 to 99;999
+2456,Loikaw,Myanmar,Provincial capital,BM,17293,7,Less than 50;000
+2457,Nykoping,Sweden,Provincial capital,SW,27582,7,Less than 50;000
+2458,Mae Hong Son,Thailand,Provincial capital,TH,9109,7,Less than 50;000
+2459,Visby,Sweden,Provincial capital,SW,21970,7,Less than 50;000
+2460,Pegu,Myanmar,Provincial capital,BM,244376,5,100;000 to 249;999
+2461,Chumphon,Thailand,Provincial capital,TH,55835,6,50;000 to 99;999
+2462,Stockholm,Sweden,National and provincial capital,SW,1253309,2,1;000;000 to 4;999;999
+2463,Ranong,Thailand,Provincial capital,TH,24561,7,Less than 50;000
+2464,Hradec Kralove,Czech Republic,Provincial capital,EZ,95195,6,50;000 to 99;999
+2465,Surat Thani,Thailand,Provincial capital,TH,127201,5,100;000 to 249;999
+2466,Phangnga,Thailand,Provincial capital,TH,9676,7,Less than 50;000
+2467,Prague,Czech Republic,National and provincial capital,EZ,1165581,2,1;000;000 to 4;999;999
+2468,Phuket,Thailand,Provincial capital,TH,89072,6,50;000 to 99;999
+2469,Banda Aceh,Indonesia,Provincial capital,ID,250757,4,250;000 to 499;999
+2470,Brno,Czech Republic,Provincial capital,EZ,369559,4,250;000 to 499;999
+2471,Ipoh,Malaysia,Provincial capital,MY,673318,3,500;000 to 999;999
+2472,Ceske Budejovice,Czech Republic,Provincial capital,EZ,95245,6,50;000 to 99;999
+2473,Medan,Indonesia,Provincial capital,ID,1750971,2,1;000;000 to 4;999;999
+2474,Linz,Austria,Provincial capital,AU,181162,5,100;000 to 249;999
+2475,Pinang,Malaysia,Provincial capital,MY,178304,5,100;000 to 249;999
+2476,Eisenstadt,Austria,Provincial capital,AU,-999,7,Less than 50;000
+2477,Nakhon Si Thammarat,Thailand,Provincial capital,TH,120836,5,100;000 to 249;999
+2478,Vienna,Austria,National capital and provincial capital enclave,AU,1569316,2,1;000;000 to 4;999;999
+2479,Krabi,Thailand,Provincial capital,TH,31219,7,Less than 50;000
+2480,Plzen,Czech Republic,Provincial capital,EZ,164180,5,100;000 to 249;999
+2481,Phatthalung,Thailand,Provincial capital,TH,43522,7,Less than 50;000
+2482,Trang,Thailand,Provincial capital,TH,66713,6,50;000 to 99;999
+2483,Munich,Germany,Other,GM,1260391,2,1;000;000 to 4;999;999
+2484,Songkhla,Thailand,Provincial capital,TH,-999,7,Less than 50;000
+2485,Salzburg,Austria,Provincial capital,AU,150269,5,100;000 to 249;999
+2486,Satun,Thailand,Provincial capital,TH,34544,7,Less than 50;000
+2487,Innsbruck,Austria,Provincial capital,AU,112467,5,100;000 to 249;999
+2488,Kangar,Malaysia,Provincial capital,MY,63869,6,50;000 to 99;999
+2489,Alor Setar,Malaysia,Provincial capital,MY,217368,5,100;000 to 249;999
+2490,Trieste,Italy,Provincial capital,IT,211184,5,100;000 to 249;999
+2491,Venice,Italy,Other,IT,270816,4,250;000 to 499;999
+2492,Chittagong,Bangladesh,Provincial capital,BG,3920222,2,1;000;000 to 4;999;999
+2493,Magway,Myanmar,Provincial capital,BM,96954,6,50;000 to 99;999
+2494,Rijeka,Croatia,Other,HR,141172,5,100;000 to 249;999
+2495,Sittwe,Myanmar,Provincial capital,BM,177743,5,100;000 to 249;999
+2496,Rangoon,Myanmar,National and provincial capital,BM,4477638,2,1;000;000 to 4;999;999
+2497,Szombathely,Hungary,Provincial capital,HU,79534,6,50;000 to 99;999
+2498,Graz,Austria,Provincial capital,AU,222326,5,100;000 to 249;999
+2499,Pa-an,Myanmar,Provincial capital,BM,-999,7,Less than 50;000
+2500,Zalaegerszeg,Hungary,Provincial capital,HU,61898,6,50;000 to 99;999
+2501,Bassein,Myanmar,Provincial capital,BM,237089,5,100;000 to 249;999
+2502,Klagenfurt,Austria,Provincial capital,AU,90610,6,50;000 to 99;999
+2503,Moulmein,Myanmar,Provincial capital,BM,438861,4,250;000 to 499;999
+2504,Tavoy,Myanmar,Provincial capital,BM,136783,5,100;000 to 249;999
+2505,Ljubljana,Slovenia,National capital,SI,255115,4,250;000 to 499;999
+2506,Port Blair,India,Provincial capital,IN,112050,5,100;000 to 249;999
+2507,Zagreb,Croatia,National capital,HR,698966,3,500;000 to 999;999
+2508,Phayao,Thailand,Provincial capital,TH,21058,7,Less than 50;000
+2509,Berlin,Germany,National and provincial capital,GM,3426354,2,1;000;000 to 4;999;999
+2510,Potsdam,Germany,Provincial capital,GM,145292,5,100;000 to 249;999
+2511,Chiang Mai,Thailand,Provincial capital,TH,200952,5,100;000 to 249;999
+2512,Magdeburg,Germany,Provincial capital,GM,229826,5,100;000 to 249;999
+2513,Nan,Thailand,Provincial capital,TH,24670,7,Less than 50;000
+2514,Lamphun,Thailand,Provincial capital,TH,-999,7,Less than 50;000
+2515,Leipzig,Germany,Other,GM,504971,3,500;000 to 999;999
+2516,Lampang,Thailand,Provincial capital,TH,156139,5,100;000 to 249;999
+2517,Phrae,Thailand,Provincial capital,TH,38538,7,Less than 50;000
+2518,Dresden,Germany,Provincial capital,GM,486854,4,250;000 to 499;999
+2519,Uttaradit,Thailand,Provincial capital,TH,58313,6,50;000 to 99;999
+2520,Schwerin,Germany,Provincial capital,GM,96641,6,50;000 to 99;999
+2521,Sukhothai,Thailand,Provincial capital,TH,-999,7,Less than 50;000
+2522,Tak,Thailand,Provincial capital,TH,24149,7,Less than 50;000
+2523,Hillerod,Denmark,Provincial capital,DA,28313,7,Less than 50;000
+2524,Roskilde,Denmark,Provincial capital,DA,44285,7,Less than 50;000
+2525,Phetchabun,Thailand,Provincial capital,TH,50656,6,50;000 to 99;999
+2526,Uthai Thani,Thailand,Provincial capital,TH,22219,7,Less than 50;000
+2527,Malmo,Sweden,Provincial capital,SW,261548,4,250;000 to 499;999
+2528,Chainat,Thailand,Provincial capital,TH,15469,7,Less than 50;000
+2529,Soro,Denmark,Provincial capital,DA,7167,7,Less than 50;000
+2530,Sing Buri,Thailand,Provincial capital,TH,20046,7,Less than 50;000
+2531,Nykobing,Denmark,Provincial capital,DA,5596,7,Less than 50;000
+2532,Copenhagen,Denmark,National capital and provincial capital enclave,DA,1153615,2,1;000;000 to 4;999;999
+2533,Ronne,Denmark,Provincial capital,DA,13890,7,Less than 50;000
+2534,Thahanbok Lop Buri,Thailand,Provincial capital,TH,-999,7,Less than 50;000
+2535,Karlskrona,Sweden,Provincial capital,SW,32309,7,Less than 50;000
+2536,Ang Thong,Thailand,Provincial capital,TH,-999,7,Less than 50;000
+2537,Supham Buri,Thailand,Provincial capital,TH,53399,6,50;000 to 99;999
+2538,Kristianstad,Sweden,Provincial capital,SW,32188,7,Less than 50;000
+2539,Phra Nakhon Si Ayutthaya,Thailand,Provincial capital,TH,81962,6,50;000 to 99;999
+2540,Phitsanulok,Thailand,Provincial capital,TH,103427,5,100;000 to 249;999
